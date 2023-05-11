@@ -1,5 +1,6 @@
 from helper import *
 from data_loader import *
+import wandb
 
 # sys.path.append('./')
 from model.models import *
@@ -176,6 +177,15 @@ class Runner(object):
 		self.model        = self.add_model(self.p.model, self.p.score_func)
 		self.optimizer    = self.add_optimizer(self.model.parameters())
 
+		if self.p.use_wandb:
+	        wandb.init(
+	            # set the wandb project where this run will be logged
+	            project="gnn-jdm-compgcn",
+	            # track hyperparameters and run metadata
+	            config=vars(self.p),
+				name=self.p.name
+	        )
+
 
 	def add_model(self, model, score_func):
 		"""
@@ -297,6 +307,24 @@ class Runner(object):
 		right_results = self.predict(split=split, mode='head_batch')
 		results       = get_combined_results(left_results, right_results)
 		self.logger.info('[Epoch {} {}]: MRR: Tail : {:.5}, Head : {:.5}, Avg : {:.5}'.format(epoch, split, results['left_mrr'], results['right_mrr'], results['mrr']))
+		if self.p.use_wandb:
+			wandb.log(data={
+				'mrr': results['mrr'],
+				'left_mrr': results['results_mrr'],
+				'right_mrr': results['right_mrr'],
+				'mr': results['mr'],
+				'left_mr': results['results_mr'],
+				'right_mr': results['right_mr'],
+				'hits@1': results['hits@1'],
+				'left_hits@1': results['results_hits@1'],
+				'right_hits@1': results['right_hits@1'],
+			    'hits@3': results['hits@3'],
+			    'left_hits@3': results['results_hits@3'],
+			    'right_hits@3': results['right_hits@3'],
+			    'hits@10': results['hits@10'],
+			    'left_hits@10': results['results_hits@10'],
+			    'right_hits@10': results['right_hits@10'],
+				}, step=epoch)
 		return results
 
 	def predict(self, split='valid', mode='tail_batch'):
@@ -376,6 +404,8 @@ class Runner(object):
 
 		loss = np.mean(losses)
 		self.logger.info('[Epoch:{}]:  Training Loss:{:.4}\n'.format(epoch, loss))
+		if self.p.use_wandb:
+			wandb.log(data={'loss':loss}, step=epoch)
 		return loss
 
 
@@ -434,6 +464,7 @@ if __name__ == '__main__':
 	parser.add_argument('-batch',           dest='batch_size',      default=128,    type=int,       help='Batch size')
 	parser.add_argument('-gamma',		type=float,             default=40.0,			help='Margin')
 	parser.add_argument('-gpu',		type=str,               default='0',			help='Set GPU Ids : Eg: For CPU = -1, For Single GPU = 0')
+	parser.add_argument('-use-wandb',		type=bool,               default=False,			help='Set True for logging this exp on WandB')
 	parser.add_argument('-epoch',		dest='max_epochs', 	type=int,       default=500,  	help='Number of epochs')
 	parser.add_argument('-l2',		type=float,             default=0.0,			help='L2 Regularization for Optimizer')
 	parser.add_argument('-lr',		type=float,             default=0.001,			help='Starting Learning Rate')

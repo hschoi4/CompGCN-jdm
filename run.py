@@ -178,7 +178,7 @@ class Runner(object):
 		self.optimizer    = self.add_optimizer(self.model.parameters())
 
 		if self.p.use_wandb:
-	        wandb.init(
+			wandb.init(
 	            # set the wandb project where this run will be logged
 	            project="gnn-jdm-compgcn",
 	            # track hyperparameters and run metadata

@@ -367,6 +367,7 @@ class Runner(object):
 					results['hits@{}'.format(k+1)] = torch.numel(ranks[ranks <= (k+1)]) + results.get('hits@{}'.format(k+1), 0.0)
 
 				if step % 100 == 0:
+					...
 					# self.logger.info('[{}, {} Step {}]\t{}'.format(split.title(), mode.title(), step, self.p.name))
 
 		return results
@@ -400,6 +401,7 @@ class Runner(object):
 			losses.append(loss.item())
 
 			if step % 100 == 0:
+				...
 				# self.logger.info('[E:{}| {}]: Train Loss:{:.5},  Val MRR:{:.5}\t{}'.format(epoch, step, np.mean(losses), self.best_val_mrr, self.p.name))
 
 		loss = np.mean(losses)

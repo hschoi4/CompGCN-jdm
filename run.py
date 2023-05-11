@@ -161,9 +161,9 @@ class Runner(object):
 
 		"""
 		self.p			= params
-		self.logger		= get_logger(self.p.name, self.p.log_dir, self.p.config_dir)
+		# self.logger		= get_logger(self.p.name, self.p.log_dir, self.p.config_dir)
 
-		self.logger.info(vars(self.p))
+		# self.logger.info(vars(self.p))
 		pprint(vars(self.p))
 
 		if self.p.gpu != '-1' and torch.cuda.is_available():
@@ -306,7 +306,7 @@ class Runner(object):
 		left_results  = self.predict(split=split, mode='tail_batch')
 		right_results = self.predict(split=split, mode='head_batch')
 		results       = get_combined_results(left_results, right_results)
-		self.logger.info('[Epoch {} {}]: MRR: Tail : {:.5}, Head : {:.5}, Avg : {:.5}'.format(epoch, split, results['left_mrr'], results['right_mrr'], results['mrr']))
+		# self.logger.info('[Epoch {} {}]: MRR: Tail : {:.5}, Head : {:.5}, Avg : {:.5}'.format(epoch, split, results['left_mrr'], results['right_mrr'], results['mrr']))
 		if self.p.use_wandb:
 			wandb.log(data={
 				'mrr': results['mrr'],
@@ -367,7 +367,7 @@ class Runner(object):
 					results['hits@{}'.format(k+1)] = torch.numel(ranks[ranks <= (k+1)]) + results.get('hits@{}'.format(k+1), 0.0)
 
 				if step % 100 == 0:
-					self.logger.info('[{}, {} Step {}]\t{}'.format(split.title(), mode.title(), step, self.p.name))
+					# self.logger.info('[{}, {} Step {}]\t{}'.format(split.title(), mode.title(), step, self.p.name))
 
 		return results
 
@@ -400,10 +400,10 @@ class Runner(object):
 			losses.append(loss.item())
 
 			if step % 100 == 0:
-				self.logger.info('[E:{}| {}]: Train Loss:{:.5},  Val MRR:{:.5}\t{}'.format(epoch, step, np.mean(losses), self.best_val_mrr, self.p.name))
+				# self.logger.info('[E:{}| {}]: Train Loss:{:.5},  Val MRR:{:.5}\t{}'.format(epoch, step, np.mean(losses), self.best_val_mrr, self.p.name))
 
 		loss = np.mean(losses)
-		self.logger.info('[Epoch:{}]:  Training Loss:{:.4}\n'.format(epoch, loss))
+		# self.logger.info('[Epoch:{}]:  Training Loss:{:.4}\n'.format(epoch, loss))
 		if self.p.use_wandb:
 			wandb.log(data={'loss':loss}, step=epoch)
 		return loss
@@ -424,7 +424,7 @@ class Runner(object):
 
 		if self.p.restore:
 			self.load_model(save_path)
-			self.logger.info('Successfully Loaded previous model')
+			# self.logger.info('Successfully Loaded previous model')
 
 		kill_cnt = 0
 		for epoch in range(self.p.max_epochs):
@@ -441,14 +441,14 @@ class Runner(object):
 				kill_cnt += 1
 				if kill_cnt % 10 == 0 and self.p.gamma > 5:
 					self.p.gamma -= 5
-					self.logger.info('Gamma decay on saturation, updated value of gamma: {}'.format(self.p.gamma))
+					# self.logger.info('Gamma decay on saturation, updated value of gamma: {}'.format(self.p.gamma))
 				if kill_cnt > 25:
-					self.logger.info("Early Stopping!!")
+					# self.logger.info("Early Stopping!!")
 					break
 
-			self.logger.info('[Epoch {}]: Training Loss: {:.5}, Valid MRR: {:.5}\n\n'.format(epoch, train_loss, self.best_val_mrr))
+			# self.logger.info('[Epoch {}]: Training Loss: {:.5}, Valid MRR: {:.5}\n\n'.format(epoch, train_loss, self.best_val_mrr))
 
-		self.logger.info('Loading best model, Evaluating on Test data')
+		# self.logger.info('Loading best model, Evaluating on Test data')
 		self.load_model(save_path)
 		test_results = self.evaluate('test', epoch)
 

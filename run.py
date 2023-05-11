@@ -8,12 +8,12 @@ class Runner(object):
 
 	def load_data(self):
 		"""
-		Reading in raw triples and converts it into a standard format. 
+		Reading in raw triples and converts it into a standard format.
 
 		Parameters
 		----------
 		self.p.dataset:         Takes in the name of the dataset (FB15k-237)
-		
+
 		Returns
 		-------
 		self.ent2id:            Entity to unique identifier mapping
@@ -29,17 +29,33 @@ class Runner(object):
 
 		"""
 
-		ent_set, rel_set = OrderedSet(), OrderedSet()
-		for split in ['train', 'test', 'valid']:
-			for line in open('./data/{}/{}.txt'.format(self.p.dataset, split)):
-				sub, rel, obj = map(str.lower, line.strip().split('\t'))
-				ent_set.add(sub)
-				rel_set.add(rel)
-				ent_set.add(obj)
+		# ent_set, rel_set = OrderedSet(), OrderedSet()
+		# for split in ['train', 'test', 'valid']:
+		# 	for line in open('./data/{}/{}.txt'.format(self.p.dataset, split)):
+		# 		sub, rel, obj = map(str.lower, line.strip().split('\t'))
+		# 		ent_set.add(sub)
+		# 		rel_set.add(rel)
+		# 		ent_set.add(obj)
+		#
+		# self.ent2id = {ent: idx for idx, ent in enumerate(ent_set)}
+		# self.rel2id = {rel: idx for idx, rel in enumerate(rel_set)}
+		self.ent2id = {}
+		with open('./data/{}/{}.txt'.format(self.p.dataset, 'entities')) as f:
+			for line in f.readlines():
+				tokens = line.strip().split()
+				_id = int(tokens.pop(0))
+				_ent = ' '.join(tokens)
+				self.ent2id[_ent] = _id
 
-		self.ent2id = {ent: idx for idx, ent in enumerate(ent_set)}
-		self.rel2id = {rel: idx for idx, rel in enumerate(rel_set)}
-		self.rel2id.update({rel+'_reverse': idx+len(self.rel2id) for idx, rel in enumerate(rel_set)})
+		self.rel2id = {}
+		with open('./data/{}/{}.txt'.format(self.p.dataset, 'relations')) as f:
+			for line in f.readlines():
+				tokens = line.strip().split()
+				_id = int(tokens.pop(0))
+				_rel = ' '.join(tokens)
+				self.rel2id[_rel] = _id
+
+		self.rel2id.update({rel+'_reverse': idx+len(self.rel2id) for rel, idx, in self.rel2id.items()})
 
 		self.id2ent = {idx: ent for ent, idx in self.ent2id.items()}
 		self.id2rel = {idx: rel for rel, idx in self.rel2id.items()}
@@ -53,11 +69,11 @@ class Runner(object):
 
 		for split in ['train', 'test', 'valid']:
 			for line in open('./data/{}/{}.txt'.format(self.p.dataset, split)):
-				sub, rel, obj = map(str.lower, line.strip().split('\t'))
-				sub, rel, obj = self.ent2id[sub], self.rel2id[rel], self.ent2id[obj]
+				sub, rel, obj = map(int, line.strip().split('\t'))
+				# sub, rel, obj = self.ent2id[sub], self.rel2id[rel], self.ent2id[obj]
 				self.data[split].append((sub, rel, obj))
 
-				if split == 'train': 
+				if split == 'train':
 					sr2o[(sub, rel)].add(obj)
 					sr2o[(obj, rel+self.p.num_rel)].add(sub)
 
@@ -108,11 +124,11 @@ class Runner(object):
 
 		Parameters
 		----------
-		
+
 		Returns
 		-------
 		Constructs the adjacency matrix for GCN
-		
+
 		"""
 		edge_index, edge_type = [], []
 
@@ -137,11 +153,11 @@ class Runner(object):
 		Parameters
 		----------
 		params:         List of hyper-parameters of the model
-		
+
 		Returns
 		-------
 		Creates computational graph and optimizer
-		
+
 		"""
 		self.p			= params
 		self.logger		= get_logger(self.p.name, self.p.log_dir, self.p.config_dir)
@@ -168,11 +184,11 @@ class Runner(object):
 		Parameters
 		----------
 		model_name:     Contains the model name to be created
-		
+
 		Returns
 		-------
 		Creates the computational graph for model and initializes it
-		
+
 		"""
 		model_name = '{}_{}'.format(model, score_func)
 
@@ -191,11 +207,11 @@ class Runner(object):
 		Parameters
 		----------
 		parameters:         The parameters of the model
-		
+
 		Returns
 		-------
 		Returns an optimizer for learning the parameters of the model
-		
+
 		"""
 		return torch.optim.Adam(parameters, lr=self.p.lr, weight_decay=self.p.l2)
 
@@ -208,7 +224,7 @@ class Runner(object):
 		batch: 		the batch to process
 		split: (string) If split == 'train', 'valid' or 'test' split
 
-		
+
 		Returns
 		-------
 		Head, Relation, Tails, labels
@@ -228,7 +244,7 @@ class Runner(object):
 		Parameters
 		----------
 		save_path: path where the model is saved
-		
+
 		Returns
 		-------
 		"""
@@ -248,14 +264,14 @@ class Runner(object):
 		Parameters
 		----------
 		load_path: path to the saved model
-		
+
 		Returns
 		-------
 		"""
 		state			= torch.load(load_path)
 		state_dict		= state['state_dict']
 		self.best_val		= state['best_val']
-		self.best_val_mrr	= self.best_val['mrr'] 
+		self.best_val_mrr	= self.best_val['mrr']
 
 		self.model.load_state_dict(state_dict)
 		self.optimizer.load_state_dict(state['optimizer'])
@@ -268,7 +284,7 @@ class Runner(object):
 		----------
 		split: (string) If split == 'valid' then evaluate on the validation set, else the test set
 		epoch: (int) Current epoch count
-		
+
 		Returns
 		-------
 		resutls:			The evaluation results containing the following:
@@ -291,7 +307,7 @@ class Runner(object):
 		----------
 		split: (string) 	If split == 'valid' then evaluate on the validation set, else the test set
 		mode: (string):		Can be 'head_batch' or 'tail_batch'
-		
+
 		Returns
 		-------
 		resutls:			The evaluation results containing the following:
@@ -335,7 +351,7 @@ class Runner(object):
 		Parameters
 		----------
 		epoch: current epoch count
-		
+
 		Returns
 		-------
 		loss: The loss value after the completion of one epoch
@@ -369,7 +385,7 @@ class Runner(object):
 
 		Parameters
 		----------
-		
+
 		Returns
 		-------
 		"""
@@ -394,9 +410,9 @@ class Runner(object):
 			else:
 				kill_cnt += 1
 				if kill_cnt % 10 == 0 and self.p.gamma > 5:
-					self.p.gamma -= 5 
+					self.p.gamma -= 5
 					self.logger.info('Gamma decay on saturation, updated value of gamma: {}'.format(self.p.gamma))
-				if kill_cnt > 25: 
+				if kill_cnt > 25:
 					self.logger.info("Early Stopping!!")
 					break
 
@@ -410,7 +426,7 @@ if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description='Parser For Arguments', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
 	parser.add_argument('-name',		default='testrun',					help='Set run name for saving/restoring models')
-	parser.add_argument('-data',		dest='dataset',         default='FB15k-237',            help='Dataset to use, default: FB15k-237')
+	parser.add_argument('-data',		dest='dataset',         default='RezoJDM16k',            help='Dataset to use, default: FB15k-237')
 	parser.add_argument('-model',		dest='model',		default='compgcn',		help='Model Name')
 	parser.add_argument('-score_func',	dest='score_func',	default='conve',		help='Score Function for Link prediction')
 	parser.add_argument('-opn',             dest='opn',             default='corr',                 help='Composition Operation to be used in CompGCN')

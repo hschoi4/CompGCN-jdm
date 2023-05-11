@@ -21,10 +21,10 @@ def set_gpu(gpus):
 	Parameters
 	----------
 	gpus:           List of GPUs to be used for the run
-	
+
 	Returns
 	-------
-		
+
 	"""
 	os.environ["CUDA_DEVICE_ORDER"]    = "PCI_BUS_ID"
 	os.environ["CUDA_VISIBLE_DEVICES"] = gpus
@@ -38,11 +38,11 @@ def get_logger(name, log_dir, config_dir):
 	name:           Name of the logger file
 	log_dir:        Directory where logger file needs to be stored
 	config_dir:     Directory from where log_config.json needs to be read
-	
+
 	Returns
 	-------
 	A logger object which writes to both file and stdout
-		
+
 	"""
 	config_dict = json.load(open( config_dir + 'log_config.json'))
 	config_dict['handlers']['file_handler']['filename'] = log_dir + name.replace('/', '-')
@@ -74,7 +74,7 @@ def get_combined_results(left_results, right_results):
 	return results
 
 def get_param(shape):
-	param = Parameter(torch.Tensor(*shape)); 	
+	param = Parameter(torch.Tensor(*shape));
 	xavier_normal_(param.data)
 	return param
 
@@ -84,11 +84,14 @@ def com_mult(a, b):
 	return torch.stack([r1 * r2 - i1 * i2, r1 * i2 + i1 * r2], dim = -1)
 
 def conj(a):
+	print(a.shape)
 	a[..., 1] = -a[..., 1]
 	return a
 
 def cconv(a, b):
-	return torch.irfft(com_mult(torch.rfft(a, 1), torch.rfft(b, 1)), 1, signal_sizes=(a.shape[-1],))
+	return torch.fft.irfft(com_mult(torch.fft.rfft(a, 1), torch.fft.rfft(b, 1)), 1, signal_sizes=(a.shape[-1],))
 
 def ccorr(a, b):
-	return torch.irfft(com_mult(conj(torch.rfft(a, 1)), torch.rfft(b, 1)), 1, signal_sizes=(a.shape[-1],))
+	print('a', a.shape, a.dtype, 'b', b.shape, b.dtype)
+	raise IOError
+	return torch.fft.irfft(com_mult(conj(torch.fft.rfft(a, 1)), torch.fft.rfft(b, 1)), 1, signal_sizes=(a.shape[-1],))

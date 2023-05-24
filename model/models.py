@@ -71,9 +71,9 @@ class CompGCN_TransE(CompGCNBase):
 
 class TransE(BaseModel):
 
-	def __init__(self, edge_index, edge_type, num_rel, params=None):
+	def __init__(self, edge_index, edge_type, params=None):
 		super().__init__(params)
-
+		num_rel = params.num_rel
 		self.edge_index		= edge_index
 		self.edge_type		= edge_type
 		self.p.gcn_dim		= self.p.embed_dim if self.p.gcn_layer == 1 else self.p.gcn_dim
@@ -91,6 +91,11 @@ class TransE(BaseModel):
 	def forward(self, sub, rel):
 
 		all_ent	= self.init_embed
+		r	= self.init_rel if self.p.score_func != 'transe' else torch.cat([self.init_rel, -self.init_rel], dim=0)
+
+
+		sub_emb	= torch.index_select(all_ent, 0, sub)
+		rel_emb = torch.index_select(r, 0, rel)
 		obj_emb				= sub_emb + rel_emb
 
 		x	= self.p.gamma - torch.norm(obj_emb.unsqueeze(1) - all_ent, p=1, dim=2)

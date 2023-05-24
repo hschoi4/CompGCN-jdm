@@ -167,6 +167,7 @@ class Runner(object):
 		# self.logger.info(vars(self.p))
 		pprint(vars(self.p))
 
+
 		if self.p.gpu != '-1' and torch.cuda.is_available():
 			self.device = torch.device('cuda')
 			torch.cuda.set_rng_state(torch.cuda.get_rng_state())
@@ -224,7 +225,7 @@ class Runner(object):
 		Returns an optimizer for learning the parameters of the model
 
 		"""
-		return torch.optim.Adam(parameters, lr=self.p.lr, weight_decay=self.p.l2)
+		return torch.optim.SGD(parameters, lr=self.p.lr, weight_decay=self.p.l2)
 
 	def read_batch(self, batch, split):
 		"""
@@ -311,19 +312,19 @@ class Runner(object):
 		if self.p.use_wandb:
 			wandb.log(data={
 				'mrr': results['mrr'],
-				'left_mrr': results['results_mrr'],
+				'left_mrr': results['left_mrr'],
 				'right_mrr': results['right_mrr'],
 				'mr': results['mr'],
-				'left_mr': results['results_mr'],
+				'left_mr': results['left_mr'],
 				'right_mr': results['right_mr'],
 				'hits@1': results['hits@1'],
-				'left_hits@1': results['results_hits@1'],
+				'left_hits@1': results['left_hits@1'],
 				'right_hits@1': results['right_hits@1'],
 			    'hits@3': results['hits@3'],
-			    'left_hits@3': results['results_hits@3'],
+			    'left_hits@3': results['left_hits@3'],
 			    'right_hits@3': results['right_hits@3'],
 			    'hits@10': results['hits@10'],
-			    'left_hits@10': results['results_hits@10'],
+			    'left_hits@10': results['left_hits@10'],
 			    'right_hits@10': results['right_hits@10'],
 				}, step=epoch)
 		return results

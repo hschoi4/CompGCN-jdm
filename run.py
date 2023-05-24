@@ -1,6 +1,7 @@
 from helper import *
 from data_loader import *
 import wandb
+from tqdm import tqdm, trange
 
 # sys.path.append('./')
 from model.models import *
@@ -26,7 +27,7 @@ class Runner(object):
 		self.data['train']:     Stores the triples corresponding to training dataset
 		self.data['valid']:     Stores the triples corresponding to validation dataset
 		self.data['test']:      Stores the triples corresponding to test dataset
-		self.data_iter:		The dataloader for different data splits
+		self.data_iter:			The dataloader for different data splits
 
 		"""
 
@@ -387,9 +388,12 @@ class Runner(object):
 		"""
 		self.model.train()
 		losses = []
-		train_iter = iter(self.data_iter['train'])
+		train_iter = self.data_iter['train']
+		#train_iter = iter(self.data_iter['train'])
 
-		for step, batch in enumerate(train_iter):
+		for step, batch in enumerate(tqdm(train_iter)):
+			#exec(input('here:'))
+
 			self.optimizer.zero_grad()
 			sub, rel, obj, label = self.read_batch(batch, 'train')
 
@@ -429,7 +433,8 @@ class Runner(object):
 			# self.logger.info('Successfully Loaded previous model')
 
 		kill_cnt = 0
-		for epoch in range(self.p.max_epochs):
+		for epoch in trange(self.p.max_epochs):
+			print(f"epoch {epoch}")
 			train_loss  = self.run_epoch(epoch, val_mrr)
 			val_results = self.evaluate('valid', epoch)
 
@@ -466,7 +471,7 @@ if __name__ == '__main__':
 	parser.add_argument('-batch',           dest='batch_size',      default=128,    type=int,       help='Batch size')
 	parser.add_argument('-gamma',		type=float,             default=40.0,			help='Margin')
 	parser.add_argument('-gpu',		type=str,               default='0',			help='Set GPU Ids : Eg: For CPU = -1, For Single GPU = 0')
-	parser.add_argument('-use-wandb',		type=bool,               default=False,			help='Set True for logging this exp on WandB')
+	parser.add_argument('-use_wandb', type=str2bool, nargs='?', const=True, default=False,help='Set True for logging this exp on WandB')
 	parser.add_argument('-epoch',		dest='max_epochs', 	type=int,       default=500,  	help='Number of epochs')
 	parser.add_argument('-l2',		type=float,             default=0.0,			help='L2 Regularization for Optimizer')
 	parser.add_argument('-lr',		type=float,             default=0.001,			help='Starting Learning Rate')

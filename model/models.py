@@ -12,7 +12,7 @@ class BaseModel(torch.nn.Module):
 
 	def loss(self, pred, true_label):
 		return self.bceloss(pred, true_label)
-		
+
 class CompGCNBase(BaseModel):
 	def __init__(self, edge_index, edge_type, num_rel, params=None):
 		super(CompGCNBase, self).__init__(params)
@@ -62,10 +62,42 @@ class CompGCN_TransE(CompGCNBase):
 		sub_emb, rel_emb, all_ent	= self.forward_base(sub, rel, self.drop, self.drop)
 		obj_emb				= sub_emb + rel_emb
 
-		x	= self.p.gamma - torch.norm(obj_emb.unsqueeze(1) - all_ent, p=1, dim=2)		
+		x	= self.p.gamma - torch.norm(obj_emb.unsqueeze(1) - all_ent, p=1, dim=2)
 		score	= torch.sigmoid(x)
 
 		return score
+
+
+
+class TransE(BaseModel):
+
+	def __init__(self, edge_index, edge_type, num_rel, params=None):
+		super().__init__(params)
+
+		self.edge_index		= edge_index
+		self.edge_type		= edge_type
+		self.p.gcn_dim		= self.p.embed_dim if self.p.gcn_layer == 1 else self.p.gcn_dim
+		self.init_embed		= get_param((self.p.num_ent,   self.p.init_dim))
+		self.device		= self.edge_index.device
+
+		if self.p.num_bases > 0:
+			self.init_rel  = get_param((self.p.num_bases,   self.p.init_dim))
+		else:
+			if self.p.score_func == 'transe': 	self.init_rel = get_param((num_rel,   self.p.init_dim))
+			else: 					self.init_rel = get_param((num_rel*2, self.p.init_dim))
+
+		self.register_parameter('bias', Parameter(torch.zeros(self.p.num_ent)))
+
+	def forward(self, sub, rel):
+
+		all_ent	= self.init_embed
+		obj_emb				= sub_emb + rel_emb
+
+		x	= self.p.gamma - torch.norm(obj_emb.unsqueeze(1) - all_ent, p=1, dim=2)
+		score	= torch.sigmoid(x)
+
+		return score
+
 
 class CompGCN_DistMult(CompGCNBase):
 	def __init__(self, edge_index, edge_type, params=None):
@@ -90,7 +122,7 @@ class CompGCN_ConvE(CompGCNBase):
 		self.bn0		= torch.nn.BatchNorm2d(1)
 		self.bn1		= torch.nn.BatchNorm2d(self.p.num_filt)
 		self.bn2		= torch.nn.BatchNorm1d(self.p.embed_dim)
-		
+
 		self.hidden_drop	= torch.nn.Dropout(self.p.hid_drop)
 		self.hidden_drop2	= torch.nn.Dropout(self.p.hid_drop2)
 		self.feature_drop	= torch.nn.Dropout(self.p.feat_drop)

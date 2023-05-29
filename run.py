@@ -8,74 +8,82 @@ class Runner(object):
 
 	def load_data(self):
 		"""
-		Reading in raw triples and converts it into a standard format.
+            Reading in raw triples and converts it into a standard format.
 
-		Parameters
-		----------
-		self.p.dataset:         Takes in the name of the dataset (FB15k-237)
+            Parameters
+            ----------
+            self.p.dataset:         Takes in the name of the dataset (FB15k-237)
 
-		Returns
-		-------
-		self.ent2id:            Entity to unique identifier mapping
-		self.id2rel:            Inverse mapping of self.ent2id
-		self.rel2id:            Relation to unique identifier mapping
-		self.num_ent:           Number of entities in the Knowledge graph
-		self.num_rel:           Number of relations in the Knowledge graph
-		self.embed_dim:         Embedding dimension used
-		self.data['train']:     Stores the triples corresponding to training dataset
-		self.data['valid']:     Stores the triples corresponding to validation dataset
-		self.data['test']:      Stores the triples corresponding to test dataset
-		self.data_iter:		The dataloader for different data splits
+            Returns
+            -------
+            self.ent2id:            Entity to unique identifier mapping
+            self.id2rel:            Inverse mapping of self.ent2id
+            self.rel2id:            Relation to unique identifier mapping
+            self.num_ent:           Number of entities in the Knowledge graph
+            self.num_rel:           Number of relations in the Knowledge graph
+            self.embed_dim:         Embedding dimension used
+            self.data['train']:     Stores the triples corresponding to training dataset
+            self.data['valid']:     Stores the triples corresponding to validation dataset
+            self.data['test']:      Stores the triples corresponding to test dataset
+            self.data_iter:			The dataloader for different data splits
 
-		"""
+        """
+		custom_data = self.p.dataset == "RezoJDM16k"
 
-		# ent_set, rel_set = OrderedSet(), OrderedSet()
-		# for split in ['train', 'test', 'valid']:
-		# 	for line in open('./data/{}/{}.txt'.format(self.p.dataset, split)):
-		# 		sub, rel, obj = map(str.lower, line.strip().split('\t'))
-		# 		ent_set.add(sub)
-		# 		rel_set.add(rel)
-		# 		ent_set.add(obj)
-		#
-		# self.ent2id = {ent: idx for idx, ent in enumerate(ent_set)}
-		# self.rel2id = {rel: idx for idx, rel in enumerate(rel_set)}
-		self.ent2id = {}
-		with open('./data/{}/{}.txt'.format(self.p.dataset, 'entities')) as f:
-			for line in f.readlines():
-				tokens = line.strip().split()
-				_id = int(tokens.pop(0))
-				_ent = ' '.join(tokens)
-				self.ent2id[_ent] = _id
+		if not custom_data:
+			ent_set, rel_set = OrderedSet(), OrderedSet()
+			for split in ['train', 'test', 'valid']:
+				for line in open('./data/{}/{}.txt'.format(self.p.dataset, split)):
+					sub, rel, obj = map(str.lower, line.strip().split('\t'))
+					ent_set.add(sub)
+					rel_set.add(rel)
+					ent_set.add(obj)
 
-		self.rel2id = {}
-		with open('./data/{}/{}.txt'.format(self.p.dataset, 'relations')) as f:
-			for line in f.readlines():
-				tokens = line.strip().split()
-				_id = int(tokens.pop(0))
-				_rel = ' '.join(tokens)
-				self.rel2id[_rel] = _id
+			self.ent2id = {ent: idx for idx, ent in enumerate(ent_set)}
+			self.rel2id = {rel: idx for idx, rel in enumerate(rel_set)}
+		else:
+			# CustomData: RezoJDM16k
 
-		self.rel2id.update({rel+'_reverse': idx+len(self.rel2id) for rel, idx, in self.rel2id.items()})
+			self.ent2id = {}
+			with open('./data/{}/{}.txt'.format(self.p.dataset, 'entities')) as f:
+				for line in f.readlines():
+					tokens = line.strip().split()
+					_id = int(tokens.pop(0))
+					_ent = ' '.join(tokens)
+					self.ent2id[_ent] = _id
+			self.rel2id = {}
+			with open('./data/{}/{}.txt'.format(self.p.dataset, 'relations')) as f:
+				for line in f.readlines():
+					tokens = line.strip().split()
+					_id = int(tokens.pop(0))
+					_rel = ' '.join(tokens)
+					self.rel2id[_rel] = _id
+
+		self.rel2id.update({rel + '_reverse': idx + len(self.rel2id) for rel, idx, in self.rel2id.items()})
 
 		self.id2ent = {idx: ent for ent, idx in self.ent2id.items()}
 		self.id2rel = {idx: rel for rel, idx in self.rel2id.items()}
 
-		self.p.num_ent		= len(self.ent2id)
-		self.p.num_rel		= len(self.rel2id) // 2
-		self.p.embed_dim	= self.p.k_w * self.p.k_h if self.p.embed_dim is None else self.p.embed_dim
+		self.p.num_ent = len(self.ent2id)
+		self.p.num_rel = len(self.rel2id) // 2
+		self.p.embed_dim = self.p.k_w * self.p.k_h if self.p.embed_dim is None else self.p.embed_dim
 
 		self.data = ddict(list)
 		sr2o = ddict(set)
 
 		for split in ['train', 'test', 'valid']:
 			for line in open('./data/{}/{}.txt'.format(self.p.dataset, split)):
-				sub, rel, obj = map(int, line.strip().split('\t'))
-				# sub, rel, obj = self.ent2id[sub], self.rel2id[rel], self.ent2id[obj]
+				if custom_data:
+					sub, rel, obj = map(int, line.strip().split('\t'))
+				else:
+					# Map things from node names to node IDs
+					sub, rel, obj = map(str.lower, line.strip().split('\t'))
+					sub, rel, obj = self.ent2id[sub], self.rel2id[rel], self.ent2id[obj]
 				self.data[split].append((sub, rel, obj))
 
 				if split == 'train':
 					sr2o[(sub, rel)].add(obj)
-					sr2o[(obj, rel+self.p.num_rel)].add(sub)
+					sr2o[(obj, rel + self.p.num_rel)].add(sub)
 
 		self.data = dict(self.data)
 
@@ -83,40 +91,23 @@ class Runner(object):
 		for split in ['test', 'valid']:
 			for sub, rel, obj in self.data[split]:
 				sr2o[(sub, rel)].add(obj)
-				sr2o[(obj, rel+self.p.num_rel)].add(sub)
+				sr2o[(obj, rel + self.p.num_rel)].add(sub)
 
 		self.sr2o_all = {k: list(v) for k, v in sr2o.items()}
-		self.triples  = ddict(list)
+		self.triples = ddict(list)
 
 		for (sub, rel), obj in self.sr2o.items():
-			self.triples['train'].append({'triple':(sub, rel, -1), 'label': self.sr2o[(sub, rel)], 'sub_samp': 1})
+			self.triples['train'].append({'triple': (sub, rel, -1), 'label': self.sr2o[(sub, rel)], 'sub_samp': 1})
 
 		for split in ['test', 'valid']:
 			for sub, rel, obj in self.data[split]:
 				rel_inv = rel + self.p.num_rel
-				self.triples['{}_{}'.format(split, 'tail')].append({'triple': (sub, rel, obj), 	   'label': self.sr2o_all[(sub, rel)]})
-				self.triples['{}_{}'.format(split, 'head')].append({'triple': (obj, rel_inv, sub), 'label': self.sr2o_all[(obj, rel_inv)]})
+				self.triples['{}_{}'.format(split, 'tail')].append(
+					{'triple': (sub, rel, obj), 'label': self.sr2o_all[(sub, rel)]})
+				self.triples['{}_{}'.format(split, 'head')].append(
+					{'triple': (obj, rel_inv, sub), 'label': self.sr2o_all[(obj, rel_inv)]})
 
 		self.triples = dict(self.triples)
-
-		def get_data_loader(dataset_class, split, batch_size, shuffle=True):
-			return  DataLoader(
-					dataset_class(self.triples[split], self.p),
-					batch_size      = batch_size,
-					shuffle         = shuffle,
-					num_workers     = max(0, self.p.num_workers),
-					collate_fn      = dataset_class.collate_fn
-				)
-
-		self.data_iter = {
-			'train':    	get_data_loader(TrainDataset, 'train', 	    self.p.batch_size),
-			'valid_head':   get_data_loader(TestDataset,  'valid_head', self.p.batch_size),
-			'valid_tail':   get_data_loader(TestDataset,  'valid_tail', self.p.batch_size),
-			'test_head':   	get_data_loader(TestDataset,  'test_head',  self.p.batch_size),
-			'test_tail':   	get_data_loader(TestDataset,  'test_tail',  self.p.batch_size),
-		}
-
-		self.edge_index, self.edge_type = self.construct_adj()
 
 	def construct_adj(self):
 		"""

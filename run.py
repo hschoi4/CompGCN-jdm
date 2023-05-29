@@ -109,6 +109,25 @@ class Runner(object):
 
 		self.triples = dict(self.triples)
 
+		def get_data_loader(dataset_class, split, batch_size, shuffle=True):
+			return DataLoader(
+				dataset_class(self.triples[split], self.p),
+				batch_size=batch_size,
+				shuffle=shuffle,
+				num_workers=max(0, self.p.num_workers),
+				collate_fn=dataset_class.collate_fn
+			)
+
+		self.data_iter = {
+			'train': get_data_loader(TrainDataset, 'train', self.p.batch_size),
+			'valid_head': get_data_loader(TestDataset, 'valid_head', self.p.batch_size),
+			'valid_tail': get_data_loader(TestDataset, 'valid_tail', self.p.batch_size),
+			'test_head': get_data_loader(TestDataset, 'test_head', self.p.batch_size),
+			'test_tail': get_data_loader(TestDataset, 'test_tail', self.p.batch_size),
+		}
+
+		self.edge_index, self.edge_type = self.construct_adj()
+
 	def construct_adj(self):
 		"""
 		Constructor of the runner class

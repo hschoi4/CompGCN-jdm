@@ -392,7 +392,7 @@ class Runner(object):
 
         return results
 
-    def run_epoch(self, epoch, val_mrr=0):
+    def run_epoch(self, epoch):
         """
             Function to run one epoch of training
 
@@ -449,9 +449,10 @@ class Runner(object):
             self.logger.info('Successfully Loaded previous model')
 
         kill_cnt = 0
+        epoch = 0
         for epoch in trange(self.p.max_epochs):
             print(f"epoch {epoch}")
-            train_loss = self.run_epoch(epoch, val_mrr)
+            train_loss = self.run_epoch(epoch)
             val_results = self.evaluate('valid', epoch)
 
             if val_results['mrr'] > self.best_val_mrr:
@@ -469,12 +470,13 @@ class Runner(object):
                     self.logger.info("Early Stopping!!")
                     break
 
-        self.logger.info('[Epoch {}]: Training Loss: {:.5}, Valid MRR: {:.5}\n\n'.format(epoch, train_loss, self.best_val_mrr))
+            self.logger.info(f'[Epoch {epoch}]: Training Loss: {train_loss:.5}, Valid MRR: {self.best_val_mrr:.5}\n\n')
 
         self.logger.info('Loading best model, Evaluating on Test data')
         self.load_model(save_path)
         test_results = self.evaluate('test', epoch)
         pprint(test_results)
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Parser For Arguments',

@@ -2,6 +2,7 @@ from helper import *
 from tqdm import tqdm, trange
 from data_loader import *
 import wandb
+from carbontracker.tracker import CarbonTracker
 
 # sys.path.append('./')
 from model.models import *
@@ -446,7 +447,12 @@ class Runner(object):
             self.logger.info('Successfully Loaded previous model')
 
         kill_cnt = 0
+
+        tracker = CarbonTracker(epochs=self.p.max_epochs)
+
         for epoch in range(self.p.max_epochs):
+            tracker.epoch_start()
+
             train_loss  = self.run_epoch(epoch, val_mrr)
             val_results = self.evaluate('valid', epoch)
 
@@ -467,10 +473,14 @@ class Runner(object):
 
             self.logger.info('[Epoch {}]: Training Loss: {:.5}, Valid MRR: {:.5}\n\n'.format(epoch, train_loss, self.best_val_mrr))
 
+            tracker.epoch_end()
+
         self.logger.info('Loading best model, Evaluating on Test data')
         self.load_model(save_path)
         test_results = self.evaluate('test', epoch)
         pprint(test_results)
+
+        tracker.stop()
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Parser For Arguments', formatter_class=argparse.ArgumentDefaultsHelpFormatter)

@@ -88,13 +88,16 @@ def conj(a):
 	a[..., 1] = -a[..., 1]
 	return a
 
+
 def cconv(a, b):
 	return torch.fft.irfft(com_mult(torch.fft.rfft(a, 1), torch.fft.rfft(b, 1)), 1, signal_sizes=(a.shape[-1],))
+
 
 def ccorr(a, b):
 	# print('a', a.shape, a.dtype, 'b', b.shape, b.dtype)
 	# raise IOError
 	return torch.fft.irfftn(torch.conj(torch.fft.rfftn(a, (-1))) * torch.fft.rfftn(b, (-1)), (-1))
+
 
 def str2bool(v):
     if isinstance(v, bool):
@@ -105,3 +108,4 @@ def str2bool(v):
         return False
     else:
         raise argparse.ArgumentTypeError('Boolean value expected.')
+

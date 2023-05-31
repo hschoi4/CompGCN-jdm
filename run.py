@@ -1,7 +1,7 @@
 from helper import *
-from data_loader import TrainDataset, TestDataset
-import wandb
 from tqdm import tqdm, trange
+from data_loader import *
+import wandb
 
 # sys.path.append('./')
 from model.models import *
@@ -141,7 +141,6 @@ class Runner(object):
             Returns
             -------
             Constructs the adjacency matrix for GCN
-
         """
         edge_index, edge_type = [], []
 
@@ -154,8 +153,8 @@ class Runner(object):
             edge_index.append((obj, sub))
             edge_type.append(rel + self.p.num_rel)
 
-        edge_index = torch.LongTensor(edge_index).to(self.device).t()
-        edge_type = torch.LongTensor(edge_type).to(self.device)
+        edge_index  = torch.LongTensor(edge_index).to(self.device).t()
+        edge_type   = torch.LongTensor(edge_type).to(self.device)
 
         return edge_index, edge_type
 
@@ -172,8 +171,9 @@ class Runner(object):
             Creates computational graph and optimizer
 
         """
-        self.p = params
-        self.logger		= get_logger(self.p.name, self.p.log_dir, self.p.config_dir)
+
+        self.p      = params
+        self.logger = get_logger(self.p.name, self.p.log_dir, self.p.config_dir)
 
         self.logger.info(vars(self.p))
         pprint(vars(self.p))
@@ -186,7 +186,7 @@ class Runner(object):
             self.device = torch.device('cpu')
 
         self.load_data()
-        self.model = self.add_model(self.p.model, self.p.score_func)
+        self.model     = self.add_model(self.p.model, self.p.score_func)
         self.optimizer = self.add_optimizer(self.model.parameters())
 
         if self.p.use_wandb:
@@ -212,18 +212,13 @@ class Runner(object):
 			Creates the computational graph for model and initializes it
 
 		"""
+
         model_name = '{}_{}'.format(model, score_func)
 
-        if model_name.lower() == 'compgcn_transe':
-            model = CompGCN_TransE(self.edge_index, self.edge_type, params=self.p)
-        elif model_name.lower() == 'compgcn_distmult':
-            model = CompGCN_DistMult(self.edge_index, self.edge_type, params=self.p)
-        elif model_name.lower() == 'compgcn_conve':
-            model = CompGCN_ConvE(self.edge_index, self.edge_type, params=self.p)
-        elif model_name.lower() == 'transe_transe':
-            model = TransE(self.edge_index, self.edge_type, params=self.p)
-        else:
-            raise NotImplementedError
+        if   model_name.lower() == 'compgcn_transe':    model = CompGCN_TransE(self.edge_index, self.edge_type, params=self.p)
+        elif model_name.lower() == 'compgcn_distmult':  model = CompGCN_DistMult(self.edge_index, self.edge_type, params=self.p)
+        elif model_name.lower() == 'compgcn_conve':     model = CompGCN_ConvE(self.edge_index, self.edge_type, params=self.p)
+        else: raise NotImplementedError
 
         model.to(self.device)
         return model
@@ -241,7 +236,8 @@ class Runner(object):
             Returns an optimizer for learning the parameters of the model
 
         """
-        return torch.optim.SGD(parameters, lr=self.p.lr, weight_decay=self.p.l2)
+
+        return torch.optim.Adam(parameters, lr=self.p.lr, weight_decay=self.p.l2)
 
     def read_batch(self, batch, split):
         """
@@ -276,12 +272,13 @@ class Runner(object):
             Returns
             -------
         """
+
         state = {
-            'state_dict': self.model.state_dict(),
-            'best_val': self.best_val,
-            'best_epoch': self.best_epoch,
-            'optimizer': self.optimizer.state_dict(),
-            'args': vars(self.p)
+            'state_dict' : self.model.state_dict(),
+            'best_val'   : self.best_val,
+            'best_epoch' : self.best_epoch,
+            'optimizer'  : self.optimizer.state_dict(),
+            'args'       : vars(self.p)
         }
         torch.save(state, save_path)
 
@@ -297,9 +294,10 @@ class Runner(object):
             Returns
             -------
         """
-        state = torch.load(load_path)
-        state_dict = state['state_dict']
-        self.best_val = state['best_val']
+
+        state             = torch.load(load_path)
+        state_dict        = state['state_dict']
+        self.best_val     = state['best_val']
         self.best_val_mrr = self.best_val['mrr']
 
         self.model.load_state_dict(state_dict)
@@ -322,11 +320,12 @@ class Runner(object):
                 results['hits@k']:      Probability of getting the correct preodiction in top-k ranks based on predicted score
 
         """
-        left_results = self.predict(split=split, mode='tail_batch')
+
+        left_results  = self.predict(split=split, mode='tail_batch')
         right_results = self.predict(split=split, mode='head_batch')
-        results = get_combined_results(left_results, right_results)
-        self.logger.info('[Epoch {} {}]: MRR: Tail : {:.5}, Head : {:.5}, Avg : {:.5}'.format(
-            epoch, split, results['left_mrr'], results['right_mrr'], results['mrr']))
+        results       = get_combined_results(left_results, right_results)
+        self.logger.info('[Epoch {} {}]: MRR: Tail : {:.5}, Head : {:.5}, Avg : {:.5}'.format(epoch, split, results['left_mrr'], results['right_mrr'], results['mrr']))
+
         if self.p.use_wandb:
             wandb.log(data={
                 'mrr': results['mrr'],
@@ -371,52 +370,50 @@ class Runner(object):
             train_iter = iter(self.data_iter['{}_{}'.format(split, mode.split('_')[0])])
 
             for step, batch in enumerate(train_iter):
-                sub, rel, obj, label = self.read_batch(batch, split)
-                pred = self.model.forward(sub, rel)
-                b_range = torch.arange(pred.size()[0], device=self.device)
-                target_pred = pred[b_range, obj]
-                pred = torch.where(label.byte(), -torch.ones_like(pred) * 10000000, pred)
-                pred[b_range, obj] = target_pred
-                ranks = 1 + torch.argsort(torch.argsort(pred, dim=1, descending=True), dim=1, descending=False)[b_range, obj]
+                sub, rel, obj, label    = self.read_batch(batch, split)
+                pred            = self.model.forward(sub, rel)
+                b_range         = torch.arange(pred.size()[0], device=self.device)
+                target_pred     = pred[b_range, obj]
+                pred            = torch.where(label.byte(), -torch.ones_like(pred) * 10000000, pred)
+                pred[b_range, obj]  = target_pred
+                ranks           = 1 + torch.argsort(torch.argsort(pred, dim=1, descending=True), dim=1, descending=False)[b_range, obj]
 
-                ranks = ranks.float()
-                results['count'] = torch.numel(ranks) + results.get('count', 0.0)
-                results['mr'] = torch.sum(ranks).item() + results.get('mr', 0.0)
-                results['mrr'] = torch.sum(1.0 / ranks).item() + results.get('mrr', 0.0)
+                ranks           = ranks.float()
+                results['count']    = torch.numel(ranks)        + results.get('count', 0.0)
+                results['mr']       = torch.sum(ranks).item()   + results.get('mr',    0.0)
+                results['mrr']      = torch.sum(1.0/ranks).item()   + results.get('mrr',   0.0)
                 for k in range(10):
-                    results['hits@{}'.format(k + 1)] = torch.numel(ranks[ranks <= (k + 1)]) + results.get \
-                        ('hits@{}'.format(k + 1), 0.0)
+                    results['hits@{}'.format(k+1)] = torch.numel(ranks[ranks <= (k+1)]) + results.get('hits@{}'.format(k+1), 0.0)
 
                 if step % 100 == 0:
                     self.logger.info('[{}, {} Step {}]\t{}'.format(split.title(), mode.title(), step, self.p.name))
 
         return results
 
-    def run_epoch(self, epoch):
+    def run_epoch(self, epoch, val_mrr = 0):
         """
             Function to run one epoch of training
 
             Parameters
             ----------
             epoch: current epoch count
+            val_mrr: TODO
 
             Returns
             -------
             loss: The loss value after the completion of one epoch
         """
+
         self.model.train()
         losses = []
-        train_iter = self.data_iter['train']
-        # train_iter = iter(self.data_iter['train'])
+        train_iter = iter(self.data_iter['train'])
 
-        for step, batch in enumerate(tqdm(train_iter)):
-            # exec(input('here:'))
-
+        for step, batch in enumerate(train_iter):
             self.optimizer.zero_grad()
             sub, rel, obj, label = self.read_batch(batch, 'train')
 
-            pred = self.model.forward(sub, rel)
-            loss = self.model.loss(pred, label)
+            pred    = self.model.forward(sub, rel)
+            loss    = self.model.loss(pred, label)
 
             loss.backward()
             self.optimizer.step()
@@ -449,16 +446,14 @@ class Runner(object):
             self.logger.info('Successfully Loaded previous model')
 
         kill_cnt = 0
-        epoch = 0
-        for epoch in trange(self.p.max_epochs):
-            print(f"epoch {epoch}")
-            train_loss = self.run_epoch(epoch)
+        for epoch in range(self.p.max_epochs):
+            train_loss  = self.run_epoch(epoch, val_mrr)
             val_results = self.evaluate('valid', epoch)
 
             if val_results['mrr'] > self.best_val_mrr:
-                self.best_val = val_results
-                self.best_val_mrr = val_results['mrr']
-                self.best_epoch = epoch
+                self.best_val      = val_results
+                self.best_val_mrr  = val_results['mrr']
+                self.best_epoch    = epoch
                 self.save_model(save_path)
                 kill_cnt = 0
             else:
@@ -470,61 +465,55 @@ class Runner(object):
                     self.logger.info("Early Stopping!!")
                     break
 
-            self.logger.info(f'[Epoch {epoch}]: Training Loss: {train_loss:.5}, Valid MRR: {self.best_val_mrr:.5}\n\n')
+            self.logger.info('[Epoch {}]: Training Loss: {:.5}, Valid MRR: {:.5}\n\n'.format(epoch, train_loss, self.best_val_mrr))
 
         self.logger.info('Loading best model, Evaluating on Test data')
         self.load_model(save_path)
         test_results = self.evaluate('test', epoch)
         pprint(test_results)
 
-
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Parser For Arguments',
-                                     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser = argparse.ArgumentParser(description='Parser For Arguments', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
-    parser.add_argument('-name', default='testrun', help='Set run name for saving/restoring models')
-    parser.add_argument('-data', dest='dataset', default='RezoJDM16k', help='Dataset to use, default: FB15k-237')
-    parser.add_argument('-model', dest='model', default='compgcn', help='Model Name')
-    parser.add_argument('-score_func', dest='score_func', default='conve', help='Score Function for Link prediction')
-    parser.add_argument('-opn', dest='opn', default='corr', help='Composition Operation to be used in CompGCN')
-
-    parser.add_argument('-batch', dest='batch_size', default=128, type=int, help='Batch size')
-    parser.add_argument('-gamma', type=float, default=40.0, help='Margin')
-    parser.add_argument('-gpu', type=str, default='0', help='Set GPU Ids : Eg: For CPU = -1, For Single GPU = 0')
+    parser.add_argument('-name',        default='testrun',                  help='Set run name for saving/restoring models')
+    parser.add_argument('-data',        dest='dataset',         default='RezoJDM16k',            help='Dataset to use, default: FB15k-237')
+    parser.add_argument('-model',       dest='model',       default='compgcn',      help='Model Name')
+    parser.add_argument('-score_func',  dest='score_func',  default='conve',        help='Score Function for Link prediction')
+    parser.add_argument('-opn',             dest='opn',             default='corr',                 help='Composition Operation to be used in CompGCN')
     parser.add_argument('-use_wandb', type=str2bool, nargs='?', const=True, default=False
                         , help='Set True for logging this exp on WandB')
-    parser.add_argument('-epoch', dest='max_epochs', type=int, default=500, help='Number of epochs')
-    parser.add_argument('-l2', type=float, default=0.0, help='L2 Regularization for Optimizer')
-    parser.add_argument('-lr', type=float, default=0.001, help='Starting Learning Rate')
-    parser.add_argument('-lbl_smooth', dest='lbl_smooth', type=float, default=0.1, help='Label Smoothing')
-    parser.add_argument('-num_workers', type=int, default=10, help='Number of processes to construct batches')
-    parser.add_argument('-seed', dest='seed', default=41504, type=int, help='Seed for randomization')
 
-    parser.add_argument('-restore', dest='restore', action='store_true', help='Restore from the previously saved model')
-    parser.add_argument('-bias', dest='bias', action='store_true', help='Whether to use bias in the model')
+    parser.add_argument('-batch',           dest='batch_size',      default=128,    type=int,       help='Batch size')
+    parser.add_argument('-gamma',       type=float,             default=40.0,           help='Margin')
+    parser.add_argument('-gpu',     type=str,               default='0',            help='Set GPU Ids : Eg: For CPU = -1, For Single GPU = 0')
+    parser.add_argument('-epoch',       dest='max_epochs',  type=int,       default=500,    help='Number of epochs')
+    parser.add_argument('-l2',      type=float,             default=0.0,            help='L2 Regularization for Optimizer')
+    parser.add_argument('-lr',      type=float,             default=0.001,          help='Starting Learning Rate')
+    parser.add_argument('-lbl_smooth',      dest='lbl_smooth',  type=float,     default=0.1,    help='Label Smoothing')
+    parser.add_argument('-num_workers', type=int,               default=10,                     help='Number of processes to construct batches')
+    parser.add_argument('-seed',            dest='seed',            default=41504,  type=int,       help='Seed for randomization')
 
-    parser.add_argument('-num_bases', dest='num_bases', default=-1, type=int,
-                        help='Number of basis relation vectors to use')
-    parser.add_argument('-init_dim', dest='init_dim', default=100, type=int,
-                        help='Initial dimension size for entities and relations')
-    parser.add_argument('-gcn_dim', dest='gcn_dim', default=200, type=int, help='Number of hidden units in GCN')
-    parser.add_argument('-embed_dim', dest='embed_dim', default=None, type=int,
-                        help='Embedding dimension to give as input to score function')
-    parser.add_argument('-gcn_layer', dest='gcn_layer', default=1, type=int, help='Number of GCN Layers to use')
-    parser.add_argument('-gcn_drop', dest='dropout', default=0.1, type=float, help='Dropout to use in GCN Layer')
-    parser.add_argument('-hid_drop', dest='hid_drop', default=0.3, type=float, help='Dropout after GCN')
+    parser.add_argument('-restore',         dest='restore',         action='store_true',            help='Restore from the previously saved model')
+    parser.add_argument('-bias',            dest='bias',            action='store_true',            help='Whether to use bias in the model')
+
+    parser.add_argument('-num_bases',   dest='num_bases',   default=-1,     type=int,   help='Number of basis relation vectors to use')
+    parser.add_argument('-init_dim',    dest='init_dim',    default=100,    type=int,   help='Initial dimension size for entities and relations')
+    parser.add_argument('-gcn_dim',     dest='gcn_dim',     default=200,    type=int,   help='Number of hidden units in GCN')
+    parser.add_argument('-embed_dim',   dest='embed_dim',   default=None,   type=int,   help='Embedding dimension to give as input to score function')
+    parser.add_argument('-gcn_layer',   dest='gcn_layer',   default=1,      type=int,   help='Number of GCN Layers to use')
+    parser.add_argument('-gcn_drop',    dest='dropout',     default=0.1,    type=float, help='Dropout to use in GCN Layer')
+    parser.add_argument('-hid_drop',    dest='hid_drop',    default=0.3,    type=float, help='Dropout after GCN')
 
     # ConvE specific hyperparameters
-    parser.add_argument('-hid_drop2', dest='hid_drop2', default=0.3, type=float, help='ConvE: Hidden dropout')
-    parser.add_argument('-feat_drop', dest='feat_drop', default=0.3, type=float, help='ConvE: Feature Dropout')
-    parser.add_argument('-k_w', dest='k_w', default=10, type=int, help='ConvE: k_w')
-    parser.add_argument('-k_h', dest='k_h', default=20, type=int, help='ConvE: k_h')
-    parser.add_argument('-num_filt', dest='num_filt', default=200, type=int,
-                        help='ConvE: Number of filters in convolution')
-    parser.add_argument('-ker_sz', dest='ker_sz', default=7, type=int, help='ConvE: Kernel size to use')
+    parser.add_argument('-hid_drop2',   dest='hid_drop2',   default=0.3,    type=float, help='ConvE: Hidden dropout')
+    parser.add_argument('-feat_drop',   dest='feat_drop',   default=0.3,    type=float, help='ConvE: Feature Dropout')
+    parser.add_argument('-k_w',     dest='k_w',         default=10,     type=int,   help='ConvE: k_w')
+    parser.add_argument('-k_h',     dest='k_h',         default=20,     type=int,   help='ConvE: k_h')
+    parser.add_argument('-num_filt',    dest='num_filt',    default=200,    type=int,   help='ConvE: Number of filters in convolution')
+    parser.add_argument('-ker_sz',      dest='ker_sz',      default=7,      type=int,   help='ConvE: Kernel size to use')
 
-    parser.add_argument('-logdir', dest='log_dir', default='./log/', help='Log directory')
-    parser.add_argument('-config', dest='config_dir', default='./config/', help='Config directory')
+    parser.add_argument('-logdir',          dest='log_dir',         default='./log/',               help='Log directory')
+    parser.add_argument('-config',          dest='config_dir',      default='./config/',            help='Config directory')
     args = parser.parse_args()
 
     if not args.restore: args.name = args.name + '_' + time.strftime('%d_%m_%Y') + '_' + time.strftime('%H:%M:%S')

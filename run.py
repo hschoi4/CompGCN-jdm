@@ -582,7 +582,8 @@ if __name__ == '__main__':
     parser.add_argument('-trim_ratio', dest='trim_ratio',     default=0.05,    type=float, help='Trim ratio to cut the train and valid sets')
     args = parser.parse_args()
 
-    if not args.restore: args.name = args.name + '_' + time.strftime('%d_%m_%Y') + '_' + time.strftime('%H:%M:%S')
+    if not args.restore or '_' not in args.name:
+        args.name = args.name + '_' + time.strftime('%d_%m_%Y') + '_' + time.strftime('%H:%M:%S')
 
     set_gpu(args.gpu)
     np.random.seed(args.seed)

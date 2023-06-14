@@ -3,6 +3,9 @@ from tqdm import tqdm, trange
 from data_loader import *
 import wandb
 from carbontracker.tracker import CarbonTracker
+import numpy as np
+from collections import Counter
+
 
 # sys.path.append('./')
 from model.models import *
@@ -63,6 +66,7 @@ class Runner(object):
                     _rel = ' '.join(tokens)
                     self.rel2id[_rel] = _id
 
+        # TODO: 50 years in the future come back and take into account existing reverse relations ,
         self.rel2id.update({rel + '_reverse': idx + len(self.rel2id) for rel, idx, in self.rel2id.items()})
 
         self.id2ent = {idx: ent for ent, idx in self.ent2id.items()}
@@ -90,6 +94,53 @@ class Runner(object):
                     sr2o[(obj, rel + self.p.num_rel)].add(sub)
 
         self.data = dict(self.data)
+
+        # TRIM CODE COMES HERE
+        if self.p.trim:
+            '''
+                1. actually do the trim of train set -> select correct triples from valid_head
+                2. re make sr2o (dont know what it deos but can remake)
+                3. update p.num_ent; num_rel truc
+            '''
+            tr = self.data['train']
+            vl = self.data['valid']
+            trim_ratio = self.p.trim_ratio
+
+            trn = np.array(tr)
+            trn_trimmed = trn[np.random.choice(trn.shape[0], size=int(len(tr)*trim_ratio), replace=False), :]
+
+            # Count entities in train and how many times they occur
+            ent_counter = Counter(trn_trimmed[:, 0])
+            ent_counter.update(trn_trimmed[:, 2])
+
+            rel_counter = Counter(trn_trimmed[:, 1])
+
+            # which val entities are not in train
+            vl_transductive = []
+            for s,r,o in vl:
+                if s not in ent_counter or o not in ent_counter or r not in rel_counter:
+                    continue
+                vl_transductive.append((s,r,o))
+
+            # Its possibel that vl_transductive has less triples than we need (based on trim ratio)
+            # if so, throw error asking for some change maube bigger ratio
+            if len(vl_transductive) < int(len(vl)*trim_ratio):
+                raise ValueError('During trimming; not enough valid triples left. Retry with bigger trim ratio.')
+
+            # we trim from this
+            vln_transductive = np.array(vl_transductive)
+            vln_trimmed = vln_transductive[np.random.choice(vln_transductive.shape[0], size=int(len(vl)*trim_ratio), replace=False), :]
+
+            # project hail mary: we dont know whats happening we only know that this just might fucking work
+            sr2o = ddict(set)
+            for sub, rel, obj in trn_trimmed:
+                sr2o[(sub, rel)].add(obj)
+                sr2o[(obj, rel + self.p.num_rel)].add(sub)
+
+            # Lets update self.data now again
+            self.data['train'] = trn_trimmed.tolist()
+            self.data['valid'] = vln_trimmed.tolist()
+            self.data['test'] = vln_trimmed.tolist()
 
         self.sr2o = {k: list(v) for k, v in sr2o.items()}
         for split in ['test', 'valid']:
@@ -524,6 +575,11 @@ if __name__ == '__main__':
 
     parser.add_argument('-logdir',          dest='log_dir',         default='./log/',               help='Log directory')
     parser.add_argument('-config',          dest='config_dir',      default='./config/',            help='Config directory')
+
+    # Trimming parameters
+    parser.add_argument('-trim', type=str2bool, nargs='?', const=True, default=False
+                        , help='Set True to only do the exp on a very small subset. Ratio defaults to 0.05. Change trim_ratio si tu veux')
+    parser.add_argument('-trim_ratio', dest='trim_ratio',     default=0.05,    type=float, help='Trim ratio to cut the train and valid sets')
     args = parser.parse_args()
 
     if not args.restore: args.name = args.name + '_' + time.strftime('%d_%m_%Y') + '_' + time.strftime('%H:%M:%S')

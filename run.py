@@ -499,7 +499,7 @@ class Runner(object):
 
         kill_cnt = 0
 
-        tracker = CarbonTracker(epochs=self.p.max_epochs)
+        tracker = CarbonTracker(epochs=self.p.max_epochs, log_dir=self.p.log_dir, log_file_prefix="carbontracker")
 
         for epoch in range(self.p.max_epochs):
             tracker.epoch_start()

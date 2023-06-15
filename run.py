@@ -250,6 +250,15 @@ class Runner(object):
                 name=self.p.name
             )
 
+    def load_entity_vectors(self):
+        ''' Go to the dataset folder based on p.dataset and get the vectors torch file.'''
+        vectorspath = './data/{}/{}'.format(self.p.dataset, 'vectors_entity_fasttext.torch')
+        try:
+            vectors = torch.load(vectorspath)
+        except FileNotFoundError:
+            raise FileNotFoundError(f"File {vectorspath} not found. Run the corresponding script in ./scripts subdirectory.")
+        return vectors
+
     def add_model(self, model, score_func):
         """
 			Creates the computational graph
@@ -267,9 +276,15 @@ class Runner(object):
 
         model_name = '{}_{}'.format(model, score_func)
 
-        if   model_name.lower() == 'compgcn_transe':    model = CompGCN_TransE(self.edge_index, self.edge_type, params=self.p)
-        elif model_name.lower() == 'compgcn_distmult':  model = CompGCN_DistMult(self.edge_index, self.edge_type, params=self.p)
-        elif model_name.lower() == 'compgcn_conve':     model = CompGCN_ConvE(self.edge_index, self.edge_type, params=self.p)
+        if self.p.use_fasttext:
+            vectors = self.load_entity_vectors()
+            self.logger.info(f"Used FastText vectors. Shape: {vectors.shape}")
+        else:
+            vectors = None
+
+        if   model_name.lower() == 'compgcn_transe':    model = CompGCN_TransE(self.edge_index, self.edge_type, vectors=vectors, params=self.p)
+        elif model_name.lower() == 'compgcn_distmult':  model = CompGCN_DistMult(self.edge_index, self.edge_type, vectors=vectors, params=self.p)
+        elif model_name.lower() == 'compgcn_conve':     model = CompGCN_ConvE(self.edge_index, self.edge_type, vectors=vectors, params=self.p)
         else: raise NotImplementedError
 
         model.to(self.device)
@@ -580,10 +595,15 @@ if __name__ == '__main__':
     parser.add_argument('-trim', type=str2bool, nargs='?', const=True, default=False
                         , help='Set True to only do the exp on a very small subset. Ratio defaults to 0.05. Change trim_ratio si tu veux')
     parser.add_argument('-trim_ratio', dest='trim_ratio',     default=0.05,    type=float, help='Trim ratio to cut the train and valid sets')
+    parser.add_argument('-use_fasttext', type=str2bool, nargs='?', const=True, default=False,
+    help='If True, we use FastText vectors for entities. If they dont exist, run the script in ./scripts folder for your dataset')
     args = parser.parse_args()
 
     if not args.restore and '_' not in args.name:
         args.name = args.name + '_' + time.strftime('%d_%m_%Y') + '_' + time.strftime('%H:%M:%S')
+
+    if args.use_fasttext and args.init_dim != 100:
+        raise ValueError('When using FastText always have 100 dimensions for init ie nodes.')
 
     set_gpu(args.gpu)
     np.random.seed(args.seed)

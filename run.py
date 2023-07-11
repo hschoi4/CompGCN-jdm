@@ -40,7 +40,7 @@ class Runner(object):
         if not custom_data:
             ent_set, rel_set = OrderedSet(), OrderedSet()
             for split in ['train', 'test', 'valid']:
-                for line in open('./data/{}/{}.txt'.format(self.p.dataset, split)):
+                for line in open('./data/{}/data_labeled/{}.txt'.format(self.p.dataset, split)):
                     sub, rel, obj = map(str.lower, line.strip().split('\t'))
                     ent_set.add(sub)
                     rel_set.add(rel)
@@ -48,18 +48,20 @@ class Runner(object):
 
             self.ent2id = {ent: idx for idx, ent in enumerate(ent_set)}
             self.rel2id = {rel: idx for idx, rel in enumerate(rel_set)}
+
         else:
-            # CustomData: RezoJDM16k
+            # CustomData: RezoJDM16k or RLF
 
             self.ent2id = {}
-            with open('./data/{}/{}.txt'.format(self.p.dataset, 'entities')) as f:
+            with open('./data/{}/data_labeled/{}.txt'.format(self.p.dataset, 'entities')) as f:
                 for line in f.readlines():
                     tokens = line.strip().split()
                     _id = int(tokens.pop(0))
                     _ent = ' '.join(tokens)
                     self.ent2id[_ent] = _id
+
             self.rel2id = {}
-            with open('./data/{}/{}.txt'.format(self.p.dataset, 'relations')) as f:
+            with open('./data/{}/data_labeled/{}.txt'.format(self.p.dataset, 'relations')) as f:
                 for line in f.readlines():
                     tokens = line.strip().split()
                     _id = int(tokens.pop(0))
@@ -80,7 +82,7 @@ class Runner(object):
         sr2o = ddict(set)
 
         for split in ['train', 'test', 'valid']:
-            for line in open('./data/{}/{}.txt'.format(self.p.dataset, split)):
+            for line in open('./data/{}/data_labeled/{}.txt'.format(self.p.dataset, split)):
                 if custom_data:
                     sub, rel, obj = map(int, line.strip().split('\t'))
                 else:

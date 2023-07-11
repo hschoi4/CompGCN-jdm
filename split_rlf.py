@@ -19,9 +19,9 @@ class Triplets:
     test: Any
 
     def export(self, path, status):
-        self.train.to_csv(f"{path}triplets/train_{status}.csv", index=False, sep='\t')
-        self.valid.to_csv(f"{path}/triplets/valid_{status}.csv", index=False, sep='\t')
-        self.test.to_csv(f"{path}/triplets/test_{status}.csv", index=False, sep='\t')
+        self.train.to_csv(f"{path}triplets/train_{status}_labels.csv", index=False, sep='\t')
+        self.valid.to_csv(f"{path}/triplets/valid_{status}_labels.csv", index=False, sep='\t')
+        self.test.to_csv(f"{path}/triplets/test_{status}_labels.csv", index=False, sep='\t')
 
 @dataclasses.dataclass
 class Nodes:
@@ -67,16 +67,14 @@ def filter_set(df, train):
 
 if __name__ == '__main__':
 
-    df_nodes = pd.read_csv("data/RLF/originals/01-lsnodes.csv", sep="\t")
-    df_triplets = pd.read_csv("data/RLF/all_triplets.txt", sep="\t", index_col=False)
 
-    entities = pd.read_csv("data/RLF/entities.txt", sep="\t")
-    relations = pd.read_csv("data/RLF/relations.txt", sep="\t")
+    df_triplets = pd.read_csv("data/RLF/all_triplets_with_labels.txt", sep="\t", index_col=False)
 
     rlf, rlf_nodes = split(df_triplets, 20, True, RLF_PATH)
 
     filter_valid = filter_set(rlf.valid, rlf.train)
     filter_test = filter_set(rlf.test, rlf.train)
 
-    # filter_valid.to_csv("data/RLF/valid_20.txt", index=False, header=False, sep="\t")
-    # filter_test.to_csv("data/RLF/test_20.txt", index=False, header=False, sep="\t")
+    rlf.train.to_csv("data/RLF/train_20_labels.txt", index=False, header=False, sep="\t")
+    filter_valid.to_csv("data/RLF/valid_20_labels.txt", index=False, header=False, sep="\t")
+    filter_test.to_csv("data/RLF/test_20_labels.txt", index=False, header=False, sep="\t")

@@ -1,0 +1,6674 @@
+tempête I.1	Loc	dans I.4
+rondin	Syn	bûche I
+service IV.1	Métonymie	service IV.2
+couver I	S1	poule 1 I
+parier I.2	Syn	jouer III
+hymne II	Syn	chant III
+plein Adj V	Syn	beurré 2
+coller aux fesses I	Syn	talonner
+étoffe	Syn	tissu I
+garnir 1	Conversion	garnir 2
+métal a	Gener	corps III
+plumer	Syn	escroquer
+inconscient Adj II	S0	inconscience II
+kilomètre	Gener	unité de mesure
+diplômer	S2	diplômé N
+têtu Adj I.a	Syn	entêté Adj
+nul Adj 1 I	Métaphore	nul Adj 1 III
+volume I.4b	Gener	grandeur III
+département II	Syn	antenne III.2b
+bizarrement	Syn	étrangement
+dépression I.a	Syn	creux N
+soupçonneux	Syn	méfiant
+zizi	Syn	zob
+braquemart	Syn	zigounette
+limitant 2	S1	réactant
+campagnarde	Syn	campagnard N
+camion	AntiMagn	camionnette
+morceau I.1a	Extension	morceau I.1b
+excentricité 1 II.1	Syn	vogue
+fond VII	Adv2	à I.2
+chope a	Syn	bock a
+recrue	Syn	soldat N, masc
+nombre I.1	Magn	élevé Adj II
+torché 2	Syn	cuité
+appareiller I.1	S2	bateau N 1 I
+technique N 2	Syn	habileté
+similitude	Func0	s’arrêter IV.1
+pluie II.1a	Magn	continuel
+adversaire N, fém II	Anti	amie II
+s’étourdir	Syn	s’oublier
+chaleureux 1	Métonymie	chaleureux 2
+goguenots a	Syn	petit endroit
+navet I	Métaphore	navet II
+débitrice	S3	dette
+niveau I	Métonymie	niveau III
+excentricité 1 II.1	A1	excentrique Adj II.2
+curiosité I.1	Métonymie	curiosité II.a
+avancée I	Syn	progression I.1
+regret I.1	Métaphore	regret II.1
+teub	Syn	verge
+miches II	Syn	croupe II
+figure II.1a	Syn	face N I
+se situer I	Métaphore	se situer II
+tornade I	Magn	important 2
+fesses I.a	Syn	lune III
+navire	Fact@	naviguer I.2
+vainqueur N	Syn	champion
+chien I.a	Germ	chiot
+comme un frère	Syn	beaucoup II
+insultant	V0	insulter
+appartement 1	Syn	T7
+s’intégrer I	S0	intégration I
+honneur II.1b	S1	Dieu 2
+express I	Métaphore	express II
+coup de filet II	Oper1	mener IV
+robe I.1	AntiMagn	ajusté
+bouteille 2a	Sloc	bouteillerie
+rapide Adj I.1	AntiMagn	peu II
+résultat I.1	Conv-ij	cause I
+automatique Adj	S0	automatisme
+tempête II.1	Func2	gronder IV
+dent 1 I.a	Fact2	croquer 1 I.1
+production I	Métaphore	production II
+joie	Syn	extase 1
+train 1 III.1	Métonymie	train 1 III.2
+gamin N I.1	Extension	gamin N I.2
+scientifique N, masc	Syn	scientifique N, fém
+humain N	A0	humain Adj
+congruent I	Syn	adéquat
+boucher-charcutier 1	Syn	charcutier N I.1
+victime N I.2a	Spécialisation	victime N I.2b
+approvisionnement	V0	approvisionner
+figure II.1a	Syn	tronche 1
+plâtre I	Gener	matériau
+hacher	S3	hachoir
+envers Prép	Syn	vis-à-vis II
+lever le masque	Syn	tomber le masque
+bouffon I	Syn	fou N IV
+flotter III	S0	flottage
+botter en touche	Syn	noyer le poisson
+brillamment	Syn	intelligemment
+office I	Syn	emploi II.a
+coiffure II.2	S1	coiffeuse 1
+converser	Syn	discuter I
+ailleurs 2	Contr	ici II.1
+annuler	Syn	invalider
+clouer au lit	A2	cloué au lit
+érudit N	Syn	savante
+pieds I	Métonymie	pied II
+cheveux I.2a	Func0	chute II
+quitter l’habit	Anti	prendre l’habit
+chiqueuse	Syn	chiqueur
+placer I.a	Métaphore	placer II
+gogues a	Syn	vécés a
+riveraine	Syn	riverain N
+mère 1 IV.2	Syn	origine I.2b
+adopter II	Syn	choisir
+forme I.2	A1	en Prép II.a
+embraser	Syn	éclairer
+leçon I.1a	S3	lycéen N
+causation 2	V0	causer 1 b
+art I	Adv0	artistiquement
+maître N I.3	Syn	propriétaire N, masc
+soigné I	Métonymie	soigné II
+chute I.2	V0	tomber V I.1
+personnellement 2	Syn	nommément
+chipoter III.2	Syn	préoccuper
+canapé I	Syn	méridienne
+vie I.1	A1	vivant Adj
+arrêter IV.2	Syn	retenir II
+dans la lune	Syn	distrait Adj a
+se pencher	Anti	s’incliner
+incomber	Syn	revenir V.2
+lin II	Sing	graine a
+mangeotter 1	Syn	grignoter I.1
+grand Adj I.1	Plus	s’agrandir I
+fleuret	Syn	épée I
+aube 2	S1	religieux N
+douche II.1	Fact0	couler I.3a
+visage I.1	Métonymie	visage I.2
+succomber II	Syn	céder V.2
+tendre V I.2	Syn	étendre I
+autoportrait I	Syn	portrait
+étrangère II	Syn	étranger N II
+miches II	Syn	pétard II
+enseigner I	Métaphore	enseigner II.1
+affrioler 2b	Qual3	sexy
+enlèvement	Syn	rapt
+beaucoup I.2	Syn	énormément 1
+méfait II	Syn	effet
+cheminer I	Syn	se déplacer I.2a
+jazzy	Syn	jazzistique
+nouvelle 2	Syn	nouveau N
+pourpre I.1a	Syn	amarante II
+éligible	S0	éligibilité
+palefrenière	Syn	palefrenier
+retardataire Adj	S1	retardataire N, fém
+séparer 2	Syn	isoler
+lit I.1a	Real1	s’endormir I
+uniforme N	Syn	kaki 1 II
+cardiaque	S0	cœur I
+élément I.1	Spécialisation	élément I.2
+basket-ball 2	Syn	basket N, masc 2
+aller V V	Métaphore	aller V VIII.1
+gazouillement	V0	gazouiller
+mouche I	Syn	drosophile
+manger V I.1a	Bon	savourer I
+nostalgie I	A1	plein Adj III
+voiture 2a	Real2	descendre IV
+gogues a	Syn	tartisses a
+percevoir I	Syn	entendre I
+quelque part II	Syn	en réalité
+lacer	S2	chaussures I
+table II.1a	Bon	bon Adj I.2
+culotte 1	Extension	culotte 2
+quéquette	Syn	braquemart
+tige III	Syn	cibiche
+causant	Syn	causeur
+défendre II.1	S1	avocate I
+glace III.b	Syn	miroir I
+profit II.a	Syn	bénéfice 2a
+saison	Syn	automne
+afficher II.1	Syn	arborer I
+avocassier	Syn	avocat 1 I
+enterrement	Gener	cérémonie
+dent 1 II.2b	Syn	lame I
+mot I.1	Syn	mot magique
+saoul Adj I	V0	avoir du vent dans les voiles
+boucher N III	Fact0	boucherie IV
+400 mètres	Gener	épreuve 1 II.1
+rivière I	Sing	méandres
+dissimilaire	Anti	similaire
+religieux Adj I.1	Anti	civil Adj I.2b
+mal Adv I.1	Anti	bien Adv 1
+avion I	A2	aéroporté I
+proche Adj IV.2	Syn	voisin Adj II.2
+nombre II	Syn	quantité 2
+diffuser III.2	Syn	écouler
+lent I.1	Métaphore	lent II.1
+corps IV.1b	S1	soldat N, masc
+R.E.R II	Mult	R.E.R I
+manger V VII	Anti	articuler 2 b
+obscurité	Anti	clarté I
+allumette I.1	Extension	allumette I.2
+bête Adj I	S0	bêtise I
+normaliser	Syn	régulariser
+majuscule N	Fact1	mettre II.2
+dérober I	Syn	chouraver
+maman b	Syn	mère 1 I.1b
+jupe I	Real1	flotter VI
+acheter	S1	acheteur
+banc 2 I	Métaphore	banc 2 II
+équipe 1	Extension	équipe 2
+coup de bigophone	Syn	coup de fil
+cul I.1	Syn	lune III
+toilette III.3	Func0	couturier a
+coup V.2a	Oper1	jouer VI.2
+tête I.1a	Métaphore	tête II.1a
+aimer I.2	S0	amour I.2
+système I	Métaphore	système III
+robe I.1	AntiMagn	moulant
+excentrique Adj II.2	Extension	excentrique Adj I.1
+habits I.1b	Real1	revêtir I
+élire	S3	mandat I
+royaume I	Syn	empire 1
+vif I.2	Syn	preste 1
+à l’eau I.1	Pred	tomber V I.1
+dignitaire N, masc	Syn	dignitaire N, fém
+lectrice	Syn	lecteur
+ami N II	Anti	opposant N II
+préfecture II	Cap	préfet
+égalité I	A1	égal Adj I
+occupation III	A2	occupé IV.1
+épidémie	S2	victime N I.2a
+alcoolique N, masc	Syn	ivrogne N, masc
+toison I	S1	bélier I
+traverser II	Syn	sillonner I
+tartisses a	Syn	water-closet a
+gallois Adj 1	S0	Pays de Galles
+cigare IV	Syn	manche N, masc II
+notifier b	S0	notification I
+assiette 1 I.a	Labreal12	manger V I.1a
+communiquer I.1	S1	communicant 1
+moustique I	Son	vrombissement
+journalistique	S0	journaliste N, fém
+coup de poing I	Métonymie	coup de poing II
+rétroprojecteur	S2	transparent N
+n’y avoir que	Syn	suffire II
+tuer I	Syn	avoir la peau I
+frousse	Manif	se peindre
+corail 1 I	Gener	animal N I.1b
+sapeuse-pompière	Syn	femme pompier
+chipoter II.1	Extension	chipoter II.2
+tomber le masque	Syn	se révéler II
+ni fait, ni à faire	Syn	incolore II.2
+gagnante	Syn	gagnant N
+saveurs I.2	Real2	déguster I
+panser	S0	pansement I
+grandir I	Métaphore	grandir II
+tabagisme	Syn	tabac 1 II
+gilet 1	Extension	gilet 2
+crasseux I	Syn	cracra I.1
+âne I	Syn	mule
+poursuite I	V0	poursuivre I.1
+Bretagne	S1	Breton N I
+se bouffer I	Syn	bouffer 1 I.1a
+rapide Adj III.2	Syn	proche Adj II.1
+émettre II.1	Extension	émettre II.2
+lac I	Bon	limpide
+tabouret 1	Real@	présenter II.1
+orage II	Minus	diminuer III.2
+plume II	Syn	stylo
+politicienne	Syn	femme politique
+bureau III	Labreal13	mettre I.1a
+filou II	Syn	vaurien
+gramme	Syn	tonne I
+Corée du Sud	S1	Sud-Coréenne
+engager III.2	Syn	embaucher
+renverser I.2	Métaphore	renverser II
+inutilité	Anti	utilité I
+bilan I.4	S2	communication 3
+avantageux II	Syn	flatteur II
+fourchette I	Contr	cuillère a
+emporter I.2	Syn	charrier I
+bâtiment et travaux publics	Gener	secteur
+lentilles II	Sing	foyer IV.2
+dilapider	Syn	manger la grenouille
+table I.2	S2	restaurant
+reptilien	S0	reptile a
+bandit I	Syn	criminel N
+plume III.b	Syn	écrivain
+échapper	S0	échappée
+bonnet II.1	S1	soutien-gorge
+sororal	S0	sœur I
+rugby 1	Syn	ballon ovale
+dépression II.2	S2	fluide N
+papi II	Syn	pépère II
+accessoire N 1	Syn	outil I
+clair Adj I.1	Extension	clair Adj I.2
+tank II	Syn	char
+épuiser	Able2	épuisable
+dessiner I.1	Sres	dessin
+poule 1 I	S1	éleveuse
+Moyen-Âge	A1	médiéval Adj 2
+voiture 3	S1	train 1 I
+pansement I	S3	pansement II
+riche Adj I.1	S1	richarde
+garde N, fém I.1	V0	garder V.2
+arrestation	V0	arrêter IV.1
+changer II.2	S0	changement II
+chiottes I.b	Syn	toilettes III.1b
+tête de linotte	Syn	étourdie
+Toussaint	Syn	jour des Morts
+bite	Syn	biroute
+ski alpin I	Métonymie	ski alpin II
+prise I.1	Métonymie	prise II.1
+salaud N	Syn	vache II.1a
+tache I.2	Syn	tache de naissance
+manteau I.b	Real1	habiller 1
+animateur 2	Syn	animatrice 2
+avaler I.1	Syn	boire V I.1
+pâtisson	Gener	courge
+relation intime	Syn	relation sexuelle
+Portugal	A1	portugais Adj 2
+honneurs de la presse	Oper1	avoir V III.2b
+analogie b	Syn	analogie a
+carré N II.1b	Func0	découper I
+fond VI.4	Adv0	foncièrement
+bouffer 1 I.1b	Syn	casser la croûte
+rapide Adj III.1	Anti	long Adj III.2a
+québécois Adj 1	S0	Québec
+s’arrêter II.b	Syn	tomber V V.1c
+manquement	V0	manquer VII
+musulman N	Syn	musulmane
+éteindre II.1	Anti	allumer II.1
+abuser I	S0	abus
+cigare IV	Syn	moineau II
+béton	A2	bétonné
+aspirateur N I.1	Fact2	aspirer 1 I.3c
+pénétrer I.1	Syn	entrer IV.1
+lait I.a	S2	petite 1
+tempête II.1	Magn	violent Adj II
+caractéristique Adj	Pred	caractériser 2
+aspirateur N I.2	Syn	aspiratrice
+leçon I.2	Syn	allocution
+craspec I	Syn	dégueu I.1
+tirer les vers du nez	Syn	questionner
+fierté I.1	Gener	sentiment 1a
+reportage b	S1	reporter N, fém
+solder 1	Syn	clôturer II
+remonter I.1	Métaphore	remonter II.1
+aplatir I.1b	A1	aplati I.2
+député	S2	électrice
+Française	Syn	Français N I
+averse II.1	Syn	déluge II
+rouler 1 II	Métaphore	rouler 1 III.1
+on	Syn	nous
+véhicule II	Fact2	transmettre III
+dispositif	Syn	appareil I.1
+héberger I	S0	hébergement I
+tentation	V0	tenter I
+émettre II.2	Extension	émettre II.3
+assis III.1a	Syn	basé II
+excentrique N, masc I	Codérivation	excentrique N, masc II
+garnir 1	A2	garni
+au moyen	Syn	avec I.3a
+bizarrerie 2	Anti	norme
+craspec III	Syn	crade IV
+repas I.2	Oper1	faire II.1
+circuler I.1	Métaphore	circuler III
+manières de table	S1	convive N, fém
+s’accélérer	Caus	accélérer II.1
+corbeau II.2b	Syn	calomniateur
+fisc	A0	fiscal
+jogging II	Real1	retirer I.1
+voler 1 II.2	S2	destination I
+affaires II	Syn	bien N IV.a
+anxiété	A1	anxieux Adj 1
+combatif	Anti	résigné Adj
+ouvrière	A0	ouvrier Adj
+électrique a	Adv0	électriquement
+chipoteuse II.1	Syn	chipoteur N II.1
+ramassis	Syn	collection III
+virage II	Syn	tournant N
+chéri N 1	Syn	ami N I.2
+pataugeoire	Syn	piscine
+diffuser I.1	Métaphore	diffuser III.1
+victoire I	S3	guerre I
+montrer les dents I	A1	menaçant I.1
+vendre I.1	Syn	diffuser III.2
+ramper I.a	Contr	marcher I.1a
+investissement b	Syn	capital
+Internet	S1	internaute N, fém
+court sur pattes I.2	S1	humain N
+abstinence I.2	V0	se la mettre derrière l’oreille
+vélo II	S1	cycliste N, fém I
+remède I	Syn	traitement IV.2
+chaise à bascule	Gener	chaise I
+feu IV	Syn	lumière I
+basketteuse	Syn	basketteur
+rester I	Syn	demeurer I
+laver I.1	Extension	laver II
+pièce d’ameublement	S2	maison I.1
+pas Adv a	Syn	non III
+inaltéré	Syn	intact
+impec Adj	Adv0	impeccablement
+sinistrement	A0	sinistre Adj
+dab	Syn	paternel N
+parfait N	Syn	perfection
+tempête II.2	Extension	tempête II.3
+encadrer IV.b	S1	nombre I.2
+destructeur N II	Gener	appareil I.1
+croquer 1 II	Syn	flamber III.1
+congruent I	Syn	approprié
+bon Adj III	S0	bonté 1
+précoce I	Syn	hâtif III
+leçon I.1a	S1	maître N IV.1
+gouvernement	S1	ministre N, masc I
+fouille I	V0	fouiller I
+imbécillité I	Syn	idiotie
+renifler II	S2	odeur
+pieu	Gener	meuble N I.1a
+espagnol N II	Able1	hispanophone Adj
+navire	Fact0	faire escale
+minorer II	Syn	diminuer II.2
+tactile	S0	toucher N 1
+dépensier	S1	panier percé
+ressource I	Syn	astuce II
+puce I	Gener	insecte I.a
+tatie	Syn	tata I
+plongeuse	Syn	plongeur
+consulter I.2a	Syn	voir I.3
+débutant N	Syn	débutante
+rond Adj III	Syn	arraché
+canapé I	Real1	vide Adj II.2
+Corée du Sud	S1	Sud-Coréen N
+dissimilarité	Anti	ressemblance 1
+teub	Syn	biroute
+code III.1	Syn	clé II
+buter	Syn	se cogner
+propret 1	Syn	propre Adj 1 I.1
+reine II	Gener	insecte I.a
+Espagne	A0	espagnol Adj I.1
+pouvoir V I.1a	Métaphore	pouvoir V II
+par II.1	Extension	par II.2
+oublier I.1	Extension	oublier I.2
+honnêteté a	Adv1	avec I.3a
+torchon I	Mult	pile N 1 II
+bouffer 1 I.1a	Magn	comme un cochon II
+risquer I	Métaphore	risquer II
+oiseau-mouche	Gener	oiseau a
+cartouche II	Syn	recharge II
+batterie I	Syn	tas II
+grondant	V0	gronder I.1
+nuage II.2	Syn	goutte 1 II
+tonne I	Gener	unité de mesure
+tenace	S0	tenacité
+pas mal I.2	Syn	beaucoup I.2
+course 1 II.2	Syn	parcours I
+cul II	Syn	fesse III
+gâteau I.a	Sing	part II
+cafetière II	Syn	ciboulot
+fracturer	Syn	casser II.5
+palais 2	A0	palatal
+pouce N I.a	Anti	doigt I.1b
+constater	Able2	constatable
+ponant	Syn	ouest N I
+dans la semoule 1	Syn	pédaler dans le vide
+insecte II	Magn	satané
+branche I	S1	arbre
+orgueilleuse	Syn	orgueilleux N
+instaurer	Syn	commencer III.1
+pousser IV.2	Syn	encourager I.2
+espionner I	Métaphore	espionner II
+alcoolo Adj	Syn	alcoolique Adj 2
+musée	S2	collection I.b
+chaudière	Syn	poêle 2
+publicité	S1	publicitaire N, fém
+coureur N III.2	Syn	dragueur
+supporter N, masc 2	Anti	ennemi N II
+récoltant Adj	S1	récoltante
+traverser I	Métaphore	traverser III.1
+nuque	Mult	cou I.1a
+transport III.2	Syn	fret II
+avancée I	Métaphore	avancée II
+vitesse 2	Real1	passer VII.1
+jupe I	Fact0	abaisser
+100 mètres	Syn	400 mètres
+en vertu	Syn	à cause
+grimper I.2	Syn	gravir
+couvent I	Métonymie	couvent II
+adapter	Syn	ajuster I
+miaulement	S1	chat 1 I.a
+nom de famille	Syn	nom 1a
+train 1 I	S1	usager
+mère d’emprunt	Syn	mère porteuse
+campagnard Adj	S0	campagne I.2
+là I.1a	Syn	y 1
+embouchure	Syn	bouche IV
+sympathisant	Syn	ami N II
+entraîner III	Syn	causer 1 a
+métro II.1	S1	voyageur N
+valeur réelle	Syn	valeur intrinsèque
+robe I.2	Syn	soutane
+chibre	Syn	zizi
+causette	Syn	discussion
+tortue I	Métaphore	tortue II
+pope	Syn	religieux N
+pompier N, fém	S4	incendie
+sonore 1b	Extension	sonore 2
+coiffeur I	Fact0	coiffure II.2
+dévaliser	Syn	voler 2 I
+tempérament 2 1	V0	tempérer II
+obtenir II.1	Syn	arriver III.2
+chauve Adj II.2	S1	colline I
+sieste	Syn	sommeil I.1a
+chimie I.1	S1	chimiste N, masc
+dérober I	Syn	tirer VI
+citron	Gener	fruit I.2
+se cailler II	S2	fesses I.a
+couard Adj	Syn	veule
+courriel I	S1	expéditeur
+figure II.1a	AntiVer	défigurer I
+sans-emploi a	Syn	chômeur
+italien N II	S1	Italien N I
+tête-à-tête I	Syn	audience
+personnel N b	Liqu	renvoyer III
+bateau N 1 I	Syn	bateau-citerne
+manger V I.1a	Magn	de bon cœur
+étranger N I	Métaphore	étranger N II
+apéro I	Gener	boisson I
+explication II.1	Syn	raison 2
+tabac 2 I	Anti	bide II
+route II.1	Extension	route II.2a
+courre V	Syn	courir III.2
+abandonner I.1	Extension	abandonner I.2a
+vélo I	AntiBon	clou II
+caca N III	Syn	pétrin II
+homme 1a	Adv0	humainement
+festivalier Adj	S0	festival I
+lectoral	S0	lecture
+tête de cochon	Syn	peau de vache
+lavage I.1	Syn	séchage 1
+naturel	Anti	artificiel
+pantalon	Real1	avoir V I.2
+mauvaise langue	Syn	langue de vipère
+tueur N	Syn	tueuse
+nièce	Mult	famille I.a
+tartisses b	Syn	waters b
+enculeur de mouches	Syn	enculeuse de mouche
+bilan I.4	S2	langage écrit
+jaillir I	Syn	sourdre I
+vengeur Adj I	S1	action I.1
+en présence 2	Syn	ensemble Adv
+gymnastique N II	Syn	contorsion I
+casserole IV	Syn	affaire I.2
+tarin	Syn	naseaux II
+supplier	A1	suppliant Adj
+chercher midi à quatorze heures	Syn	compliquer
+enculer les mouches	Syn	chipoter II.2
+boire N, masc	Syn	boisson I
+vélo d’appartement 1	Gener	appareil I.1
+seins I.2b	Real2	sucer I.1
+se dégarnir	Syn	se déplumer
+industrie b	S1	ouvrier N
+dormir I.1a	Magn	comme un sonneur
+absent Adj II	Syn	manquant
+lie-de-vin b	A0	lie-de-vin a
+comme une souche	Syn	comme une masse
+abeilles I.b	Real1	élever III.c
+à droite et à gauche I	Métaphore	à droite et à gauche II
+fendre I	Syn	pourfendre I
+chant I.1a	Métonymie	chant I.1b
+serrer les dents I	Métaphore	serrer les dents II
+assurer I	S0	assurance I
+crasseux III.1	Syn	cradingue III
+coquille I.1a	S1	mollusque
+nouille II	Syn	biroute
+muet Adj II	S1	film II
+allemand N II	A0	allemand Adj III
+s’évanouir I	S0	évanouissement I
+bouffer 1 I.3	Syn	manger V I.4a
+joyeux I.1a	Métonymie	joyeux I.1b
+promenade I.a	V0	se promener
+emprisonner	A2	emprisonné
+s’intégrer II.2	S0	intégration II.2
+homme politique	AntiBon	politicard N
+pneumonie	Sloc	poumons
+lac II.1a	Real@	déverser I
+imminent	Syn	prochain Adj II.2a
+revêtement II	Syn	couverture III
+quatre cents coups	Sing	frasque
+battre 1 I.1a	Extension	battre 1 I.2a
+conducteur I.b	S2	train 1 I
+château	S1	châtelain
+marche 1 I.3c	Magn	long Adj III.2a
+chuchotement	Syn	chuchotis
+condition II.1	Syn	état 1 I.2
+orage II	Adv1	dans II.1
+exiger I	Able2	exigible
+envelopper I.1	S0	enveloppement 1
+tête I.1a	Loc	dans I.4
+salaire	A3	salarié Adj 2
+visite I	V0	visiter I.1
+canard 1 I.a	Syn	cane
+traîner IV.2	Syn	prendre son temps
+goûter N I	V0	goûter V II
+suite I	Métaphore	suite II
+microbe I	Métaphore	microbe II
+bouvreuil	Gener	passereaux
+trotter 1	Syn	galoper I
+foyer III.1b	S1	séisme
+habit I.2b	Real1	porter IV
+karaté	Syn	judo
+complet N	Syn	deux-pièces 1 I
+nausée I	Oper1	avoir V II
+ignorance	V0	ignorer I
+couverture II.2	S1	couvreur
+jardin public	Gener	lieu public
+blase II	Syn	blair
+vêto N, masc	Syn	vétérinaire N, masc
+demander III.2	Syn	réclamer
+boîte aux lettres I.b	S2	factrice 1
+en fleurs a	Métonymie	en fleurs b
+affirmer	S0	affirmation
+rouge I.1a	Syn	lie-de-vin a
+se déplacer I.1	Syn	voler 1 IV.a
+reptation a	V0	ramper I.a
+japonais Adj 2	S1	Japonais N I
+vent II	Syn	gaz II
+aborigène N, fém a	Syn	aborigène N, masc a
+pluie II.1a	Involv	être V IV.2a
+porc I.1	S1	éleveur
+tante II	Syn	lope
+prairie	Syn	pré
+pays I.1b	S1	compatriote N, fém
+chien de chasse	Syn	lice 1
+nul Adj 2	Syn	aucun Adj
+musique I.2a	Sinstr	instrument de musique
+rouille N II	Gener	sauce I
+cigare I	Func0	cigarier
+droit N I.1	Contr	obligation I.1
+tempête I.1	Func0	déferler I
+ennemi N I	S0	inimitié
+cour I	Syn	patio
+se disputer	Syn	s’engueuler
+environ	Syn	grosso modo
+désordonné	S0	désordre I
+exécuter I.1	S1	exécutrice
+expresso	Gener	boisson chaude
+vent I.1	Involv	à l’abri II.1
+chenapan	Syn	bandit II.2
+incompréhensible	Anti	compréhensible
+raisonner	A2	raisonné
+bataille I.1	S1	adversaire N, masc I
+aïeule	Syn	mémère I
+palet II	Gener	gâteau I.b
+faire II.1	Syn	y aller II.2
+légal 1	Métonymie	légal 2
+manger V IV.1	Syn	consommer II.1
+Allemand N I	Métonymie	allemand N II
+courageuse	Syn	courageux N
+arrivée I.a	Métaphore	arrivée II.2
+attaché-case	Syn	porte-documents
+courir IV.2	Extension	courir IV.3
+boîte de réception	Syn	boîte d’envoi
+organe I	S1	être vivant
+transmettre I.2	Syn	donner I.1
+occupé I.1	Métaphore	occupé II.1
+chiper	Syn	chaparder
+maladie I.1b	Func2	toucher V III.1
+pluie I	AntiBon	dévastateur 2
+profondément II	A0	profond Adj II
+presque	Syn	comme IV
+chatte I	Métaphore	chatte II
+placard 1 I	Real1	remplir I.1
+coup de soleil	Oper1	attraper II
+s’inspirer	A1	inspiré II.a
+légume I.1a	A0	légumier
+bistouquette	Syn	chibre
+verticalement	Syn	debout IV.1
+restaurant	Cap	restauratrice
+porte 1	Instr	par I
+tapis I.1	AntiBon	pelé Adj II
+pluie II.1a	Func0	tomber V I.2b
+dents 1 II.1	A1	garni
+lard	Gener	charcuterie I
+avoir l’alcool [Y]	Syn	avoir le vin [Y]
+adorable 2	Adv0	adorablement
+établi Adj I	Syn	situé
+imprimé Adj 1	Extension	imprimé Adj 2
+élire	S1	électrice
+colonie III	Syn	essaim
+fermement	Syn	solidement II
+galette II.1	Syn	plaque I.1
+coffre I.1	Extension	coffre I.2
+parchemin	Gener	document 1
+aborigène N, masc a	Syn	aborigène N, fém a
+affrioler 2a	Caus	affrioler 2b
+corps IV.1b	S1	soldate
+auto-école	Syn	école II
+fumeuse	S2	cigare I
+manquer IV	Conv-ij	s’ennuyer 2
+passé N I	Métonymie	passé N II
+étreindre I.2	S0	étreinte I.1b
+national Adj III	Syn	familier Adj I
+bodybuildeuse	Syn	bodybuilder
+animal N I.2	Magn	docile
+noyade 2	V0	noyer V I
+parasite N, fém	Syn	pique-assiette b
+capteur	Syn	récepteur N
+gracieux 1	Extension	gracieux 2
+jambe de force I	Syn	poutre
+boucher V I.2	Syn	remplir I.1
+poitrail 2	Syn	poitrine 1a
+couché I.1a	Pred	rester II
+sur les dents	Syn	actif Adj I
+dégueu III	Syn	cradingue III
+s’installer I	S0	installation I
+accuser le coup I.2	Intersection	accuser le coup II
+esclave N, fém	Syn	esclave N, masc I
+chat 1 I.a	Syn	minet
+rembourser	Able2	remboursable
+marché II.2	Syn	Bourse I
+coin I.1	Métaphore	coin III.2
+déterminé I	Codérivation	déterminé II
+footeuse	Syn	amatrice
+crever I.1	Métaphore	crever II
+fortune 2 I	Métonymie	fortune 2 II.1
+avocate I	Bon	renommé
+Noël 2	Sloc	décembre
+palmier II	Gener	biscuit 1 2
+chat 1 I.a	Involv	mordre
+atteindre I.1	Syn	frapper I
+succéder II	Syn	se succéder II.2
+nostalgie I	Gener	sentiment 1a
+conteuse 1	Syn	conteur 1
+lieux d’aisances b	Syn	gogues a
+subtiliser	Syn	chourer
+saphir b	Gener	pierre précieuse b
+arriver V.1	Syn	se réaliser
+noueux II	Syn	nerveux II
+manger V II.1	Syn	bouffer 1 II.3
+franchissable	Anti	infranchissable
+pesée	V0	peser I
+maladie III.2a	Liqu	guérir 2
+aviron	Syn	bateau N 1 II
+manger V I.1c	Bon	lentement
+création II	S1	créateur N
+guitariste N, fém	Sinstr	guitare
+pioncer I.2	Syn	dormir I.2
+tirer I.1	Métaphore	tirer V
+nant	Syn	ruisseau
+comme un sou neuf	Syn	très
+cheminement I	Métaphore	cheminement II
+mouche II.1	S1	pêcheuse
+cher Adj II	Métaphore	cher Adj III
+costume I.2	Real1	mettre I.2a
+pipi-room	Syn	lieux d’aisances a
+conduire III.1	Syn	diriger III.1
+karaté	Syn	taekwondo
+méchant Adj I.a	S1	méchant N
+gogues b	Syn	chiottes I.b
+cornet b	Gener	contenu N I
+dirigeant N	Syn	dirigeante
+élève N, masc	S4	collège I
+peur 1a	Extension	peur 2
+se cailler II	Syn	se geler les fesses
+rivière I	Real@	descendre III.1
+clairon I	Ver	militaire Adj
+avancer II.1a	S0	avancement III.1
+Américain N I	Syn	Américaine 1
+traiter I.1	Métaphore	traiter III
+bâtons dans les roues	Syn	coup d’arrêt
+définir I.1	S0	définition I.1
+toilette I.1a	Sinstr	linge I.a
+s’exposer	Syn	encourir
+débutant Adj II	S1	débutant N
+glisser I	S0	glissement I.1
+teneur I	Syn	contenu N II
+moustique I	Gener	insecte I.a
+terroriste Adj	S0	terrorisme I
+faible N I	Métonymie	faible N II
+plomb II	Syn	balle II
+neuf Adj I	Syn	nouveau Adj I
+éveil I.2	Syn	veille I
+dent 1 I.a	Liqu	extraire
+absent Adj III.a	Métonymie	absent Adj III.b
+correspondance I	A1	correspondant Adj
+office II.1	Syn	bureau II.3a
+vair	Gener	fourrure II
+bécane II	Syn	ordinateur
+téléphone II.1	Oper1	avoir V I.1
+moule à gaufres II.2	Syn	cornichon N II
+arbre de Noël I	Loc	devant Prép I.1
+dire V III	Syn	trouver III
+couler I.1	Métonymie	couler I.2
+direction III	S1	directeur N
+mollesse III.1	Métonymie	mollesse III.2
+200 mètres	Syn	1500 mètres
+hypermarché	S3	client
+gagner I.1	Extension	gagner I.2
+correspondance I	Codérivation	correspondance II.a
+outil II	Syn	moyen N
+brosse I.1	Labreal12	brossage I
+boxe	Oper1	pratiquer I
+embarras	Syn	honte I.1
+connaître I	Syn	savoir V 1
+abondant I.1	Syn	nombreux 2
+sombre II	Métaphore	sombre III
+diplôme II	S3	discipline I
+calme Adj I	S0	calme N I.1
+égoïsme	S1	égoïste N, masc
+retirer I.1	Syn	quitter IV
+route IV	Oper1	se lancer
+microbe II	Syn	moucheron II
+capitaine N, fém 3	Syn	capitaine N, masc 3
+parler I.2	Syn	savoir V 2
+plage I.1a	Syn	côte 2
+ville I.1b	Syn	plage I.2b
+insigne I	Syn	cravate II.1
+canalisation	Syn	tuyau I.1
+dinosaurien	Syn	dinosaure
+footing 2	Syn	jogging I.1
+tornade I	Fact1	endommager
+battre 1 I.1a	Spécialisation	battre 1 I.1b
+merde I	Syn	excréments
+coussin 1	Extension	coussin 2
+vote I	Résultat	vote III
+garni	Syn	rempli I
+avaler I.2	Syn	engloutir I
+fâcher	Syn	énerver b
+orage I	AntiMagn	petit Adj III.1
+patins I.2	S1	patineuse
+laid Adj	S1	laid N
+ennemi N II	Anti	supporter N, masc 2
+promotion	V0	promouvoir
+gribouiller I	Métaphore	gribouiller II
+do	Syn	sol 2
+chapelet I.a	Syn	rosaire
+ici I.a	Contr	là-bas
+cracra II	Syn	sale Adj II.1
+bijou I	Func0	joaillière
+déraison	A1	déraisonnable
+sanitaires N II.b	Syn	toilettes III.1b
+authentique II	Syn	véritable III
+sacrément	Syn	très
+narine 2	Real1	expirer I
+exercice I.1	Métonymie	exercice II
+vécés a	Syn	chiottes I.a
+terrible I	Métaphore	terrible III
+pneumatique N I	Codérivation	pneumatique N II
+distrait Adj a	Syn	tête en l’air
+franchement I	Anti	hypocritement
+serviette II	Real2	mettre I.1a
+couple N, masc III.1b	Epit	mathématique Adj
+rusé Adj	S1	rusée
+feu II.2	Syn	incendie
+durée	Syn	temps I.2
+gratuitement	Anti	à titre onéreux
+égaler II	A0	égal Adj II
+crescendo I.1	Métaphore	crescendo II
+ramper IV	Syn	planer 1 II
+bateau N 1 I	Syn	transbordeur
+vaccination	A0	vaccinal II
+s’engager II.2	Syn	s’ouvrir III.1
+menottes 1 I	Mult	paire 1
+soutien II.1	Extension	soutien II.2
+cacao III	Gener	boisson I
+inviter II.a	Syn	encourager I.2
+rencontre 3	Syn	réunion II.2
+bordeaux II	Gener	boisson alcoolisée
+misérable N, masc 1	Syn	misérable N, fém 1
+disputer II	Syn	participer
+mouche I	Epit	domestique Adj II.1b
+national N	Syn	ressortissant
+plage arrière 1	Intersection	plage arrière 2
+rideau II.2	Syn	porte 2
+impeccable I	Métaphore	impeccable II
+roi I	S3	sujette
+se rattraper	Syn	se raccrocher
+s’endormir I	Caus	endormir a
+raccourcir II	Anti	allonger 1 II.1
+dissimuler I.2	Syn	bouffer 1 V.2
+exception 1	V0	excepter
+traîtresse N	Syn	traître N
+plage II	Gener	activité III
+piquette I	Syn	vin I.1
+obsédé N 1	A1	obsédé Adj
+tête de pipe II	Syn	individu 1
+renverser I.3	A2	accidenté Adj
+incidence b	Syn	effet
+brioche II	Syn	bouée III
+énergie I.1	A1	énergique 1
+juridique	S0	droit N III.2
+averse I	Minus	se calmer I
+muscle I.1a	Magn	puissant Adj I
+terminer I.1a	Métaphore	terminer IV
+manque III	Oper1	ressentir
+savant Adj III.2	Syn	élaboré
+cycliste N, fém I	Métonymie	cyclistes N, fém II
+frappé	Syn	intéressé
+appréhension	Manif	se peindre
+rugby 2	Syn	partie III.1
+taillage	V0	tailler 1 I.1
+stocker I	Syn	conserver I
+dissimuler II.2	A2	sous le tapis
+schlinguer	Syn	puer I
+désert N II.1	Pred	se désertifier II
+accueillir I.1	Métaphore	accueillir II.1
+aller V VII.1	Syn	s’étaler
+teub	Syn	membre N II
+voler 1 IV.b	Syn	flotter II
+gâteau I.a	Métaphore	gâteau II
+avocat 1 I	S2	client
+opposer	Able3	opposable
+lavandière	Syn	laveuse b
+misogynie	A1	misogyne Adj 2
+équivalent Adj	S0	équivalence I
+permettre	Able1	permissif
+reste I.2	Syn	morceau I.1b
+efficacité	Anti	inefficacité
+goguenots a	Syn	vécés a
+épicerie	S3	cliente
+acharné	Syn	tenace
+désoler	S0	désolation I
+gorge I.1	A0	jugulaire Adj
+canidés	Gener	animal N I.1a
+bon de garantie	Syn	garantie 2b
+enterrer I	Anti	déterrer
+placer I.a	Syn	déplacer I.1
+musique I.3	A0	musical 1
+manifeste Adj	Syn	sensible I.3a
+s’étirer II	S0	étirement
+niveau III	Syn	partie I.1
+oui oui	Syn	oui I
+escalade 3	S1	cycliste N, fém I
+parallélisme	Syn	similarité
+constituant I	Syn	partie I.1
+se venger	A1	vengeur Adj II
+anarchiquement	S0	anarchie II
+appartenir I	S1	possession II
+route V.2	Syn	précarité
+boche N, masc II	S1	Boche N, masc I
+épine 1	Extension	épine 2
+assaillante	Syn	attaquante I
+bouchère-charcutière 1	Gener	profession
+petit-fils	S2	grands-parents
+vert I.b	A0	vert I.a
+agile	S0	agilité
+messe de minuit	Oper1	dire V I.b
+habits I.1b	Magn	hiver
+bol fécal	Syn	étron
+se bouffer IV.2	Syn	bouffer 1 IV.2
+retraitement I	Syn	recyclage
+soupe au lait I	Sing	lait I.b
+cœur II.2	Contr	pique N, masc
+vélo tout chemin 2	Oper1	faire II.1
+morceau I.2	Syn	partie I.1
+couple N, masc I.1a	Oper1	mettre III
+raser b	S0	rasage b
+Ça suffit.	Syn	Assez ! III
+cagoinces a	Syn	tartisses a
+chiffre III	A3	à III.2
+aimer II	S1	amant
+floristique	S0	flore
+magistrature	Sing	magistrate
+adorer II.1	Syn	aimer I.1
+menu Adj	Syn	petit Adj I.1
+bœuf 1 I.1a	Gener	bovin N
+aimer I.1	A1	amoureux Adj I.1
+traite 1	V0	traire
+serviable	Syn	dévoué
+gamine I.2	Syn	gamin N I.2
+service IV.1	Métonymie	service V
+fenêtre I	AntiMagn	étroit I.1
+scandale II	Syn	honte II
+manger V I.1a	Magn	goulûment
+germanique N, masc I.2	S1	Germanique N, fém 1
+sélection 1	Syn	choix 1
+passagère	Syn	passager N
+studio 1	AntiMagn	studette
+ampoule I.1b	Syn	contenu N I
+après Prép III	Syn	à III.1a
+vieillir 1	Sres	vieillesse
+colère a	S1	coléreuse
+cabinets I.2b	Syn	water-closet a
+démoniaque	Syn	infernal II
+tyran I	Syn	satrape
+clocharde	Syn	SDF b
+terrier I	S1	lapin 1 I.a
+clandestine	Syn	clandestin N
+rouler 1 VI.2a	Métonymie	rouler 1 VI.3
+décourager I.1	Result2	se décourager
+placard 2 IV	Syn	tartine II.1
+mal Adv I.2	Anti	convenablement
+costard	Syn	complet N
+chatte I	Real1	posséder I
+dentiste a	Real2	voir I.3
+amabilité	Syn	gentillesse 1
+éléphant II.1	Syn	hippopotame II
+équivaloir	S1	équivalent N
+crade II	Syn	sale Adj II.1
+recherche II	Syn	étude I.2
+instable I	Syn	fragile II
+péage I	Métonymie	péage II
+marché II.1	Extension	marché II.2
+coléreux Adj b	Able1	coléreux Adj a
+comédie	Syn	cinéma III
+agricole	Contr	urbain
+valide I	Anti	invalide Adj I
+curé	Syn	corbeau II.1a
+commander I.1	S0	commandement
+voyou Adj 1	S1	voyou N 1
+entraîner I.1	Extension	entraîner I.2
+sexe masculin II	S1	homme 2
+s’acheminer II	Syn	se diriger II
+exact I.1	Adv0	exactement 2
+mère 1 I.1b	Oper1	accoucher b
+maths	Syn	mathématiques
+dans la semoule 1	Syn	pédaler dans la choucroute
+colorer I.1b	Syn	décolorer I.1b
+pêche 1	V0	pêcher V
+s’intéresser	Syn	se passionner
+train 1 V.1	Minus	ralentir II
+bouchon 1 III	Func2	se former
+boulimie I	A1	boulimique Adj I.b
+règle I	Métaphore	règle II
+étrangeté I.1	Métonymie	étrangeté I.2
+plateau I.a	Real1	restaurant
+épuisable	Anti	inépuisable
+avocat 1 I	S3	procès
+germanique Adj II.2	Syn	allemand Adj II
+partir 1 IV.1a	Syn	commencer III.2b
+cigarette I	Real1	allumette I.1
+maternel a	Syn	maternel b
+lune II.1	S2	mois b
+définir III	S2	politique N, fém I.1
+étreindre I.1	Extension	étreindre I.2
+sonner II	Syn	chanter II.2
+en Prép I	Métaphore	en Prép II.a
+sincère I	Métaphore	sincère II
+escalope	S1	bœuf 1 I.1b
+laver I.2	S0	lessive I
+rougeur I.1	Syn	rousseur I.1
+rechange 2	Syn	remplacement
+rang IV	AntiMagn	clairsemé
+célébration I.1a	S3	célébration I.1b
+nez I.a	Syn	blase II
+établi N	Syn	banc 1 III.1
+skis I.b	S1	véloski
+artiste N, masc	Syn	artiste N, fém
+à côté	Syn	contre Prép II
+astuce I	Métonymie	astuce II
+célébrer I.1	Syn	officier V 1
+maladie I.1b	Func1	frapper V
+méridienne	Syn	canap
+pluriel Adj II	Anti	singulier Adj I
+faim I.1a	Contr	soif
+demandeur II	Syn	demanderesse
+en avant I	Syn	devant Prép I.2
+production III	Syn	film II
+habillement I.2	Syn	vêtements I.2
+cigarette I	Real1	fumée
+humour	Anti	balai dans le cul 2
+col I.1	S1	chemise I
+en-cas	Syn	bouffe 2
+chaleur I.1b	Syn	chaud N
+vêtements I.2	AntiBon	usé
+volume I.1	Extension	volume I.2
+faim I.1a	Extension	faim I.1b
+rive I.1a	Syn	rivage
+tenir III.2	Syn	avoir V II
+genou I.1a	Mult	jambes I.1
+regret I.1	V0	regretter I.1
+boxe	Sing	compétition
+bœuf 1 I.1a	Real1	élever III.c
+miel 1 I	Func0	produire 1
+arrachement I	Syn	arrachage 2
+progresser I.1	Métonymie	progresser I.2
+dire V I.b	Métonymie	dire V III
+ironie	Syn	humour
+couler I.3b	Syn	fuir IV
+disparaître I	S0	disparition
+roberts	Syn	roploplos
+à droite et à gauche I	Syn	partout I
+cigarette III	Syn	ajusté
+garo	Syn	clope
+empreinte I.1a	Métaphore	empreinte III
+proche Adj II.1	Syn	rapide Adj III.2
+wawas a	Syn	goguenots a
+jupe-culotte	Real1	mettre I.1a
+expert 1	Mult	groupe 1
+griller 1 II	Syn	fumer III.a
+pompier N, masc I	Mult	caserne II
+médiéval Adj 1	Métonymie	médiéval Adj 2
+triste I	Anti	joyeux I.1a
+oubli I.1	Métaphore	oubli II
+lavage I.2c	S1	machine 2
+adopter I	A1	adoptant Adj
+expiré	Anti	inspiré I
+pyramide I.2	Syn	pyramide I.1
+cadre 1 I.2	S1	tambour I
+malhabile	Anti	habile I
+retirer I.1	Métaphore	retirer II
+main I.a	Métaphore	main IV.2
+poids III	Epit	poitrine 4
+fauteuil I	Real1	inoccupé 2
+en compote	Syn	en morceaux
+informaticienne	Syn	informaticien
+chevelure	AntiMagn	clairsemé
+debout III.1	Anti	couché III
+route IV	Syn	voie II
+reposer 2 III	Métaphore	reposer 2 IV
+rouge IV	Contr	blanc III
+caprin	S0	chèvre I
+pompier N, masc I	Real3	aviser
+bureau II.3b	Real1	dissoudre II 
+boulimie II	A0	boulimique Adj II.a
+sensibilité IV.2	A1	sensible IV.2
+ingénieure	Syn	ingénieur
+accès III	Syn	crise II.2
+judaïsme	A1	juif Adj 2
+fabrication	V0	fabriquer
+oreilles I.1a	Loc	sur II.2
+rectifier I	S0	rectification I
+éléphantin	S0	éléphant I
+chenapan	Syn	filou II
+fertilité	Anti	infertilité
+étonnant	Syn	surprenant
+éloge 1	A1	élogieux 2
+choix 1	V0	choisir
+gnôle	Gener	boisson alcoolisée
+ivre I.1	Magn	mort Adj I
+volant Adj a	Extension	volant Adj b
+peaufiner	Syn	parfaire
+demander I.3	S1	demandeuse
+marron Adj 1 b	A0	marron Adj 1 a
+cradingue II	Syn	dégueu II.1
+enculeuse de mouche	Syn	enculeur de mouches
+indiscret Adj	S1	indiscret N
+orphelin Adj I.1a	S1	orpheline a
+se dissiper	Syn	disparaître I
+s’arrêter II.b	Syn	cesser 1
+tartine I	Real1	grignoter I.1
+se débarrasser I	Métaphore	se débarrasser II
+félinés	Syn	chat 1 I.b
+courir V.1	Syn	marcher IV
+sommet I.2	Syn	cime I.2
+sociologue N, fém	Syn	sociologue N, masc
+éblouissant I	Syn	aveuglant
+sensible I.2	Anti	insensible I.2
+Suédoise	Syn	Suédois N I
+douche II.1	Fact0	arrêter II
+ticket I	Syn	entrée II
+fa	Syn	ré
+repas I.2	Func0	avoir lieu
+portrait	S1	portraitiste N, masc
+réagir I.1a	Extension	réagir I.1c
+nager I.b	Sloc	lac I
+ouragan I	Syn	tempête I.1
+ami N I.1	Magn	grand Adj III.2
+aîné Adj	S2	puînée
+exact I.2	Syn	précis Adj 2
+tempête II.1	Func0	éclater II
+Amérique 1	A0	américain Adj I.1
+sautiller	Syn	sauter I.1
+stérilité I	Anti	fécondité
+figure I.2	Fact0	illustrer II.1
+légiste N, fém	Syn	médecin légiste N, fém
+voyou N 1	Fact2	racketter
+nuage II.1	AntiMagn	léger III.2
+se révéler II	Syn	tomber le masque
+animal N I.1a	Syn	bête N 1
+rangement II	Syn	placard 1 I
+longueur III.2	Gener	mesure 1 I.1b
+pompes 2	Real1	mettre I.2a
+jambes I.1	AntiMagn	nerveux II
+se suicider	S1	suicidaire N, masc
+pomme II	Syn	visage I.1
+douche II.1	Fact0	allumer II.2
+caramel I.2	Func0	confiseuse
+gonflé I.1	Anti	dégonflé
+fourche	Gener	outil I
+repas I.1a	Syn	goûter N I
+divagation II.1	Métonymie	divagation II.2
+pâle I.1	Magn	livide 1
+plante 2	S1	pieds I
+autocar	Fact0	rouler 1 VI.2a
+abricot I	Sloc	abricotier
+hysope	Gener	fleur I.2
+réagir II.2a	Extension	réagir II.2b
+téter	S1	nourrisson
+vocabulaire	S2	mot I.1
+schéma	Adv0	schématiquement
+route I	A0	routier Adj
+hors-la-loi	Syn	malfaiteur
+vaisselle II	Gener	lavage I.1
+là-dessus III	Syn	là III.1
+entretien II	Syn	discussion
+pourboire	S1	cliente
+prisonnier Adj I.1	Sloc	prison I
+chevelure	Syn	tifs
+désert N X-IV.1	Magn	long Adj III.2a
+plan N 1 I	A0	plan Adj
+batterie III	Gener	instrument de musique
+croquenots	Gener	chaussures I
+siège III.1	Syn	bureau II.3a
+miracle 2	Adv1	miraculeusement 2
+atermoyer	Syn	botter en touche
+rouge II.1	Anti	livide 2
+injure 1	Oper1	adresser 1
+tout de suite	Syn	maintenant I.1
+ravir 1	Syn	subtiliser
+ragot	Syn	commérage
+sans domicile fixe 2b	Sloc	rue II
+d’abord 2	Syn	essentiellement
+bleu I.a	Syn	myosotis II
+train de culture	Syn	équipement II.1
+ennemi N II	Syn	ennemie II
+nuage II.1	Plus	se gonfler
+mésange	Syn	mésange bleue
+briser III	Syn	interrompre I
+givre I.1	Métaphore	givre II
+pleuvoir I	Magn	dru II.b
+fraise 1 I	Métaphore	fraise 1 IV
+baigner I.1	Extension	baigner I.2
+envoyer I.1	Result2	se déplacer I.2b
+mél II.1	Syn	adresse de courrier électronique
+capillaire Adj II.1b	S0	capillarité b
+ressemblance 2	Oper1	présenter III
+chiffon I	Real1	coup II.2a
+mesure 1 I.1a	Spécialisation	mesure 1 I.2a
+mouche du vinaigre	Syn	mouche I
+pomme II	Syn	boule II
+steeple	Gener	évènement sportif
+en-tête b	Contr	signature II.2
+sentiment 1b	Func1	saisir III
+soudeuse I	Syn	soudeur
+crapaud I	Syn	grenouille
+insipide	Anti	sapide
+chaussures I	Real1	enlever I.2
+crasseux II	Syn	craspec II
+malade Adj I.1a	Pred	tomber V IV.2b
+gros dos II	Syn	résignation
+godasses	Syn	tatanes
+largeur I	Syn	longueur I.2
+étendre I	Métaphore	étendre II.1
+chien I.a	Métaphore	chien II.1
+politesse	Syn	égards 2
+mal à propos	Magn	très
+comptable Adj II	S0	comptabilité II
+inversement	A0	inverse Adj
+ours	Gener	mammifères N
+timide Adj I.1b	Syn	hésitant II
+coût d’entrée	Gener	coût
+remettre les pendules à l’heure II	Syn	rétablir 1
+établir III	Syn	démontrer 2
+nostalgie I	Syn	manque III
+personnage III	Syn	sujet N IV
+coller V	Syn	filer III
+irrégulier II.1	Syn	clandestin Adj
+combattant N II	Syn	ami N II
+anarchique 1	Extension	anarchique 2
+midi 1	Contr	minuit
+étreinte I.1b	V0	étreindre I.2
+pluie I	Gener	phénomène atmosphérique
+forme III.1	Oper1	garder III
+obéissant	Syn	docile
+avancer II.1b	A1	avancé III.1
+malhonnêtement	Anti	honnêtement I.a
+ennemi Adj I.a	S1	ennemi N I
+consentir 1	S0	consentement 1
+boire V I.2a	Magn	trop 1
+vitesse 1b	Causation	vitesse 2
+corruption II.2	A2	corrompu
+jaune b	A0	jaune a
+navire	Syn	bâtiment II
+pigeonner 1	Syn	flouer
+imagination 2	A1	imaginatif Adj 2
+écolier Adj	S0	écolière
+si N	Gener	note
+cuirassé N	Gener	bateau N 1 I
+écrevisse I	Métaphore	écrevisse II
+admission II	V0	admettre II.1a
+naviguer III	Syn	se déplacer IV
+cabinet d’aisances a	Syn	gogues a
+liquidation I	Métaphore	liquidation III
+plateau IV.2b	Syn	tournoi
+pâle I.2	Magn	livide 2
+aide N, fém I.1	Métonymie	aide N, fém II
+manquer I.2	S2	manquant
+partager II	S0	partage II
+passer l’arme à gauche	Syn	périr
+ranger I	Syn	aligner
+ONU	A0	onusien
+sauce II	Syn	averse I
+mobiler N II	Syn	ameublement II
+groupe 1	Syn	ensemble de personnes
+désert Adj	Syn	abandonné Adj 1
+éolien	S0	vent I.1
+éducable I	A1	éduqué b
+taper du poing sur la table	Syn	mettre le poing sur la table
+décharger I.2	Anti	charger I.2
+brosse I.1	Labreal12	nettoyer I.1a
+rive I.1b	Syn	rivage
+sommeil I.1a	Oper1	réveiller b
+abeille I.a	Syn	guêpe
+opéra 1 I	Func0	compositeur
+lavage I.1	Syn	nettoyage I.1a
+locatif 2	Syn	louable 1
+décrocher 2	Anti	raccrocher 2
+torchon I	2-II	essuie-verre
+repéter I	Métaphore	repéter II
+communisme 2	A0	communiste Adj 3
+maître N I.1	Métonymie	maître N I.2
+louer 1 I.2	S4	loyer
+crottin	S1	cheval I.1a
+faire II.1	Extension	faire II.2
+au revoir 1	Métonymie	au revoir 2
+rame 3	Labreal12	ramer 2
+anticiper I	Métaphore	anticiper II.1
+analogue N a	Extension	analogue N c
+figure I.2	Fact0	indiquer I.2
+intoxiquer	Syn	empoisonner 2
+engloutir II.1	Syn	aspirer 1 II.1
+parc I.1	S2	se promener
+final I	Métaphore	final II
+thoracique	S0	poitrine 1a
+casquette 1 II	Real1	quitter III
+caisse III	Syn	bagnole
+filou II	Syn	chenapan
+mensonge 2	V0	mentir
+dormeur a	Extension	dormeur b
+clamser	Syn	perdre la vie
+escalope	S1	poulet II
+bagué	S1	main I.a
+reculer I.1	Extension	reculer I.3
+cliquetis	Gener	bruit I
+riant I	Syn	rieur Adj I
+famille I.a	Métaphore	famille III
+téter	S2	seins I.2b
+engueulade 2	Syn	dispute
+coin-cuisine	Syn	cuisine II.a
+crouler III	Syn	voler en éclats II
+carcéral	S0	prison I
+neutron	Gener	particule subatomique
+geindre I.1	Métaphore	geindre II
+exposer I	S1	exposant
+thorax a	Syn	buste I.1
+antenne II.2	A2	à I.2
+se coucher III.1b	Conv-ij	coucher V IV.2
+par-dessous	Anti	par-dessus II
+blase II	Syn	pif
+volée 2	Syn	volé N
+éducatrice 1	Extension	éducatrice 2
+épouvantable I	Métaphore	épouvantable II
+grossier I	Syn	rudimentaire
+déambuler	Syn	divaguer I
+vérification	Syn	contrôle I
+nuage III.2	Oper1	flotter VII
+dîner N I	Syn	repas I.1a
+craspec II	Syn	crasseux II
+faux-cul Adj	Anti	honnête I.a
+renverser II	S0	renversement II
+avoir froid	Syn	geler II.a
+colère a	Manif	se peindre
+rideau I.1b	Fact0	séparer 1
+appeler I.1	Extension	appeler I.2
+instrumentiste N, fém	Syn	instrumentiste N, masc
+déclaration I	V0	déclarer I
+toujours I.2	Anti	longtemps 2
+extrêmement	A0	extrême Adj II
+numéro I.4b	Magn	sacré II.2
+boulimie I	Manif	alimentation II
+honnêtement I.a	Métaphore	honnêtement III
+imprimer II	Sinstr	imprimante
+parallèle N, fém	A1	parallèle Adj 1
+falzar	Syn	pantalon
+border 1 II.b	S2	enfant N, fém I.1
+voleur N II	Syn	larron
+regretter I.1	Extension	regretter I.2
+envahi I	Syn	colonisé
+faute I.1a	A1	fautif Adj 1
+pleuvoir I	Syn	tomber V I.2b
+se diriger I	Métaphore	se diriger II
+victoire I	V0	gagner II.1
+rengaine I	Syn	refrain II
+sans-abri b	Syn	sans-abri a
+pizzaiola	Syn	pizzaiolo
+ville I.1a	Syn	bourg
+navire	Equip	équipage
+entrer IV.2	Conv-ij	comprendre II
+indien Adj I.2	S1	Indien N I
+continent II	Syn	espace N, masc II.2
+enthousiaste N, masc a	Syn	enthousiaste N, fém a
+nettoyer I.4	A2	nettoyé I.3
+salle I.1	Extension	salle I.2
+répulsion I	Métaphore	répulsion II
+parier I.1	S0	pari
+plage II	S1	baigneuse
+ceinture I.1	Contr	bretelles I.2
+tortillard	Syn	train 1 I
+américain Adj II.2	S1	Américaine 2
+absorption I.1	Codérivation	absorption I.2
+ressemblance 2	Magn	incroyable I
+tortue I	Gener	reptiles b
+scandaleusement	Syn	honteusement II
+dimension 2	Syn	profondeur I.1
+lever V VII	Syn	ôter III
+voirie	Sing	voie I.1a
+marche 1 I.3c	S1	marcheuse
+vin I.1	Fact1	enivrer
+élimé	Syn	usé
+proton	Mult	atome I.2
+esclave N, masc II	A1	esclave Adj II
+se diviser	S0	division II.1
+déprécier	S0	dépréciation I
+folie I	S1	fou N I
+noir I.b	A0	noir I.a
+tambour I	Son	roulement II.2
+charge I	Métaphore	charge III.1
+expérience II	Adv0	expérimentalement
+entreprise II.1	S1	entrepreneur
+se glisser	Syn	entrer I.1
+Bordel ! III	Syn	Putain ! II
+nuisette	Real1	avoir V I.2
+cheveu I.1	Minus	raccourcir I
+aérien 1	Contr	aquatique
+choper I	Métaphore	choper II
+jupe I	Real1	ôter I.2
+fond I	Métaphore	fond VIII.1
+sexe féminin I	S1	femelle N 1
+cœur III.2	Syn	poussin II
+s’allonger 2 I.a	S2	lit I.1a
+vêtements I.2	Real1	vêtu
+lier I.2	S0	liaison I
+chleuh Adj I.1	Codérivation	chleuh Adj I.2
+boucher-charcutier 1	Gener	métier
+aide N, masc	Fact2	aider
+connu 2	Syn	su
+mobylette	Syn	vélomoteur
+cancer 1	A1	cancéreux Adj 2
+brosse I.2	Instr	avec I.3a
+célébrer I.1	Extension	célébrer I.2
+faim II.1	Syn	désir 1
+déprimer II.2	S0	déprime
+universitaire Adj	Syn	académique I.1
+averse I	Magn	fort Adj II.1
+frotter 1	S0	frottement
+expérience II	S1	expérimentateur
+se fâcher	A1	fâché
+tempête II.1	Func0	se préparer II
+se déplacer I.1	Caus	déplacer IV.1
+concert I	Real2	aller V II.1
+triangle II.4	S2	danger I
+rideau I.1a	Fact0	masquer
+porchère	Syn	porcher
+bus	Real2	descendre IV
+ajouter I.1	A2	ajouté 1
+épongeage	V0	éponger I
+pantalon	Fact1	mouler
+saint N	Syn	bienheureux N
+fossette	Magn	profond Adj I.1
+atome I.2	Sing	électron
+chiffre II.1	S1	chiffreur I
+ampoule II	Syn	cloque 1
+dormir I.1b	Bon	suffisamment I
+rouge III.2	Gener	feu V
+ôter I.2	Syn	quitter IV
+ramasser II	Syn	se prendre III
+communication 2	Syn	parole I
+déclaré I.1	Extension	déclaré I.2
+instrument à percussion	S1	percussionniste N, masc
+se bouffer III	Syn	détruire II
+bouffer 1 V.3	Anti	restituer II
+pioncer I.1a	Magn	comme un sonneur
+article I.1	Extension	article I.2
+tarif	Syn	prix I
+fesses I.a	Bon	magnifique 1
+veuf Adj I	S1	veuve
+adjacent	Syn	avoisinant 2
+chèque restaurant	Syn	chèque cadeau
+forme II.1	S2	fromage
+wawas b	Syn	tinettes b
+ne pas avoir une minute à soi	Syn	ne pas avoir le temps de s’ennuyer
+dormir I.1a	S0	sommeil I.1a
+succomber I	Syn	décéder
+batteur 1	Gener	musicien N
+dîner V	S1	dîneuse
+vacancier	Syn	touriste N, masc
+souplesse I	Métaphore	souplesse II
+manger V I.1a	Magn	comme un cochon II
+sauter II.1	Extension	sauter II.2
+excentricité 1 II.1	S1	excentricité 1 II.2
+économie I	Gener	science
+profaner	S2	tombe
+nostalgie I	Func1	saisir III
+alerte III	Syn	avertissement 2c
+autour II.1a	Anti	loin II.1
+monétaire	S0	monnaie II
+manche N, masc II	Syn	zigounette
+éclair 1 I.2	Oper1	jeter IV.1
+saumon	Gener	poisson I.a
+frelon	Gener	insectes I.b
+jambes I.2a	Contr	tronc II.a
+s’embarquer I	Syn	embarquer I.1a
+habits I.1b	Syn	nippes
+homicide N	Gener	méfait I
+W.-C. a	Real1	libre III.2
+maillot I.1	Métonymie	maillot II
+éclair 1 II.1	Func1	passer III.2
+aux petits soins	Syn	attentionné
+boire V I.1	Syn	manger V I.1a
+pluie I	Magn	gros Adj VI
+biquette	Syn	bique
+arbre de Noël II	Sloc	Noël 2
+pétiller II	Syn	briller II
+couteau I.a	Spécialisation	couteau I.c
+ermite N, masc I	Syn	anachorète N, masc
+chanter I.2	Sres	chant I.3
+gâteau I.a	Func0	pâtissière 1
+chenapan	Syn	canaille 2
+sémantique N	S2	phrase
+courber 2	Syn	se pencher
+dilapider	Syn	engouffrer
+enveloppe II	Loc	à l’intérieur 2
+cor 1	Gener	instrument de musique
+lier I.1	Anti	délier
+difficulté I.1	A1	difficile 1
+pompe 1 I.1a	Extension	pompe 1 I.2
+nouveau Adj I	Anti	ancien Adj I.1a
+capacité I	Anti	incapacité
+engagement II	V0	s’engager II.1
+plein Adj I.1	Métonymie	plein Adj I.2
+sans-logis N, fém	Syn	sans-abri b
+rabat-joie N, masc I	A1	rabat-joie Adj
+torchon I	Contr	serviette I.1
+poitrine 1a	AntiMagn	creux Adj II.2
+godasses	Syn	pompes 2
+union 2	Syn	lit III.2
+traduire I	Métaphore	traduire II
+inventaire	Syn	chiffrage
+étouffé III.b	Syn	sourd Adj II
+cheveux I.2a	Magn	touffu
+bilan I.4	Oper1	établir II
+États-Unis	Syn	Amérique 2
+nuages III.1	Func1	planer 1 II
+boiter I	Syn	marcher I.1a
+torchon I	2-II	verre II.1a
+toilette I.1a	Oper1	procéder
+autocar	Syn	bus
+couleurs I.3	Oper1	avoir V II
+couleur I.1a	Oper1	prendre V
+appartement 1	Syn	T1
+sort I	Syn	charme 1 I
+enveloppe III	Syn	budget
+coup de fouet I	Syn	impact I
+confirmer I.a	Syn	dire V I.b
+dégrader I	Syn	détériorer
+canapé I	Syn	canap
+au bord I	Métaphore	au bord II
+clairon II	Gener	musicien N
+fessier N 2	Syn	séant N
+tempête I.1	Magn	gros Adj VI
+conduire III.1	S0	conduite II.2
+carafe II	Syn	chef N, masc II
+bec I.2	S1	tortue I
+lectorat 2	S3	éditeur I
+onirique 1	Extension	onirique 2
+botter en touche	Syn	répondre I
+mesure 1 III.1	Syn	contenant
+enveloppe II	Mult	paquet 1b
+manger son pain blanc	Syn	galérer 2
+inquiétude	V0	inquiéter I
+se battre 1	Syn	se mettre sur la figure
+rabibocher I	Métaphore	rabibocher II
+message	Syn	courriel I
+avocat 1 I	Pred	prendre la robe
+fumeur	S2	tabac 1 I.2
+pièce d’ameublement	S2	pièce III.a
+bulletin de vote	Syn	vote II
+vague Adj I	S0	vague N, masc
+activer I	Syn	actionner
+bœuf 1 I.1a	S1	éleveur
+se dérouler I	Syn	se déployer
+administratrice	Fact2	administrer 1
+tornade IV	AntiMagn	petit Adj IV
+habiter I	S1	habitant 1
+accomplissement I.a	V0	accomplir I
+débat 1	V0	débattre 1
+caïman	Syn	crocodile I
+dépliement	V0	déplier I
+ouvrir I.2a	Syn	casser III
+se déplacer II.2	Sres	déplacement II.2
+table de travail	Syn	bureau I
+perfectible	Syn	améliorable
+virtuose Adj	S1	musicienne
+round	Syn	reprise 2
+excentricité 1 I.1	Syn	bizarrerie 1
+lunettes I.2	Métaphore	lunette II
+violemment I.1	Syn	le poing sur la table
+dette	S2	argent II
+cimenter I	Métaphore	cimenter II
+tourner V	Syn	virer II.a
+tinter	Syn	cliqueter
+soulever I.2	Syn	lever V V
+sinophone N, masc	Syn	sinophone N, fém
+large Adj I.1	Contr	long Adj I.1
+ride	AntiMagn	ridule
+fort Adj II.1	Syn	assourdissant
+pluie II.2	Minus	s’apaiser
+valoir II	S2	valeur III
+boîte aux lettres I.b	Labreal13	récupérer I.1
+coup de masse	Syn	coup de boutoir I
+temps I.3	Syn	époque
+acquérir I	S1	acquéreuse
+kaki 1 II	S1	soldat N, masc
+s’oublier	Syn	perdre les pédales I
+soumettre I	Métaphore	soumettre II
+tête I.5a	Syn	cervelle II
+mi N	Syn	do
+miroir I	Métaphore	miroir II
+métier à tisser	Syn	machine à coudre
+adversaire N, fém II	Syn	ennemie II
+maîtresse IV	Syn	amante
+traiter I.2	S1	médecin N, fém
+véhicule I.b	S2	passager N
+maladie I.1a	AntiMagn	orphelin Adj II.3
+sinophone N, masc	A1	sinophone Adj
+coup de torchon I	Métaphore	coup de torchon III
+mémé II	Syn	mamie II
+cafardeux II	Syn	déprimant
+ping-pong I.1	Sing	match
+français N II	Gener	langue II.a
+Anglais N I	Syn	Anglaise I
+courir I.1a	Métonymie	courir I.1b
+s’arrêter I.1	Métaphore	s’arrêter II.a
+école I.1a	Métaphore	école III
+talon I.1	Métaphore	talon II
+roue à aubes	S1	bateau N 1 I
+post-opératoire	Anti	pré-opératoire
+tempête II.2	Func0	déchaîner
+antenne II.1	Prepar	déployer
+aller voir ailleurs I	Syn	bouger III.1
+guitoune 1a	Extension	guitoune 1b
+boche N, masc II	Syn	allemand N II
+fauteuil I	Real1	assis I.1a
+rouge II.2	A0	rouge II.1
+voleter I	Métaphore	voleter III
+toucher N 1	Gener	sens 1 I
+bande 1 II	Syn	bandage
+victoire I	Métaphore	victoire III
+casserole I	Real2	mettre I.1a
+thésard	Syn	thésarde
+couleur II.2a	Real1	étaler I
+courir I.1a	Syn	sprinter V
+mouche III.1	Real1	avoir V I.2
+teub	Syn	quéquette
+se marier I	S1	marié N
+fermer I.1	Extension	fermer I.4
+petite reine 1	Métonymie	petite reine 2
+petit coin	Syn	lieux d’aisances a
+tombe	A1	mort Adj I
+éclat I.1	Syn	éclatement
+soupe au lait II.b	Syn	coléreuse
+Enfer I	S2	damné N
+chaise I	Real1	quitter II.2
+triangle IV.1	Extension	triangle IV.2
+dégueulasse I.1	Syn	cradoque I.1
+gamine I.1	Syn	gamin N I.1
+station balnéaire	Syn	plage I.2a
+palais 1 1	A0	palatial
+accuser I.1	A2	accusateur Adj
+emploi du temps	Syn	planning
+marathon II	Syn	course 1 IV.2
+pâtisserie III	S3	client
+accompagner I.2b	S1	accompagnateur I
+casserole I	Fact2	remplir I.1
+abri 2	Syn	guitoune 2
+fesses I.a	Magn	d’éléphant
+pétard II	Syn	popotin
+pasteur 1	A0	pastoral
+ermite N, masc I	Syn	ermite N, fém I
+cours 2 I	Métaphore	cours 2 II.1
+prose 1	Extension	prose 2
+politique N, fém II	Real1	quitter III
+autoroute I	Loc	sur I.2
+arriver V.1	Syn	avoir lieu
+social I	Syn	économique
+terrorisme II	Syn	domination
+absent Adj I	S0	absence 2
+poignée II	Syn	manche N, masc I.1
+entêtée	Syn	entêté N
+plage I.1a	AntiMagn	plagette
+Organisation des Nations Unies	Syn	ONU
+falzar	Syn	froc
+pays I.1a	A0	national Adj I.1
+Chleuh N, fém II	Syn	Boche N, fém
+goguenots b	Syn	vécés b
+escroquer	Syn	plumer
+repas II.a	Ver	équilibré
+saoul Adj II	Syn	repu
+bourlingueuse	Syn	voyageuse
+mot I.1	Sing	lettre I
+brosser 2 II.1	Syn	peindre I.1
+école I.1a	Métonymie	école I.1b
+but I	Métaphore	buts II.1
+smoking	Syn	trois-pièces I
+pédaler dans le yaourt	Syn	pédaler dans le vide
+conduire IV.2	Extension	conduire IV.3
+envoyer III	Syn	donner II.2
+amatrice	Syn	amoureuse I
+chien I.a	Involv	attaquer I.1
+parcelle I.1	Métonymie	parcelle I.2
+autour I.1	Extension	autour I.2
+majorité I	S1	majeur N 2
+calcul 1 II	Gener	discipline I
+cher et tendre N	Syn	mari
+grignoter I.1	Métaphore	grignoter II
+s’endormir I	Syn	piquer du nez II.2
+gaufre	Sinstr	moule à gaufres I
+non I	Anti	oui I
+jumeau N I.b	Métaphore	jumeau N III.2
+éduquer a	S1	éducatrice 2
+pain d’épices	Sing	morceau I.1b
+départ I.1a	Métaphore	départ III
+sandwich II	Syn	composite Adj
+bruit I	Adv1	bruyamment
+Turquie	S1	Turc N I
+marmot 1	Extension	marmot 2
+tuer I	Syn	en finir II.1
+marche 1 I.1a	Métaphore	marche 1 I.2
+déprime	Gener	état 1 I.1
+chaise I	Real@	présenter II.1
+s’accroître	Syn	augmenter I
+train 1 I	Real1	charger I.2
+tornade III.1	Func0	se lever IV.1b
+cordes IV	Func1	pleuvoir I
+main I.a	Syn	mimine
+leçon III.1	S1	donneuse de leçons
+québécois Adj 1	Extension	québécois Adj 2
+tonne I	Métaphore	tonne II
+balai 1 I.1	Labreal12	balayer I.1a
+navire	Syn	vaisseau II
+consommer II.2	S0	consommation I.2
+cotonnier N	S1	coton I
+piquer I.2a	Sinstr	seringue
+essence de térébenthine	Syn	essence III.1
+clandestin Adj	S1	clandestin N
+docteur 2	Syn	médecin N, masc
+condamner	Syn	punir 1
+sport N I	S1	équipe 2
+casse-couilles N, masc	Syn	casse-pieds N, masc
+murmurer II	S1	lac I
+kung-fu	Syn	judo
+solitude I	S1	solitaire N, fém
+encadrer VI.2a	S3	règlement III
+tonnerre II.1	Métaphore	tonnerre III
+chaîne II	Syn	collier I
+gros Adj I	Métaphore	gros Adj IV.2
+magnet	Syn	aimant I.2
+tenir la route II	Syn	se tenir IV
+pain I	Métaphore	pain II
+se porter II	Syn	se déplacer V
+mener grand train	Syn	vivre sur un grand pied
+tomber V V.1c	Anti	se lever IV.1a
+vêtement I.1	Magn	chaud Adj II
+faim I.1a	Func0	anorexique Adj 2
+médiocrement	A0	médiocre
+à travers I.1	Syn	dans I.1
+croupion II	Syn	miches II
+ami N I.2	Oper1	devenir 2
+honnêtement I.a	S0	honnêteté a
+saphir a	Métonymie	saphir b
+mare I	Gener	pièce d’eau
+reportage a	S1	reporteur
+vêtement I.1	Prepar	détacher 2
+mouche II.1	Syn	leurre
+parc I.1	Extension	parc I.2
+orpheline b	A1	orphelin Adj I.1b
+cricoïdien	Syn	cricoïde
+écuyère	Syn	écuyer
+finir IV.1	Anti	commencer III.3a
+dos brassé	Syn	crawl
+administrer 1	Syn	gérer
+capitaine N, masc 1	Extension	capitaine N, masc 2
+nez I.a	Real1	sentir I.1
+distribuer II	S2	carton jaune 1
+frugal 2	Syn	sobre 1
+âne I	Syn	bourrique
+parler I.1	S2	langue II.a
+voir I.2	Métonymie	voir I.3
+poliment	Anti	grossièrement II
+Un [X] peut en cacher un autre. I	S1	tramway I
+décorer II	S0	décoration II.1
+enfermer 1	Extension	enfermer 2
+navire	S1	chargement II
+acheteur	Syn	acheteuse
+appartement 1	Métonymie	appartements 2
+sentir I.2	Bon	bon Adv
+avide I	Syn	assoiffé Adj
+brosse I.2	Labreal12	étaler I
+après Prép I.1	Grammaticalisation	après Prép IV
+côte 1	Mult	thorax a
+enveloppe III	Func0	créer II.1
+tableau III	Syn	table V.1
+pirate N, masc I	Métaphore	pirate N, masc II
+sale Adj III	Syn	malpropre III
+noblesse III	Syn	aristocratie
+train 1 I	AntiMagn	tortillard
+ronger II	Syn	manger V III
+télécommande I	V0	télécommander
+s’accorder II	Syn	se permettre
+commérage	S4	objet II.2a
+dormir I.1a	Magn	comme une souche
+injure 1	Syn	insulte
+film II	Func0	tourner VI
+éloigner II	Syn	détourner III
+comptoir I.1a	Métaphore	comptoir I.2
+stérilité I	A1	stérile I
+se déplacer I.1	Extension	se déplacer I.2a
+poil III.2	S1	tapis I.1
+chaussons I.1	Real1	en Prép III.1
+grand-mère I	Mult	grands-parents
+accorder II	Syn	régler IV
+travailler I.2	S1	employée
+s’envoler II	Syn	augmenter I
+continent II	Syn	forêt II
+cagibi	Syn	placard 1 I
+bâton 2	S1	skieur
+cheveux I.2a	Non	chauve Adj I.1
+enfant N, masc I.2	Anti	adulte N, masc
+catholicisme	A0	catholique Adj 1
+sapeuse-pompière	Syn	sapeur-pompier N, masc
+sale Adj II.1	Syn	dégueu II.1
+mamelles I.1	Syn	tétons 1b
+confirmer I.a	Syn	déclarer I
+éplucheur I	Métonymie	éplucheur II
+fauteuil II	Syn	poste N, masc II
+poubelle II.2	Syn	dépotoir II
+faire un malheur I	Intersection	faire un malheur II
+comme neuf	Syn	neuf Adj I
+journal 2	Syn	feuille de chou
+auriculaire N	Syn	petit doigt
+incorporer I	Métaphore	incorporer II
+chauffeur	Gener	professionnel N
+vachette	Gener	bovin N
+étendre I	Anti	replier II
+étagère II	Real2	remplir I.2
+sprint I.2	S1	sprinter N
+question II	Syn	problème II.2
+faire III.3a	Syn	transformer II
+couteau I.a	AntiBon	mauvais Adj I.1a
+téléphone II.1	Real1	parler I.1
+blème	Syn	problème I
+obéir I.1	Anti	désobéir
+décoller 1	Anti	coller I.1a
+spectacle I	Oper1	donner III.2
+partenaire N, masc I.3	Syn	partenaire N, fém I.3
+fond VI.1	Syn	substance I.1b
+méfait I	Métaphore	méfait II
+analogie a	A0	analogique 1
+pluie II.1a	Plus	redoubler
+arrêter V.1a	Extension	arrêter V.2b
+abeille I.a	Involv	piquer II
+paresseux Adj	S0	paresse
+brigand II	Syn	bandit II.1
+picoler 2a	Syn	boire V I.2a
+parc I.1	S2	promenade I.a
+faiblir	Syn	diminuer V
+pourvu	Anti	dépourvu
+droit Adj 1 I	Anti	courbe Adj
+mot doux	Gener	mot I.1
+sexe II.1	A0	intime Adj I.2
+étranger Adj II	Syn	extérieur Adj II
+abri 1	Syn	maison I.1
+mélange I.1a	V0	se mélanger I
+tempête I.1	Real1	faire face
+sermon	Oper1	prononcer I.2
+métaphore	Syn	analogie a
+hôtelière	Syn	hôtelier N
+pilule a	Syn	capsule I
+cailler II	S2	fesses I.a
+petite cuillère b	Syn	quantité 1
+plage I.1a	Syn	rivage
+comme II.1	Syn	à titre _Adj
+crâner	Syn	se la péter
+sommeil I.1b	Result1	dormir I.1a
+global	Syn	général Adj
+dormir I.1a	Magn	profondément II
+s’approprier I.1	Syn	prendre I.3
+fleur I.2	A1	recouvert 2
+loin II.2	Magn	bien Adv 2b
+se cailler II	Syn	avoir froid
+se poser I.1	Métaphore	se poser III
+geindre I.1	Syn	gémir I.1
+mésange boréale	Syn	mésange charbonnière
+tirer I.1	Métaphore	tirer IV
+siège I.1	Syn	banc 1 I
+semblable Adj II	Syn	comme I.1
+autocar	Syn	car N
+législatrice	Syn	législateur 1
+guyot	Syn	volcan I
+homosexualité	S1	homosexuel N
+roche 1	Métonymie	roche 2
+universitaire N, masc 1	Syn	universitaire N, fém 1
+compact I	Syn	serré I
+lever V VI.1	Syn	rassembler
+s’éteindre III	Syn	clamser
+séant N	Syn	croupion II
+jupette	Real1	mettre I.1a
+perdre les pédales II	Syn	perdre la tête
+cigarette II	V0	fumer III.b
+champagne II.a	Sing	verre II.1b
+à part	Syn	seul I.1
+goûter N II	Syn	quatre-heures II
+tirer I.1	Métaphore	tirer VI
+cheveux I.2a	Syn	tifs
+propre Adj 2 I.1	Syn	exclusif
+conférence 1	Syn	réunion II.1
+grogner II	Syn	ronchonner
+exemple III	A1	exemplaire Adj
+SDF b	Syn	SDF a
+bandit II.2	Epit	petit Adj IV
+chibre	Syn	braquemart
+catégorique	Syn	ferme Adj II
+instrument 2	Real1	accorder II
+personnel N a	Func0	embaucher
+perdre IV	S3	partie III.1
+descente de lit	Syn	tapis I.1
+régir I	Métaphore	régir II
+tirer VI	Syn	chourer
+porcherie II	Syn	écuries d’Augias II
+naufrager	Syn	sombrer I
+contredire	S1	contradictrice
+crime II	Sing	crime I.a
+essayer II	Syn	tenter II
+lessive II.2	Syn	solution II.2
+véhicule I.b	Fact0	démarrer I.2
+importance 1	V0	importer 2
+carte I.3	Syn	figure III.2
+guêpe	Sloc	nid 2
+s’échouer	Syn	naufrager
+couleur IV.1	Syn	goût II.2a
+gerbe d’or	Syn	hélianthème
+armoire 1	Fact0	rempli I
+criminel Adj II	Syn	inadmissible
+pinière	Syn	pinède
+se lever IV.1a	Anti	se coucher III.2
+placard 2 I.1	Real1	apposer
+fanatique N, fém	Syn	fanatique N, masc
+prince charmant II	Syn	chevalier servant
+aryténoïde N	Gener	cartilage
+véhicule I.b	Syn	automobile N I
+nez III.1	Syn	odorat
+foufoune	Syn	chatte III.1
+essence III.1	Extension	essence III.2
+tôt 2	Syn	sur les bancs de l’école
+cigarette I	Real1	cloper
+queue de cheval	Gener	coiffure II.1
+noueux I	Métaphore	noueux II
+contribution I	V0	contribuer
+refrain II	Syn	chanson II
+diluer	Anti	concentrer II
+craspec III	Syn	cradoque IV
+imprimer I	Métaphore	imprimer II
+expression I	V0	exprimer a
+baisse I	V0	baisser II
+criminel Adj II	Magn	tout à fait
+teub	Syn	moineau II
+barrer I	A2	barré
+chance 1	Syn	bol 2 I
+base 1 I.1	Métaphore	base 1 II
+costumier	Syn	costumière
+à nouveau 1	Extension	à nouveau 2
+lessive II.1	Sing	bouteille 1b
+juste Adj	Adv0	justement
+ressembler I.1	Magn	énormément 1
+détruire I.1	A2	détruit
+frontières I.2	Syn	limite N I
+ne pas manger 2	A1	innocent Adj I
+navire	Syn	torpilleur
+domicile conjugal	Syn	domicile
+gaz I.2	Syn	gaz de ville
+se mêler I	Syn	se fondre
+rouge III.1	Extension	rouge III.3a
+élastique N	Syn	caoutchouc II
+fleuve des morts	Syn	fleuve des Enfers
+s’engager I.1	Syn	entrer I.2
+tabac 1 I.2	Real1	bouffée I.1
+puisque	Syn	car Conj 1
+utilitaire N II	S3	ordinateur
+rive I.1b	Syn	littoral
+clope	Syn	sèche
+taureau I	Contr	vache I.a
+musique I.1a	Fact0	éteindre II.2
+serrer I. 2	Syn	fermer I.3
+champ 1 I.1	Métaphore	champ 1 VI
+trot I	Métonymie	trot II
+attendrir II	A2	attendri 1
+doucher I.1	Extension	doucher I.2
+adresse courriel	Syn	adresse électronique
+cuisine II.a	S2	repas II.a
+savon noir b	Gener	savon 1 b
+protestataire N, fém	Syn	contestataire N, fém
+escroc II	Syn	crapule 1
+bourlingueuse	Syn	bourlingueur
+hépatiques N 2 1	Intersection	hépatique N 2 2
+agresser	Able1	agressif
+roulement I	V0	rouler 1 I
+collectif N	Syn	association II
+pouilleuse	Syn	pouilleux N
+pine	Syn	cigare IV
+presque	Syn	près II.1
+saucisse sèche	Syn	saucisson
+apprécier I.1	Extension	apprécier I.2
+allumé I	Anti	éteint I
+courir VIII.1	Syn	avancer III.1
+lit I.1a	AntiBon	grabat
+pension I	S2	pensionnée
+courant d’air	Syn	vent I.2
+successif	Syn	suivant Adj I.1
+fesses I.a	Syn	derche
+réfutable	Syn	niable
+rouler 2	Syn	gruger
+yaourt a	Real1	cuillère a
+développer IV	S1	développeur
+bite	Syn	teub
+muet Adj II	S1	cinéma I.1
+tinette a	Syn	commodités II.2a
+résidente	Syn	habitante 1
+chanteur	Fact2	chanter I.1a
+week-end	Contr	semaine 2
+s’arrêter I.2	Syn	séjourner
+fixe Adj 1	Caus	fixer I
+cabinet d’aisances a	Syn	cagoinces a
+jumeau N II.1	Syn	double N III
+chaussette II.2	Epit	évacuation II
+addition I.2	S3	client
+tracasserie	Syn	problème I
+se signer	S1	catholique N, masc
+étalage I.2a	Spécialisation	étalage I.2b
+fils I	Contr	fille I
+mariage I.1	S1	mari
+dessiner I.2	Métaphore	dessiner II
+comme I.1	Métaphore	comme II.1
+raide Adj II	Syn	torché 2
+belle-mère 2	Contr	beau-père 2
+ski de fond II	S1	fondeur
+éplucher I	Métaphore	éplucher II
+la tête ailleurs	Oper1	avoir V II
+part II	Métaphore	part III
+marcher VI.2	S2	carburant
+bleu I.a	Syn	lavande III
+journaliste N, fém	Fact2	enquête II.1
+sous-vêtement	Syn	slip
+niveau de vie	Syn	standing
+chocolat III	Syn	brun I.a
+naufrager	Syn	s’échouer
+diriger II	S2	véhicule I.a
+fébrilement	Syn	fiévreusement
+semblable Adj II	Pred	ressembler I.1
+bouffer 1 I.1b	Ver	sainement
+photographe N, fém	Syn	photographe N, masc
+pièce II.1b	Syn	demi-pièce 1
+courir I.2	Métaphore	courir IV.1
+se languir	Conv-ij	manquer IV
+rugby 1	Oper1	jouer II.2
+prénommer	S3	prénom
+coordonnées II	Syn	mail II.1
+chantier	S1	constructeur N
+textile N I	Métonymie	textile N II
+incarner 1	S0	incarnation I
+pété	Syn	pinté
+se rencontrer	Syn	se retrouver I
+jupe II.3	Syn	carénage
+droit Adj 1 I	Extension	droit Adj 1 II
+comparable	Syn	analogue Adj a
+femme médecin	Syn	doctoresse
+jour des Morts	Real1	célébrer I.2
+chipotage II.1	Syn	négociation
+champ de foire	Syn	emplacement
+e-mail II.1	Syn	adresse courriel
+poussin I.a	Métaphore	poussins III
+les doigts dans le nez	Syn	comme dans un fauteuil II
+allonger 1 IV	S2	visage I.1
+navire	AntiMagn	petit Adj I.1
+éléphant I	Gener	animal N I.1a
+criterium	Gener	compétition
+pluie II.1b	S1	projectile
+renouvellement 1	V0	renouveler 1
+conduire II	S2	véhicule II
+impliqué 1	Spécialisation	impliqué 2
+choix 2	Syn	option 2a
+toit	Sing	tuile I
+ouvert I	Anti	fermé I
+bande 1 I.1	Métonymie	bande 1 II
+pipi-room	Syn	commodités II.2b
+auto II	S0	voiture 2a
+cradingue IV.1	Syn	sale Adj V.1
+dramaturge N, masc	Syn	dramaturge N, fém
+envelopper I.2	S1	enveloppe I
+inférieur I.2	Anti	supérieur Adj I.2
+clebs	Syn	clébard
+sale Adj I.1	Syn	malpropre I.1
+horreur II	Oper1	avoir V II
+durcir II	S0	durcissement II
+sexe I.2	S1	homme 2
+flamber I.1	Able1	inflammable
+céder I.2	Syn	vendre I.1
+y aller II.1	Syn	se comporter
+alcoolique N, masc	Syn	sac à vin
+vent III.1	Fact3	emporter II.1
+élément III.1	Extension	élément III.3a
+localisation	A2	localisé 1
+bombe I.1	S1	bombardier a
+former IV	Syn	constituer I
+dissimuler I.2	Syn	manger V VI.1a
+devenir 1	Syn	tomber V IV.2b
+téléviseur	Syn	téloche II
+semeuse	Syn	semeur
+tramway I	Fact0	rouler 1 VI.2a
+prison I	A1	prisonnier Adj I.1
+air 3 2	Syn	musique I.1b
+anorexie	Manif	alimentation II
+centimètre	Syn	mètre I
+rival N	Syn	rivale
+navire	Equip	marin N
+interprétation III.a	Extension	interprétation III.b
+fondre I	S0	fonte 1
+toilettes III.1a	Syn	cabinet d’aisances a
+bataille I.1	S1	belligérant
+cinquante 1b	Syn	50
+au bord des lèvres	S1	cigare V
+expédier I	S3	destinataire N, masc
+violemment II	Anti	faiblement
+tomber V I.3b	S0	tomber N
+dramatique I	S0	drame I
+siffler I	Métaphore	siffler III
+hôte N, fém 2b	Syn	cliente
+bon Adj I.1a	Anti	mauvais Adj I.1a
+avion I	Labreal12	transporter I
+enthousiasme b	V0	enthousiasmer
+bureau I	Syn	table de travail
+cinoche III	Syn	comédie
+exercer II.1	Conversion	exercer II.2
+terre II.1	Contr	ciel I.1
+poursuivre I.1	Syn	courir I.3
+biclo	Syn	bicyclette I
+antichambre	Syn	entrée I.3
+camionnette	Fact0	s’arrêter I.1
+mort N, fém I.1a	Métonymie	mort N, fém III
+café I	Métonymie	café II
+hispanophone Adj	S1	hispanophone N, fém
+intimité I	Métaphore	intimité II.1
+boire V I.2b	Magn	beaucoup II
+jupe I	Real1	mettre I.2a
+visite III.2a	Bon	intéressant
+toaster	S3	toasteur
+sauter I.2	Métaphore	sauter IV
+moineau II	Syn	biroute
+moufles	Syn	gants a
+maillet 1	Syn	marteau 1
+averse I	Magn	intense
+ailleurs 1	Syn	ici I.a
+cinéma I.2	S3	superproduction
+immortalité	S1	immortel N
+orphelin Adj II.2	Syn	dépourvu
+attitude I	Bon	gracieux 2
+fleuri II.1	S1	expression III
+pleureur Adj	Syn	pleurant
+projeter II.1	Extension	projeter II.2
+rincer 1	Syn	laver I.1
+élément I.2	Syn	constituant I
+ceinture I.3	S1	passagère
+couple N, masc I.1b	Fact0	embrasser 2
+auto-stop	Oper1	faire II.1
+doux I	Syn	sucré
+cracra I.1	Métaphore	cracra VI.1
+analogie a	Syn	association I
+nettoyer II.1	A2	nettoyé II.1
+s’accorder III	Syn	correspondre I.2
+jupe I	Magn	ample
+cramé	Syn	brûlé
+puni Adj	S1	punie
+frapper II.2a	Extension	frapper II.3
+vague N, masc	A0	vague Adj I
+pantalon	AntiMagn	moulant
+corps II.1b	Syn	contenu N II
+se taire I.a	Métonymie	se taire I.b
+exciter II.2b	Able3	excitant Adj
+cesser 1	Syn	finir I.1
+s’allonger 2 III	Syn	arriver II.1
+douceur III	Syn	bienveillance
+suspecte	Syn	suspect N
+synonymique	S0	synonyme N
+intimité II.1	Syn	relation I.2
+maison IV.2	Syn	entreprise II.1
+cultivé I	Codérivation	cultivé II
+cri I.1a	Syn	rugissement II
+progrès II.1	Métonymie	progrès II.2
+criminel N	Magn	ennemi public numéro un
+restaurant	S1	serveuse
+adolescente	Syn	adolescent N
+débouchement	V0	déboucher 1 1
+hostilités II.1	Syn	guerre I
+prêcher un converti	Syn	convaincre
+carte I.1	Syn	bristol II
+cercueil I	Real1	descendre V
+biche II	Syn	poule 1 III
+ronfler I	Métaphore	ronfler II
+courir III.2	Métaphore	courir IV.2
+gaspilleur N	Syn	gaspilleuse
+différent 1	Métonymie	différent 2
+applaudissements	V0	applaudir I
+bistouquette	Syn	pénis
+spirale I.1	Syn	hélicoïde
+objet II.3a	Syn	objectif N I
+tartisses b	Syn	cagoinces b
+repas I.1a	Sloc	cantine
+médecin N, masc	Fact3	soigner II
+mécano N, fém 1	Métonymie	mécano N, fém 2
+journaleux	Syn	journaleuse
+discourir	S0	discours 1
+brosser 2 II.1	S1	peintre N, masc
+réputation	Syn	honneur I
+célibat	S1	célibataire N, fém
+attention I.1	Métaphore	attention II
+saison	Syn	été
+couleur III.2b	S2	pique N, masc
+jetage	Syn	jet 1 II
+fauteuil I	Sing	pied III.1
+trait I	Métaphore	trait II
+engouffrer	Syn	croquer 1 II
+astral	S0	astre
+vent I.1	V0	venter
+cercle Ia	Métaphore	cercle II
+gueule I.2c	Syn	tête I.4b
+bouche I.1b	Métaphore	bouche III.1
+couleur I.1a	AntiMagn	terne
+élément III.3b	Gener	corps pur
+Terre I	Métaphore	terre V
+mangeotter 2	Syn	chipoter I
+amphibiens	Gener	animal N I.1a
+insolation II	Oper1	taper sur la tête
+attaque I.1	Métaphore	attaque III
+tranquilité	Syn	calme N II
+étalage I.2a	Syn	collection III
+exagérer I	S1	exagérateur N
+volume I.3	Syn	sphère I.1
+avoir V III.1	Syn	obtenir I
+récepteur N	Syn	antenne II.1
+fut	Syn	bénard
+chatte I	Gener	félins N
+prioriser 1	Extension	prioriser 2
+encadrer I.1a	S2	tableau I.1
+apprendre I.2b	S1	professeur
+allonger 1 III	Anti	concentrer II
+au revoir 1	Contr	bonjour a
+lancer V I.1	S1	lanceuse
+route I	Instr	sur I.2
+acceptation	V0	accepter 1
+reptation b	V0	ramper I.b
+se mélanger II	Syn	se tromper 2
+mairie 2	S1	conseillère municipale
+tombe	S1	macchab
+luthière	Syn	luthier
+détruire I.2	A2	détruit
+donner I.1	Syn	passer IV.1
+bouteille 2b	Bon	bon Adj I.2
+parcelle I.1	Syn	morceau I.2
+cagoinces a	Syn	commodités II.2a
+fluvial b	Syn	portuaire
+pinçage	Syn	pincement
+souffle I	Syn	expiration
+atterrir	Syn	se poser I.2
+similitude	Anti	différence 1
+parrainage	S1	parrain I
+horizontal I	S0	horizontale
+partir 1 I.1a	Syn	larguer les amarres I
+Hollande	Gener	pays I.1a
+bien Adv 1	Syn	ben 1 I
+merveilleux Adj	S1	merveille 1
+pachydermes I.a	Extension	pachyderme I.b
+sélectionner a	Syn	choisir
+honoraires	Syn	salaire
+relever 1 I.2	Syn	remonter I.3
+conduite II.1	S2	véhicule II
+conceptrice	Syn	concepteur
+adresse électronique	Syn	adresse courriel
+coup de coude	Oper1	donner II.2
+autour II.3	Syn	à propos 1
+camion	S1	routier N
+zizi	Syn	manche N, masc II
+carré N II.2a	Syn	planche IV
+cigare III.1	Syn	caboche I
+se focaliser II	Syn	se déplacer V
+yaourt a	Real1	manger V I.1a
+exciter II.2a	Able1	excitant Adj
+rapide Adj III.1	Anti	lent II.1
+apparent I	Métaphore	apparent III
+selle II.1	Extension	selle II.2
+tornade III.1	Func0	provoquer I
+craquement	V0	craquer
+entrer IV.1	Syn	pénétrer I.1
+corps I.1a	A0	corporel I.1
+plateforme II	Syn	plateau IV.2a
+se reproduire II	S0	reproduction I
+utilitaire N II	Syn	application II
+os	Mult	squelette
+Parfait ! Interj	Syn	bien Adv 4
+tragédie II	A0	tragique II
+Amérique 2	S1	Amérique 2
+élément III.3a	Extension	élément III.3b
+oncle	Mult	famille I.a
+route I	Func3	mener III
+désert N X-II	Liqu	repeupler
+nichons	Syn	nénés
+souligner	S0	soulignage
+au chaud I	Métaphore	au chaud II
+changer II.1	Extension	changer II.3
+enculer les mouches	Syn	couper les cheveux en quatre
+menace I	Extension	menace II
+causer 1 a	Syn	déclencher
+irriter II	Syn	casser les pieds
+généreux I	Métaphore	généreux II.2
+nausée II	Syn	dégoût II
+accident I	A1	accidenté Adj
+dormir I.1a	Syn	pieuter
+pour Prép I	Métaphore	pour Prép V
+briller II	Syn	pétiller II
+potage	Syn	velouté
+corps à corps 1	Syn	bagarre I
+redresser I	V0	redressement I
+pendant Prép 1	Syn	à longueur
+désolé I.1	V0	désoler
+chausseuse	Syn	chausseur
+bistouquette	Syn	zigounette
+flouer	Syn	escroquer
+injuste	S0	injustice I
+placard 1 III	Syn	prison II
+laveuse a	Syn	laveur a
+aval	Anti	amont
+sans-abri a	Syn	SDF a
+sans détour	Syn	cartes sur table
+vogue	Syn	tendance II
+mél I	Métonymie	mél II.2
+profit I	Métaphore	profit II.a
+nourrir I.2	Sinstr	seins I.2b
+désormais	Syn	maintenant I.2a
+lac III	Fact1	inonder I
+sur le pouce	Syn	rapidement I
+sonner I.1	Extension	sonner I.2
+faux N, masc I	Métaphore	faux N, masc II
+hiver	Contr	été
+amont	S1	rivière I
+bien Adv 2b	Magn	rudement III
+s’amasser	Syn	s’entasser I
+charrier II.1	Extension	charrier II.2
+champ 1 I.1	Syn	plantation II
+rugbyman N, fém	Syn	rugbywoman
+punition I	Syn	savon 2 1
+vent III.1	Func0	souffler IV
+convenir I	Adv0	convenablement
+envoi	S2	lettre II
+attention I.1	A1	attentif I
+honneur II.1a	V0	honorer II.1a
+régulier I.1	Extension	régulier I.2
+nain N II	Anti	géant N
+réserver I.2	S0	réservation
+réactif N 2	Syn	réactant
+dire V I.a	Extension	dire V I.b
+ligoter	S0	ligotage
+rivière I	Gener	cours d’eau
+étagère I	Syn	tablette I.1
+déterminé I	Syn	spécial
+assiette 1 I.a	Labreal12	mettre I.1a
+personnel N b	Liqu	virer III
+symptomatique II	Adv0	symptomatiquement II
+bordel II.3	Syn	désordre II
+immortel Adj I	S0	immortalité
+gagner III	Métaphore	gagner IV
+employé N	Syn	personnel N b
+défenseur II.1	Syn	défenseuse II.2
+stupide I	Syn	idiot Adj I
+yaourt a	Sing	paquet 1c
+rue II	S1	clocharde
+messe de minuit	Syn	messe
+derrière N II	Syn	cul I.1
+cabinet d’aisances b	Syn	water-closet b
+désert N X-IV.2	Fact1	encercler
+montrer III	Syn	manifester 1
+râlement	V0	râler
+vêtement I.1	Métaphore	vêtement III.2
+jogging II	Real1	ôter I.2
+organiser 1	S1	organisatrice
+jeter l’éponge II	Syn	baisser les bras
+Tour de France	Gener	compétition
+placard 1 I	Métaphore	placard 1 III
+reconnaissance II	Syn	gratitude
+sandwich I	Syn	cheeseburger
+peur 1a	Syn	phobie 1
+sapeur-pompier N, fém	Syn	femme pompier
+malade Adj I.1a	S3	partie du corps
+pourcentage 1	Syn	proportion 1
+commérage	Syn	bavard
+promontoire b	Syn	colline I
+chiottes I.b	Syn	water-closet b
+remplacement	Syn	rechange 2
+fou N I	Métaphore	fou N III
+waters a	Syn	water-closet a
+visage I.1	Syn	poire II
+Ariane I	Métonymie	Ariane II
+nostalgique Adj II	S0	nostalgie II
+inoubliable	Syn	mémorable I
+s’envoler II	Syn	exploser IV
+festin	Syn	repas I.2
+bouvreuil	Gener	oiseaux b
+dans II.1	Métaphore	dans III.1
+apparence II	Adv0	en Prép II.a
+vêtement I.1	Gener	pièce d’habillement
+force I	Spécialisation	force III
+soigneur 2	Syn	soigneuse 2
+oiseau des tempêtes	Gener	oiseau a
+chaussons I.1	Real1	avoir V I.2
+analogie b	Magn	absolu Adj 1
+vote II	S1	électrice
+rétention	V0	retenir I.1
+brûler I.2	S0	combustion
+caricature	S1	caricaturiste N, fém
+frérot	Syn	frangin
+exiger I	S0	exigence I
+conceptuellement	A0	conceptuel
+exagérer III	A2	exagéré II
+petit-déj I	Métonymie	petit-déj II
+voiture 3	Sing	siège I.1
+fin N I.2	Anti	début I.1
+cri I.1a	Métaphore	cri II
+animal N I.2	S1	maître N I.3
+sur le coup 2	Syn	à II.1
+avancement III.2	Extension	avancement IV
+savante	Syn	scientifique N, fém
+engagement I	V0	s’engager III.2a
+problème I	Fact0	éluder
+car N	S1	conductrice b
+marche 1 I.3c	S1	randonneur
+tendre Adj I	Métaphore	tendre Adj II
+chanter I.1a	Métaphore	chanter I.2
+réparation	V0	réparer I
+naissance I.1	Syn	heureux événement
+judaïsme	A0	juif Adj 1
+gamine II	Syn	gamin N II
+fondé II.1	S2	fondement
+rougeur II	Syn	rousseurs II
+nord-coréen Adj 2	S1	Nord-Coréenne
+crime I.a	A1	criminel Adj I.2
+poitrine 2	S2	veau I.2
+lissage	V0	lisser
+sale Adj IV	Adv0	salement III.1
+accuser le coup I.1	Syn	subir 2
+train 1 I	Real1	attraper I.1
+glaviot	Sing	salive
+cigare I	Sloc	débit de tabac
+boulanger N 1	Fact0	boulangerie II
+devant Prép I.2	Contr	derrière Prép I.2
+beau-père 2	Syn	père I.1a
+métro I	Syn	chemin de fer II
+rapport 1 I.2	AntiBon	toxique Adj II
+gentille	Syn	gentil N
+alimentation I	Codérivation	alimentation II
+atome I.2	Mult	substance I.1b
+se ramasser II.2	Syn	se prendre III
+latent I	Anti	apparent II
+basé I	Syn	situé
+crainte 1	A1	plein Adj III
+langue I.a	A0	lingual
+méchanceté 2a	Anti	gentillesse 2
+tir 1a	Syn	coup de feu 1 I
+récolter	S1	récoltante
+cher Adj I	Syn	onéreux I
+recul II	Syn	renoncement
+langue I.a	Métaphore	langue III
+pipe I.a	Real1	retirer I.2
+crade I.1	Syn	crasseux I
+factrice 1	Syn	postière
+monté sur des échasses	Syn	jambes I.1
+thorax a	Syn	cage thoracique
+père II.1a	Epit	éternel I
+folliculaire N, masc	Syn	folliculaire N, fém
+déranger	Syn	déclasser
+renvoi I	Métaphore	renvoi II
+quelque chose	Syn	entité
+pouvoir N II	Oper1	arriver III.2
+vélo d’appartement 1	Métonymie	vélo d’appartement 2
+deux-roues	Syn	mobylette
+feu d’artifice	Oper1	tirer V
+naseaux II	Syn	blase II
+tout à coup	Syn	soudain Adv
+étourdissement	A1	étourdi Adj II
+idoine	Syn	congruent I
+dix mille 1a	Gener	nombre I.2
+collection III	Syn	assortiment
+dégoût II	Syn	nausée II
+épaules I.1b	S1	animal N I.1a
+armoire 1	Syn	armoire à glace I
+propos I	Syn	discours 1
+mandat II	Syn	chèque
+pédé N	Syn	tante II
+sac 1a	Extension	sac 2
+héliportage	V0	héliporter
+véhicule I.a	Fact0	opératrice
+cours 1 2	Real1	apprendre I.2a
+total N	Smod	calcul 1 I
+marche 1 I.4	S1	participant N
+disposition I	Syn	présentation II
+coup de foudre 1	Métaphore	coup de foudre 2
+traire	S0	traite 1
+debout II	Anti	couché II
+bar 1 I	Syn	café III
+F3	Gener	logement
+tempête I.2	Loc	plus fort
+fonds commun de placement	Syn	fonds II
+typhon	Syn	cyclone
+confirmation I	Métonymie	confirmation II
+grille-pain	S2	pain I
+adorer I	Métaphore	adorer II.1
+régner I	Métaphore	régner II.1
+couleur II.2b	S1	coiffeur I
+violon alto	Syn	alto N
+déclaration I	S3	déclaration I
+gaillet	Gener	plante 1
+financier Adj 1	Syn	économique
+bien Adv 2b	Syn	bien Adv 2a
+nature I	Métaphore	nature II
+porté sur la chose	S1	obsédé N 2
+bicyclette I	AntiBon	clou II
+marchand de tapis I	Syn	commerçant
+vouvoiement	Syn	voussoiement
+ne pas faire de mal à une mouche	A1	innocent Adj I
+vétérinaire N, fém	Fact3	diagnostiquer
+odorat	Syn	olfaction
+cent I.1a	Extension	cent I.1b
+cigare I	Real1	tirer IV
+intrigué	Syn	frappé
+tourner I.1	Extension	tourner I.2
+courant Adj 1 III	S1	mois a
+bilan I.4	S2	trouble N III
+moineau II	Syn	quéquette
+ballet II	S1	danseuse b
+excentricité 1 I.1	Métaphore	excentricité 1 II.1
+bouton-d’or I	Métaphore	bouton-d’or II
+Nouvelle-Zélande	Gener	pays I.1a
+survêt	Syn	jogging II
+route V.1	Syn	destin II
+réchauffer	S0	réchauffage
+ressembler I.1	AntiMagn	nullement
+Gallois N I	Métonymie	gallois N II
+ampoule I.1a	Extension	ampoule I.2
+voler 2 I	Syn	piller
+déraisonnable	Anti	raisonnable
+Sahel	Gener	territoire 1a
+influencer	Able2	influençable
+articulateur 2 1	Syn	mandibule
+approuver II.1	Anti	désapprouver II
+école I.1a	S3	élève N, masc
+mousse N, fém	Syn	bière 1 b
+vendre la mèche	Syn	dévoiler II
+site II	S1	internaute N, masc
+compression	S2	fluide N
+route I	Instr	par I
+barbe I.1	Métaphore	barbe III.1
+semaine 1a	Sing	jour II.2
+laver III.1	Syn	nettoyer I.4
+assis I.1a	Extension	assis I.1b
+riche Adj I.1	Anti	pauvre Adj I
+hippique	Syn	équestre
+bête N 2	S1	propriétaire N, fém
+table I.1a	Sing	milieu I.1a
+thym 1	Syn	lavande I
+célibataire N, masc	Magn	éternel II
+prochain Adj II.2b	Anti	précédent Adj I.2b
+sinistre N	S2	sinistré N
+wawas b	Syn	chiottes I.b
+toilette I.2	Oper2	effectuer
+déluge I	Métaphore	déluge II
+frousse	Syn	peur 1b
+feu V	2-II	rouge III.2
+cravate III	Syn	coup IV.1
+motte I.1a	Syn	meule II
+voix I.1	Métonymie	voix I.2a
+vide Adj II.2	Syn	inoccupé 2
+bénédiction I	Métaphore	bénédiction III
+délit	Syn	crime I.a
+conduire II	S0	conduite II.1
+fleuve II.1	Func0	se former
+commodités II.2b	Syn	tartisses b
+se réveiller I	Métaphore	se réveiller II
+gémir II	Syn	se plaindre
+condamner	S2	condamnée
+femme médecin	Syn	toubib N, fém
+goût II.2b	Syn	sentiment 1b
+course 1 III.a	Real1	disputer II
+inconnu Adj 1	Extension	inconnu Adj 2
+cosmos 2	Gener	fleur I.2
+avoir froid	Anti	avoir chaud I
+coiffeuse 1	Sinstr	brosse I.1
+constituant I	Métaphore	constituant II
+groggy II	Syn	sonné II
+coup de fouet II	Oper1	mettre IV
+forêt II	Syn	fleuve II.2
+agoraphobie	Sloc	lieu public
+souffler II	S0	soufflement
+restaurant	Real3	aller V II.1
+père III.1	Syn	homme 2
+application II	Gener	logiciel N
+liaison III	S1	amant
+tailler en pièces I	Syn	tuer I
+tétons 2	Mult	seins I.2a
+moderne N I	Codérivation	moderne N II
+vrai Adj I.2	Syn	véritable II
+transformation II.1	V0	se transformer 1
+lac II.1a	Fact0	stagner
+avancer VI	Extension	avancer VII
+clinique 1	S3	soins I.2
+lac III	Fact0	se déverser
+foulée I	Syn	enjambée
+allemand N II	Able1	germanophone Adj
+malade Adj I.1a	Anti	valide I
+couteau I.a	Spécialisation	couteau I.b
+fleuri II.2	S1	expression III
+inclus I	Syn	intégré I
+peur 1a	Extension	peur 1b
+commodités II.2a	Syn	chiottes I.a
+coureur Adj 1	Extension	coureur Adj 2
+nager I.b	AntiBon	mal Adv I.1
+conduire I.1	Métaphore	conduire III.1
+manger V II.2	Syn	se taper II
+se déterminer	Syn	se décider
+prêtre b	Syn	curé
+ôter I.2	Syn	enlever I.2
+trois-pièces I	Syn	costard
+se maîtriser	Syn	se raisonner
+vent I.1	Func0	cesser 1
+enseigner II.2	Métaphore	enseigner III
+guêpe	Involv	aiguillon
+hôte N, fém 1	Extension	hôte N, fém 2a
+conversation a	Syn	entrevue
+créer I	S1	créateur N
+bouche I.1b	Syn	lèvres I.1
+cradingue I.1	Métaphore	cradingue V
+économie I	Gener	discipline I
+prise I.1	Métaphore	prise III
+coup de soleil	Syn	inflammation
+affaire I.1	Extension	affaire I.2
+coco N, masc 2	Syn	coco N, fém
+provocant 2	Syn	séduisant I
+pagaille I	Métaphore	pagaille II
+jardin public	Syn	parc I.1
+table I.1a	Sing	bout I.1
+débit III	S1	rivière I
+prochain Adj II.1	Syn	suivant Adj I.1
+praticable	Anti	impraticable
+Œil pour œil, dent pour dent 1	Extension	Œil pour œil, dent pour dent 2
+élaboré	Syn	savant Adj III.2
+octobre	Gener	mois b
+vif II.1	Adv0	vivement II
+catégorie	Syn	classe 2 3
+arriver I.1	Syn	parvenir I
+se pelotonner	S1	chat 1 I.a
+faire de l’essence	Sloc	station-service
+tête I.1a	Bon	beau Adj I.1
+hexagone I	Métaphore	Hexagone II
+téléphoner	S0	coup de fil
+chewing-gum	Real1	mâcher
+travailler II.a	Syn	exercer I.1
+arrière-grand-tante	Contr	arrière-grand-oncle
+option 1	Extension	option 2a
+taureau II.a	Gener	signe III
+gâterie II	Syn	cunnilingus
+rapide Adj I.1	Syn	preste 1
+paraître I	Anti	disparaître III
+voler 2 I	S0	vol 2 I
+vilain N	Syn	vilaine
+politicard Adj	Syn	politicien Adj
+renard I	Syn	renarde
+banlieusard N	Syn	banlieusarde
+combattante I	Syn	combattant N I
+téléphoner	Syn	appeler I.2
+honneur I	Syn	réputation
+donner I.1	Métaphore	donner II.2
+ennemi N I	Anti	ami N I.1
+jupe I	AntiMagn	cigarette III
+suivant Adj I.1	Métaphore	suivant Adj II
+bain I.1	Métonymie	bain I.2
+affection I	A1	affectueux
+jambes I.1	AntiMagn	fin Adj I.1
+tête-à-tête I	Syn	entrevue
+résidente	Syn	résident
+fauteuil II	S2	conseil d’administration
+W.-C. b	Loc	à I.2
+courriel I	Syn	courrier électronique I
+neige I.1	A0	neigeux 1
+végétarisme	S1	végétarien N
+merde I	Syn	crotte I
+Corée du Nord	S1	Nord-Coréen N
+arraché	Syn	ivre I.1
+paupières I	S1	yeux I.1a
+capable	S0	capacité I
+pull	Syn	tricot
+affoler	A2	affolé
+patiente	Syn	patient N I
+combattre I.2	S0	combat I.3a
+homosexuel N	Syn	tante II
+conteur 1	Syn	raconteur
+rapidement I	Extension	rapidement II.2
+butiner	S1	abeille I.a
+chaussettes I	Métaphore	chaussette II.2
+enthousiasme a	S1	enthousiaste N, masc a
+serviette II	Syn	mallette
+Japon	A0	japonais Adj 1
+s’enlaidir	Syn	enlaidir I.2
+locomotive	Syn	loco
+plan comptable général	Sing	bilan I.1
+atteindre IV.1	Métonymie	atteindre IV.2
+soins I.2	V0	soigner I.2
+garde N, masc	Syn	garde N, fém II
+facile	S0	facilité
+personnage II	Syn	figure de proue II
+se désertifier II	Syn	se vider II
+dresser I	A2	droit Adj 1 II
+jambes I.1	Magn	interminable II
+professeur	A0	professoral
+fil II	Syn	câble 2
+consoler	S3	peine I
+filet I.3	Gener	protection II
+détente I	V0	se détendre I
+superficiel II	Anti	profond Adj II
+nuage I	Métaphore	nuages III.1
+nuage I	AntiMagn	transparent Adj
+circulaire	S0	cercle Ia
+enthousiaste N, masc a	Extension	enthousiaste N, masc b
+bronzeur	Syn	bronzeuse
+écriture I	AntiBon	pattes de mouche
+adapté	Syn	approprié
+nage III.1	Syn	plat N II
+poire II	Syn	carafe II
+calembour	Oper1	dire V I.b
+agoraphobe N, fém	Syn	agoraphobe N, masc
+analogie c	S1	analogue N c
+similaire	Syn	équivalent Adj
+incroyable I	Syn	fou Adj IV.1
+vin blanc	Contr	vin rouge
+cabinet de travail	Syn	bureau II.1
+vêtements I.2	Real1	retirer I.1
+entrer I.1	Sloc	entrée I.2
+seins I.2b	Real2	empoigner
+cibiche	Syn	garo
+bains II.1	Syn	bain-douche
+abîme II.1	Syn	gouffre II.1
+rejoindre I	Syn	se rapprocher I.1
+quantité 1	Syn	peu I.2
+gribouillage II.1	V0	gribouiller II
+se casser le bol	Syn	se casser la tête
+abstinence I.1	A1	sobre 2
+sandwich I	Func0	confectionner
+kiwi 2 I	Métaphore	Kiwi 2 II
+fourchette I	Contr	couteau I.b
+mou II	Syn	détendu I
+jambes I.1	A0	jambier
+amateur Adj I	Syn	passionné Adj 2
+téléphone II.1	Instr	par II.1
+lointain Adj IV.b	Syn	distant II.b
+volée de bois vert II	Syn	réprimande
+voler 1 III	S0	course 1 I
+tapis de plage	Syn	paillasse II
+colonie II	Oper1	coloniser
+lavage I.1	Métaphore	lavage II
+monter V.1	Extension	monter V.2
+viril I	Métaphore	viril II
+peindre I.2	Métaphore	peindre II
+putschiste Adj 1	S0	putsch
+toilette I.1a	Sinstr	affaires II
+chef-lieu	Syn	ville I.1a
+quelque part I.1	Syn	là I.1b
+rallonger I	Métaphore	rallonger II.1
+auditif	S0	ouïe
+vélo I	Fact0	circuler I.1
+cultivable 1	Extension	cultivable 2
+estival	S0	été
+boulimique Adj II.b	Syn	avide II
+monarchie a	A0	monarchiste Adj
+côté I.1	Syn	face N II.1
+articulation 2 I	Ver	audible
+Compagnie nationale des commissaires aux comptes	Syn	organisation II
+queue III.1	Syn	biroute
+innocent Adj I	Adv0	innocemment
+plage I.2a	S1	estivant
+pantalon	Syn	falzar
+verser V.1	Métaphore	verser V.2
+couronne II	Syn	feuillage
+jogging I.1	Oper1	faire II.1
+xénophobie	S1	xénophobe N, fém
+tombeau	S1	squelette
+manquer I.1	Extension	manquer I.3
+SDF a	Syn	clochard
+tête I.1a	Syn	boule II
+bouleverser I	Anti	ranger II.2
+interminable I	Métaphore	interminable II
+immobile	Syn	cloué II.2
+poétiquement	S0	poésie
+militaire Adj	Adv0	militairement
+chourer	Syn	carotter
+commencer I.1	S0	commencement
+bicyclette II	Syn	vélo II
+médiocre	Syn	quelconque II
+Web	Syn	Internet
+piquer V.2	Syn	voler 2 III
+foufoune	Syn	vulve
+tireur	Syn	fusil 1 II
+bouleverser I	Syn	chambarder
+aliment I	Métaphore	aliment II
+orage I	Func2	s’abattre I
+ver a	Mult	vers b
+se souvenir	S0	souvenir
+aérodrome	S2	avion I
+établi Adj II	Syn	assis III.2
+boudoir I	Syn	salon I
+ressemblance 2	Oper1	offrir III
+thorax a	Syn	coffre III
+cul I.1	Syn	derrière N II
+écart II.2	Syn	différence 1
+exclamation	Oper1	pousser III.2
+colline II	Syn	empilement
+bouffer 1 IV.1	S1	bouffeur III
+dormir I.1a	Syn	ronfler II
+faute I.2	Syn	erreur 2
+être N I	Sing	être N II
+linge I.a	Prepar	battre 1 I.2a
+haine	Syn	animosité 1
+coup de chaleur	Oper1	avoir V II
+orage I	Gener	phénomène atmosphérique
+service IV.2	Loc	pendant Prép 1
+violence I.1a	S1	violent N
+arrêter V.2a	Syn	stopper
+collaborer	S1	collaborateur
+abonnement 1	V0	abonner
+pioncer I.1a	Métonymie	pioncer I.1b
+défendre II.1	Anti	accuser I.2
+bus	Real2	monter II.1
+vote III	V0	voter II
+draisienne 1	Real1	en Prép IV.1
+charcuterie III	S1	charcutier N I.2
+se révéler II	Syn	se dévoiler II
+abondant I.1	Extension	abondant II
+mou I.1	S0	mollesse I
+téléphone II.2	Fact2	donner II.1
+juste Adj	Anti	injuste
+maintenant II	Syn	après Prép IV
+étouffer II.1a	Conversion	étouffer II.1b
+choucroute 2	S1	charcuterie I
+rizicultrice	Syn	riziculteur
+décalé III	Syn	déconnecté II.b
+stratégie I	S1	stratège N, masc
+manuel Adj 2	Contr	intellectuel Adj
+passer à la casserole I	Syn	mourir I
+terrain I.2	Syn	lopin
+vert I.a	Syn	kaki 1 I.a
+costume I.2	Real1	passer VI.a
+yaourt a	Métonymie	yaourt b
+alimenter I	S0	alimentation I
+consommation I.1	S1	consommateur
+nuage II.1	Func0	dissiper I
+dégueulasse I.2	Syn	sale Adj I.2
+quenotte	Syn	ratiche
+en guise	Syn	pour Prép VI
+enculer les mouches	S0	enculage de mouches
+brûlure	A2	brûlé
+refroidir 1	Anti	chauffer 1
+désert N I	Real@	érémophile
+modifier	S0	modification
+dîner N II	Syn	souper N II
+robe I.1	Métaphore	robe II
+tonnerre de Dieu I	Syn	destin I
+condamné Adj	S1	condamnée
+à côté de ses pompes	Syn	à côté de la plaque
+wawas b	Syn	vécés b
+verre II.1b	AntiMagn	dé à coudre II.b
+orphelin Adj I.1b	S2	mère 1 I.1b
+interpeler III	S1	policière
+se désengager	Anti	s’engager II.1
+slip	Gener	pièce d’habillement
+forêt I	A0	sylvestre
+abîme I	Métaphore	abîme II.1
+faire III.3a	Syn	rendre IV
+articulation 2 I	Ver	distinct II
+cousin 1 I	Syn	cousine
+savon 2 1	Oper1	donner II.2
+nuage I	Oper1	sortir I.1
+ennuyeux	Syn	chiant 1
+charge I	Métaphore	charge II
+hostilités II.2	Syn	conflit 2
+sauter I.1	Syn	bondir I
+campeuse	Syn	campeur
+chemin I	Métonymie	chemin II
+queue III.1	Syn	membre N II
+cœur IV.2	Syn	corps II.3
+carrée	Syn	chambre I
+voiture 3	Contr	locomotive
+expédition I	Métaphore	expédition II
+constant I	Métaphore	constant II
+clouer au lit	S2	malade N, masc I
+rare I.1	Métaphore	rare II
+honorer II.1a	Extension	honorer II.1b
+paume II	S1	gants a
+maison I.1	S1	occupante
+talent	Adv1	talentueusement
+poisson d’avril 1	Func0	monter V.2
+fond II.1	Syn	glace II.2
+longuement	Syn	durablement
+tourment	Syn	angoisse
+coup de tête I	Syn	coup I.1b
+geyser I.2	Syn	jet 1 I
+visiter I.1	Métaphore	visiter II.1
+causer 1 a	Syn	inspirer II.2
+composer II.2	S1	compositrice
+poissons II.a	Gener	signe III
+Vénus III	Gener	planète I
+maillot vert	Syn	maillot I.1
+manche N, masc II	Syn	pine
+chaud N	Syn	chaleur I.1b
+y aller II.1	Syn	agir I
+flatter II	Sinstr	compliment a
+meuble N II	Syn	bien N IV.a
+selon 2	Syn	relativement 1
+pin	Gener	arbre
+ennemi N I	Syn	adversaire N, masc I
+dégueu I.2	Syn	cracra I.2
+manteau I.a	Real1	vêtu
+insolation I.1	Causation	insolation II
+coquille I.1a	Extension	coquille I.2
+réagir I.1d	S0	réaction I.1d
+crime I.b	S1	coupable N, masc
+loyal	Syn	fidèle Adj I.a
+lavis II.1	Sinstr	pinceau I.1
+trésor I.1b	Syn	richesse II
+éclair 1 I.1	Magn	fulgurant
+sort II.2	Syn	destin I
+Suisse N, masc	Syn	Suissesse
+nager I.c	S2	200 mètres
+croupe II	Syn	panier III
+parapluie I	Syn	riflard
+spectacle II	S1	spectateur II
+jumeau N II.2	Syn	alter ego
+grippe	A1	malade Adj I.1a
+demi-pièce 1	Syn	pièce II.1b
+chance 1	Syn	cul III
+avant-hier	Contr	après-demain
+gaucher N	Contr	droitier N
+casserole IV	Oper1	traîner II
+déplier II	Syn	détendre 2
+bandit I	Real@	emprisonner
+épreuve 1 II.1	Syn	compétition
+soiffarde	Syn	alcoolique N, fém
+se rabattre I	Syn	se déplacer I.2a
+mouche I	AntiMagn	petit Adj I.3b
+en toutes lettres	Anti	entre les lignes
+cristal I.1	Métonymie	cristal I.2a
+nettoyer I.1a	S4	nettoyant N
+deviner	Result1	savoir V 1
+jupe I	Contr	pantalon
+jupe II.2	S1	automobile N I
+réduire II.1	Extension	réduire II.2
+douche I	Métonymie	douche II.2
+sables 1 II	Syn	désert N I
+tutoyer	S0	tutoiement
+à la vitesse de [Y]	Syn	rapidement I
+passer VI.a	Causation	passer VI.b
+vêtement I.1	Métaphore	vêtement III.1
+exposer II	Syn	expliciter
+contour 2	Syn	forme I.2
+franc Adj 1 I.1	S0	franchise 1 I.1
+nager I.a	Syn	nageoter
+acheminer II	Syn	conduire IV.2
+sport N I	A0	sport Adj I
+se restaurer	Syn	bouffer 1 I.1a
+victime N I.1	S3	criminelle 1
+grand-père I	Syn	grand-papa
+jument	Contr	hongre
+saisir I	Syn	atteindre I.3
+marmot 2	Syn	gosse N, masc 2
+acte I	Extension	acte II.1
+complexe Adj	Syn	savant Adj III.2
+négocier I.1	S0	négociation
+BMX 1	Syn	vélo I
+kaki 1 I.a	Syn	vert I.a
+marche 1 I.1b	V0	marcher I.2
+domestique Adj I	Métaphore	domestique Adj II.1a
+boulimie II	Syn	penchant
+se répandre I	Syn	s’écouler I
+garante	Syn	garant N
+remettre I.1	Syn	mettre I.1a
+aînesse	S2	cadette
+reflet 2	Syn	image I
+approprié	Syn	adéquat
+orchestre II.1	Extension	orchestre II.2
+amour I.1a	Syn	Vénus I
+cours 1 1a	Mult	cours 1 1b
+palabres	Syn	tête-à-tête I
+divorcer I	Anti	marier I.4
+jeu III.1b	Métaphore	jeu V
+s’affaler	Syn	s’avachir
+superficiellement II	A0	superficiel II
+mésange charbonnière	Gener	oiseau a
+geler II.a	Syn	cailler II
+course 1 IV.1b	Syn	ruée II
+chauffeur	Syn	chauffeuse
+mûr III	Syn	prêt Adj 1
+nuages III.1	Func1	répandre II.1
+dévoreur N I	Syn	dévoreuse I
+poitrine 3	Magn	volumineux
+vêtement I.1	Métonymie	vêtement II
+envahir I	S1	envahisseur
+cesser 2a	Syn	arrêter V.1a
+quéquette	Syn	moineau II
+beurre	Func0	crémière
+bouffer 1 I.1a	Métaphore	bouffer 1 V.3
+absorbeur	Syn	chaussette II.3
+marqué II	Syn	flagrant
+nippes	Syn	frusques
+près I.1	Métaphore	près II.2
+Pays de Galles	Syn	Galles I
+arpenter	Syn	sillonner II
+réel Adj I	Métaphore	réel Adj II
+docteur 2	Syn	toubib N, masc
+nom 1b	Oper2	se nommer
+blâme	Anti	éloge 1
+Attention à la marche	Syn	Prenez garde au chien.
+boucher-charcutier 2	Syn	charcutier N I.2
+repas II.b	Fact1	servir III.1
+disparition	V0	disparaître I
+recycler	Able2	recyclable
+déguster III	Syn	morfler
+dos II.3	Syn	dos brassé
+forme III.1	Oper1	tenir I.1
+collectionneur	Fact2	collectionner I
+radin	Syn	avare Adj
+hypothèse	A0	hypothétique
+non loin	Syn	près I.1
+avancer III.1	Extension	avancer IV.2
+maternel b	Contr	paternel Adj b
+finir V	Anti	commencer III.3b
+incorrectement 2	Syn	mal Adv I.2
+Corée du Nord	A1	nord-coréen Adj 2
+porc II	Epit	sale Adj V.3b
+plage II	Sinstr	bouée I.2
+filer un mauvais coton II	Anti	remonter la pente
+timbre 1 I.1	S1	état 2 a
+total Adj 2	Syn	complet Adj
+véhiculer I	Métaphore	véhiculer II
+modeste N, fém	Syn	modeste N, masc
+matière I.1b	Contr	énergie II
+à l’extérieur 2	Syn	dehors Adv
+coup de téléphone	Syn	coup de fil
+aspiration II	V0	aspirer 1 I.3c
+accès II.1	Extension	accès II.2
+baraque à frites	S3	cliente
+piquer I.1a	Métaphore	piquer II
+débitante	Syn	débitant
+mandibule	Syn	mâchoires I.1a
+laisser I.1	Métonymie	laisser I.2
+se lever I.a	Métaphore	se lever III
+grillage 2 1	Extension	grillage 2 2
+dormir I.1a	Métaphore	dormir II.2a
+oui I	Métaphore	oui II
+vendre I.1	S1	vendeuse
+ronflement II	Magn	bruyant
+vague Adj I	Métaphore	vague Adj II.1
+mettre la pédale douce	Syn	lever le pied II
+garder I.a	Extension	garder I.b
+docteure 2	Syn	docteur 2
+bouffer 1 I.1a	Magn	sur le pouce
+goûter V I	S1	goûteuse
+mâchoires I.1a	A0	maxillaire
+chouraver	Syn	chiper
+réunion I.1b	Extension	réunion I.1c
+incontournable Adj I	S1	obstacle I.a
+mère 1 I.1a	Adv0	maternellement
+placard 2 I.1	Real1	placarder
+cheminée II.1	Extension	cheminée II.2
+s’occuper 2	Syn	prendre soin
+fond VII	S1	discours 1
+vin de table	Gener	boisson alcoolisée
+polaire	S0	pôle
+continent II	Magn	vaste II
+fatigue	Syn	faiblesse I
+accomplir II	S0	accomplissement II.1
+muscle II.2	Oper1	donner II.2
+histoire I.1	A0	historique
+Soleil I.b	Gener	étoile
+dégueulasse II.1	Syn	dégueu II.1
+exagératrice	Syn	exagérateur N
+poitrine 1a	Syn	cage thoracique
+observer I.1	S1	observatrice
+terrier I	Sloc	sol 1 I.1
+tisane I	Métonymie	tisane II
+dégueulasse IV.1	Syn	dégueu IV.1
+plage I.1a	Syn	plagette
+attendri 2	Syn	ému 2
+intime Adj III.1	Syn	personnel Adj 1
+vif II.2	Syn	intense
+toilettes III.1a	Syn	commodités II.2a
+vieux Adj I.1a	Métaphore	vieux Adj II
+hésitation 1	Codérivation	hésitation 2
+propreté I	Syn	hygiène I
+blues I	Syn	mélancolie II.1
+vin de pays	Syn	vin I.1
+France	Syn	Hexagone II
+similitude	S3	similitude
+merde I	Syn	étron
+écologie I.2	Métonymie	écologie II
+forme IV.1a	Func2	revêtir III
+fleur I.2	A1	couvert Adj I.1
+se sucrer	S2	argent II
+chef N, masc II	Syn	caboche I
+rattacher II.1	Extension	rattacher II.2
+grammaire I.1a	S1	langue II.a
+Londres	Gener	ville I.1a
+inoubliable	Syn	immortel Adj II
+union 2	Syn	mariage I.2
+crayon 1	Labreal12	crayonner
+plage I.2a	S1	estivante
+corolle	Sing	pétales
+soigneur 1	Syn	soigneuse 1
+vite 1	Magn	plus _V que la musique
+oseille sauvage	Syn	oxalide
+égalité I	Métaphore	égalité II
+justesse I.2	Adv1	juste Adv I.2
+piloter 2	S2	automobile N I
+métro II.2	Syn	terminus
+hargneux	Syn	teigneux
+mesurer 1 I.2a	Sinstr	règle I
+placer I.a	Syn	disposer I
+allumé II.1	Extension	allumé II.2
+adapter	S0	adaptation
+détruire I.1	A0	destructeur Adj
+quéquette	Syn	verge
+flûte N I.a	Métaphore	flûte N II.a
+dieu 1	S2	croyant
+capoter II	Syn	échouer I
+rudement I	Métaphore	rudement III
+présenter III	Syn	offrir III
+verticalement	Anti	horizontalement
+bouffer 1 I.1a	S2	bout III
+passionner	Syn	intéresser
+autocrate N, masc	Syn	autocrate N, fém
+traduire I	S1	traductrice
+habitude 1	Syn	routine b
+manteau I.a	Real1	en Prép III.1
+mémère II	Syn	mère 1 III.1
+bouffer 1 II.1	S1	bouffeur II
+à cheval I.a	Syn	à califourchon
+consulter II	Syn	survoler II
+père I.1a	AntiVer	indigne 1
+bouffer 1 I.1a	Métaphore	bouffer 1 IV.2
+vêtement I.1	Syn	pelure
+rallonger II.2	Anti	abréger
+fixer I	Syn	clouer I
+certitude	Oper1	avoir V II
+électif	S1	élu
+fréquenter 1	Métaphore	fréquenter 2
+connaître III	Syn	subir 1
+marcher sur la tête 1 I	Syn	gagner II.2
+revêtement I.1	Syn	couche 1 1
+assurance I	Syn	certitude
+circuler I.2	Syn	voyager I
+hold-up I	S2	magasin
+père I.1b	Fact2	prendre soin
+pull	AntiMagn	serré II
+extravagance 1	S1	extravagante
+lessive III	Fact0	sécher I
+cravate I.1	Real1	avoir V I.2
+demeurer II	Syn	être V IV.2a
+expert 2	Fact0	rapport 2
+prélèvement	Gener	dépense
+soliflore	Syn	vase N, masc b
+votre	Contr	notre
+aller V I.1a	Métaphore	aller V VII.1
+5000	Syn	cinq mille 1b
+moderne N I	A1	moderne Adj I.2a
+pleuvoir I	Magn	à verse
+billet I.1	Syn	lettre II
+compréhension II	Syn	compassion
+visiter II.1	S2	musée
+sport N I	Gener	discipline I
+nuage I	Liqu	dissiper I
+demander I.1	Syn	interroger
+jeu II.1	Métonymie	jeu III.1b
+bassin III.1	Extension	bassin III.2
+coup de soleil	Oper1	recevoir III.1
+débutant Adj I	S0	début I.1
+flotter I	Métaphore	flotter II
+liquidatif	S0	liquidation III
+tempête I.1	Fact1	souffler I.2
+ping-pong I.1	Sinstr	ping-pong II
+clé I.1	S2	serrure
+injustice I	Syn	justice
+se griller	Syn	fumer III.a
+priseuse	Syn	priseur
+droite 1	Contr	gauche N, fém
+couleur V	Syn	prétexte
+mauvais Adj III	Anti	bon Adj III
+concert I	Real2	écouter I
+cours 1 1a	Real3	suivre III.b
+converser	S0	conversation a
+lointain Adj III	Syn	vague Adj II.1
+espagnol N II	S1	Espagnole
+phobie 1	Syn	angoisse
+aridité	Syn	sécheresse 1
+dégueulasse II.2	Syn	dégueu II.2
+nettoyer I.1a	Métaphore	nettoyer II.1
+parallèle N, masc	Syn	analogie a
+morale	Adv0	moralement
+se conformer 2	A1	conforme
+symptomatiquement I.1	Codérivation	symptomatiquement II
+ennemi N II	Fact2	nuire II
+gémir I.1	Syn	geindre I.1
+intestin N	A0	intestinal
+avocate I	AntiBon	mauvais Adj I.1a
+cuisine III	Syn	affaire I.1
+concurrence 1b	Métonymie	concurrence 2
+santé N I.a	Bon	santé N I.b
+mourir I	Syn	perdre la vie
+connecter I	Syn	articuler 1 I
+accentuer I.1	S3	accent I.1
+se bagarrer I	S0	bagarre I
+hispanophone N, fém	A1	hispanophone Adj
+rêve	S1	rêveuse
+manger V I.1a	AntiVer	comme un porc I
+se déplacer I.2a	Syn	entrer I.1
+flottille	Sing	bateau N 1 I
+courir I.1b	S2	semi-marathon
+éléphant I	Syn	pachydermes I.a
+punaiser	Syn	épingler a
+tapis vert II	S2	jeu III.1a
+cible I.1	S1	tireur
+course d’obstacles II	Syn	course contre la montre II
+goguenots b	Syn	tartisses b
+guitariste N, fém	Gener	musicienne
+cagoinces a	Syn	lieux d’aisances b
+crise I.1	Extension	crise I.2
+anciennement	A0	ancien Adj II
+toilettes III.1b	Syn	cabinet d’aisances b
+allonger 1 I.1	Syn	étirer I
+bien N III.b	Syn	avantage I.2
+verser II	Syn	régler III
+s’arrêter III.1a	Syn	lever le nez du guidon
+photo Adj	Syn	photographique
+boulangère 2	S4	boulangerie I
+allonger 1 IV	S2	figure II.1b
+agoraphobie	A1	agoraphobe Adj 2
+eau I.b	Syn	eau I.a
+longtemps 1	Anti	rapidement I
+paroles II.2	Syn	propos I
+tornade I	Func0	se déchaîner 1
+larguer les amarres I	Syn	prendre la mer
+suivre I	Métaphore	suivre III.a
+tardivement	Anti	vite 2b
+élève N, fém	S2	maîtresse III
+lusophone Adj	S1	lusophone N, fém
+une fois	Syn	quand
+bouffer 1 V.1a	Syn	manger V V.2a
+éteindre II.1	Extension	éteindre II.2
+coup VI	Syn	fois 1
+pluie I	Fact2	mouiller I
+manche N, masc II	Syn	nouille II
+atome III	Syn	parcelle II
+toilettes III.1b	Syn	tartisses b
+cinéma I.2	Métaphore	cinéma III
+bite	Syn	pine
+débarrasser I	Anti	embarrasser I
+manquer III.1b	Anti	avoir V II
+arrangement I	Syn	disposition I
+proche Adj II.1	Syn	récent 2
+durer I	S2	durée
+turlute	Syn	pipe III
+saphir a	Gener	pierre précieuse a
+paysanne	Syn	paysan N
+animé I	Gener	vivant Adj
+recevoir IV.1	Conv-ij	visiter I.1
+désir 1	V0	désirer 1
+constater	S0	constatation
+danser	AntiVer	dansoter
+lit I.1b	Oper1	bondir II
+joindre les deux bouts	Syn	économiser I
+debout I.a	Anti	couché I.1a
+soleil I.a	A0	solaire Adj
+cœur de bœuf	Syn	tomate I.1
+lit I.1a	Real1	se reposer
+défiler II	S0	défilement
+gant de toilette	Syn	fleur de douche
+déplacer I.1	Métaphore	déplacer II.1
+couleur II.2b	Oper2	faire II.2
+cadavre I.a	Func0	reposer 2 II
+tache de vin	Syn	tache I.2
+tortue II	A1	lent I.2
+pays I.1a	Real1	habiter I
+5000 mètres	Gener	épreuve 1 II.1
+jupe I	Real1	glisser II.2
+se disposer	S0	disposition IV.2
+bronchite	Gener	maladie I.1a
+maître N III.1	Métaphore	maître N IV.1
+petit vieux	Syn	vieux N I
+lavable a	Extension	lavable b
+subtiliser	Syn	faire main basse
+preuve 2	Syn	signe I.1
+avancer I.1	S0	avancée I
+incorrectement 1	Anti	correctement 1
+tomate cerise	Syn	cœur de bœuf
+père II.1b	Syn	religieux N
+recevoir I	S0	réception I
+car N	Syn	autocar
+orage I	Anti	calme N II
+Russe N, masc 1	Codérivation	russe N, masc 2
+garder V.2	S0	garde N, fém I.1
+pièce montée I	Gener	pâtisserie II
+se tenir III.2	Syn	tenir V
+classe 1 I	Syn	pièce III.a
+mordiller II	Syn	bouffer 1 II.1
+border 2	S2	voile N, fém I
+barquette a	Syn	cornet a
+astuce I	A1	astucieux 1
+Suède	A1	suédois Adj II
+arabe Adj 1	S0	Arabie
+virtuose N, masc 1	Syn	virtuose N, fém 2
+pépite	Syn	grain II.a
+inaudible	Syn	non audible
+réduire I.1	Métaphore	réduire III
+marier I.1	S2	mari
+véhicule I.b	Syn	auto I
+zob	Syn	phallus
+planque	Syn	cachette
+aiguillonner I.2	Syn	piquer I.1b
+skis I.a	Prepar	aiguiser
+ambiguïté 1	Syn	équivoque
+avancer II.2	Syn	marcher IV
+régénérateur	Syn	réparateur Adj
+affection I	Métaphore	affection II
+coup pour coup	Syn	Œil pour œil, dent pour dent 2
+nant	Gener	cours d’eau
+dirlo N, fém	Syn	dirlo N, masc
+crime I.b	Oper1	commettre
+cracra VI.1	Syn	malsain II
+sucer I.1	Métaphore	sucer II
+se déplacer V	Syn	se porter II
+pessimisme	S1	pessimiste N, fém
+porteur N II.2	S2	chèque
+famine	Anti	cocagne
+blindé Adj III	Syn	plein Adj V
+voir I.1	Extension	voir I.2
+tomber V V.1b	Anti	tomber V V.1c
+double N I	Métaphore	double N II
+adversaire N, masc I	Métaphore	adversaire N, masc III
+instrument 2	Real1	jouer IV.1
+polluant Adj	Anti	propre Adj 1 II.4
+haro 2	Oper1	mettre IV
+haut sur pattes II	Contr	court sur pattes II
+se reposer	Syn	se détendre II
+stomatologue N, fém	Syn	dentiste b
+finir III.1	Syn	terminer IV
+ping-pong I.1	S1	pongiste N, masc
+hameçonnage	Syn	spam II
+instruction I.1	Métonymie	instruction I.2
+étagère II	Gener	pièce d’ameublement
+charcutier N II	Syn	boucher N III
+curé	Sloc	cure
+verglas	A1	recouvert 2
+jupe II.2	Real1	installer II.1
+réduction I.2	Syn	coup de fusil II
+couleur I.1a	Func1	décolorer I.2a
+dresser IV	S0	dressage
+bijou I	Syn	parure I
+hydrophile	Syn	absorbant
+retenir II	Syn	arrêter IV.2
+partout II	Syn	à droite et à gauche II
+migraineux N	Syn	migraineuse
+régner I	Syn	gouverner
+manteau IV	Epit	terrestre I
+pétanque	Gener	jeu I
+se prendre III	Syn	se ramasser II.2
+laver I.2	S3	machine 2
+plateau IV.2b	S1	sportive I
+période 1	Extension	période 2
+approuver II.1	S0	approbation II.1
+rouleau II	Syn	mouton II.1
+amabilité	Syn	sympathie
+placard 2 I.2	Syn	affiche
+nationalité I.1	Syn	nation
+caverne	Syn	grotte
+maladie I.1a	Métaphore	maladie II
+baptême	V0	baptiser I
+priseur	S2	tabac 1 I.2
+macaron I	Gener	petit four
+pièce de rechange	Syn	pièce détachée
+avancer V.1	A1	avancé II
+canard boiteux	Syn	raté
+bol fécal	Syn	caca N I
+crapaud I	Métaphore	crapaud III
+casser sa pipe	Syn	mourir I
+braiment II.2	Syn	cri I.2
+cracra I.1	Syn	crade I.1
+crade IV	Syn	craspec III
+engueuler	S0	engueulade 1
+bocal II	Syn	aquarium II
+contrôler II	S0	contrôle II
+conduire III.2a	S0	conduite II.3
+filer un mauvais coton I	A1	malade Adj I.1a
+benoîte	Gener	fleur I.2
+sommeil II	Oper1	sortir IV.2
+réciter	Syn	dire V I.b
+couleur I.1a	AntiMagn	fade I.2
+sous III	Syn	derrière Prép II
+allumer I	Anti	éteindre I
+immense I	Syn	grand Adj I.1
+majorité II.1	A0	majoritaire a
+tour N, masc I.1	Syn	rotation
+japper	Syn	aboyer I
+lycéen Adj	S0	lycéen N
+pasteur 1	Métaphore	pasteur 2
+imprimer II	Sinstr	presse I.2
+profondeur I.1	Extension	profondeur II
+sous-préfecture II	Syn	préfecture II
+tornade II	AntiMagn	mini
+glaïeul	Gener	plante 1
+français N II	S1	francophone N, fém
+rocher 1	Syn	pierre II
+fond III.1a	Extension	fond III.2
+laver I.2	Syn	nettoyer I.1a
+quarantaine I	Métonymie	quarantaine III.1
+procurer	Syn	valoir III
+veuf Adj I	Anti	marié Adj
+noir I.a	Conversion	noir I.b
+bouffer 1 I.1a	Magn	copieusement
+mail I	Métonymie	mail II.1
+arrangement I	Syn	présentation II
+blesser I.1	Syn	piquer I.1a
+en cours 1	Extension	en cours 2
+travailler I.2	S1	travailleuse
+taxi	S1	chauffeur
+douche I	AntiMagn	rapide Adj III.1
+main verte 1	Oper1	conserver III
+rencontrer 1	Syn	croiser II
+accompagnement I	Extension	accompagnement II
+vermicelle	Syn	cheveux d’ange II
+ciboulot	Syn	cigare III.2
+sens 1 III.1	Syn	raison 1
+cadre 1 IV.1	Syn	milieu II.1
+sale Adj I.1	Métonymie	sale Adj II.1
+oreille III.1a	Syn	individu 1
+cigarette russe	Gener	biscuit 1 2
+chrétien Adj 1	Extension	chrétien Adj 2
+allonger 2 II	Syn	ficher
+costume I.1a	Syn	habits I.1b
+pipi-room	Syn	tartisses b
+convertir	Syn	rallier I
+dru II.a	S1	neige I.1
+ingouvernable	Anti	gouvernable
+ouest N II.2	S1	Amérique du Nord
+roberts	Syn	nibards
+à propos 1	Syn	concernant
+W.-C. a	Syn	gogues a
+fixité 1	A1	fixe Adj 1
+désert N X-IV.2	Oper1	s’enfoncer II
+corps III	Sing	élément III.3b
+creuser I.1	Métaphore	creuser II
+dégoût II	Syn	aversion
+Petit Prince II	Syn	prodige II
+manger V I.1c	Sloc	repas I.2
+coup bas	Syn	vacherie II.a
+car N	Gener	véhicule I.b
+nostalgie I	Bon	doux III.2
+baignoire	Syn	douche II.1
+inférieur I.1	Extension	inférieur I.2
+car N	S2	passagère
+guitariste N, fém	Syn	guitariste N, masc
+guitariste N, masc	Syn	guitariste N, fém
+affirmation	V0	affirmer
+hétérosexuel Adj 1	S0	hétérosexualité
+condition I.b	Syn	modalité
+donneuse de leçons	Syn	donneur de leçons
+mécanicien N II.1	S2	véhicule I.a
+judo	Gener	art martial
+siffler II	Syn	chanter II.1
+dent 1 I.b	Ver	bon Adj I.1a
+incomber	Syn	appartenir III
+douche I	Bon	réparateur Adj
+unité III	Syn	pièce II.1a
+consentir 1	A1	consentant
+à fleur de peau I	Métaphore	à fleur de peau II.a
+confusion I	V0	se confondre
+contrôle II	A0	contrôlant
+tapis I.1	Ver	brosser 1 I
+couvre-feu I.1	Extension	couvre-feu I.2
+tarin	Syn	nase 1 I
+courriel I	S1	auteure II.a
+ottomane	Syn	canapé I
+visite IV	S1	visiteur III
+partiellement	A0	partiel
+criminel N	Real@	incarcérer
+pousser I.1a	Métaphore	pousser V.1
+s’éteindre III	Syn	succomber I
+suffire I	Métaphore	suffire II
+classer 1	Syn	ranger III.a
+analogue Adj a	Magn	équivalent Adj
+assis I.1b	Pred	être V IV.2a
+goutte 1 I	Métaphore	goutte 1 II
+cils I.2	Métaphore	cils III
+approcher I	S0	approche I
+raconteuse	Syn	raconteur
+pépé I	Contr	mémé I
+finir I.2	Extension	finir I.3
+fiévreux	S0	fièvre I
+agrandir II	Syn	allonger 1 I.2
+chien de mer	Gener	poisson I.a
+arracher I.1	Métaphore	arracher II
+quitter II.2	Syn	entrer I.2
+homosexuel Adj 2	S1	homosexuelle
+tête dure 1	Métonymie	tête dure 2
+proche Adj I	Plus	se rapprocher I.2
+essuyer II	Syn	subir 1
+paupières I	Métaphore	paupière II
+macaroni II.b	Syn	Italienne
+palabres	Syn	dialogue 1a
+beurré 2	Syn	bourré III
+commérage	Syn	potin
+tortue II	Fact0	traîner IV.1
+téléphoner	S0	appel I.2
+figure II.1a	Sloc	en plein I
+repas II.b	Fact1	donner I.1
+tempête I.2	Magn	effroyable
+écouter I	Ver	attentivement
+adoré	Syn	chéri Adj
+groggy I	Syn	sonné I
+horde 2	Syn	colonie III
+rangement I.1	Métonymie	rangement II
+tempête II.3	Func0	survenir
+tempête II.1	Syn	ouragan II.1
+coup VII.1	Gener	boisson I
+s’allumer I	Anti	s’éteindre I.2
+lumineux II.1	Magn	éclatant
+avare N, fém	A1	avare Adj
+causette	Syn	tête-à-tête I
+formel 2 I	Adv0	formellement 2 I
+vivre I.1	Extension	vivre I.2
+incendie	Syn	feu II.2
+siège I.1	Real1	se lever I.a
+table IV	Extension	table V.1
+piquette I	Syn	vinasse
+transférer I	Syn	déplacer I.1
+disposé I	Syn	placé
+atteint II	Syn	malade Adj I.1a
+bouffer 1 IV.2	Syn	manger V IV.2
+urne I	Epit	funéraire
+s’exprimer I.1	Extension	s’exprimer I.2
+réseau I	Métaphore	réseau III
+Saint-Siège II	Syn	siège apostolique II
+prêt-à-porter	Syn	mode N, fém I.2
+chimie I.1	Métonymie	chimie II
+magie	S1	magicienne
+renvoyer II	Syn	envoyer III
+craspec I	Syn	crasseux I
+arrière-pays	Syn	pays I.2a
+W.-C. b	Real1	entrer I.1
+cigare III.1	Métonymie	cigare III.2
+Sud-Américaine	Syn	Sud-Américain N
+bonté 1	Syn	gentillesse 1
+se décontracter	Anti	se contracter
+navigateur I.b	Métaphore	navigateur II
+ennemi N I	Magn	farouche II
+leçon I.1a	S1	professeur
+coiffeur I	Syn	merlan II
+métro II.1	Real1	prendre place
+emmerdeuse	Syn	emmerdeur
+enfant N, masc I.1	S2	parents N 1a
+y aller I	Syn	lever le camp
+ferme Adj I	Syn	dur Adj I
+soigner I.2	Syn	bichonner
+flouer	Syn	voler 2 II
+incorporer I	Syn	mélanger I
+croupion I	Métaphore	croupion II
+protecteur Adj I	S2	protégé N
+toilettes III.1b	Syn	gogues b
+gogues a	Syn	sanitaires N II.a
+gorge I.1	Loc	dans I.1
+fume-cigarette	S1	fumeur
+chiottes I.a	Syn	tartisses a
+vendre I.1	Magn	comme des petits pains
+tomber V I.2b	Syn	neiger
+accalmie	Anti	tempête I.2
+moudre	Sinstr	moulin I
+rallye 1	Gener	évènement sportif
+point de vue II.1	Extension	point de vue II.2
+placer I.b	Syn	installer I.2
+rédiger 1	S0	rédaction
+mexicain Adj I	Métonymie	mexicain Adj II
+toilier Adj	S0	toile I
+chemin de fer II	Oper2	disposer II
+clocharde	Syn	clochard
+élever III.a	S2	petit N 1
+camion	Fact2	transporter II
+becter	Syn	manger V I.1a
+composer I.1	Métaphore	composer III
+pays I.1a	Adv0	nationalement II
+malfrat	Syn	malfaiteur
+battre de l’aile	Anti	fonctionner II
+monarchie b	Syn	état 2 b
+visiter II.3	S1	visiteuse III
+coiffeuse 2	Syn	table de toilette
+jambes I.1	Fact1	porter I.1
+polluer 1	Extension	polluer 2
+écarter I.1	Métaphore	écarter III.1
+crime I.a	S1	criminel N
+bouffer 1 IV.1	Syn	utiliser I.2
+ennemi N III.a	Real2	repousser 1 II
+emmerdeur	Syn	emmerdeuse
+sous I.1	Syn	dessous Adv
+taxer II	Syn	carotter
+entreprise II.1	Syn	société II
+furieux I	Syn	furax
+injustement	Anti	justement
+veste 1	Real1	tomber V III.2
+découvrir III	Syn	dévoiler II
+rabbinat I	Extension	rabbinat II
+plage IV	Syn	espace N, masc I.2a
+réseau I	Métaphore	réseau II
+chéri N 1	Syn	chérie 1
+zizique	Syn	zique
+dérober I	Syn	subtiliser
+adolescente	A0	adolescent Adj 2
+courrier I.1	Syn	lettre II
+fenêtre I	Instr	par I
+metteur en scène N, fém	Gener	professionnelle
+autoroute I	Real1	rouler 1 VI.2a
+prout	Syn	pet
+crier I.1a	S0	cri I.1a
+Mère de Dieu	Syn	Vierge Mère
+enroulé II	Syn	lové
+orage I	Plus	s’accroître
+schmer	Syn	cibiche
+rivière I	Real@	navigable
+distraite	Syn	distrait N
+médicament	S3	pharmacienne
+droitière	S0	droiterie
+long Adv II	Syn	beaucoup II
+crime I.a	S1	coupable N, fém
+tuerie I	V0	tuer I
+calèche	Syn	voiture 1
+bord I.3	Syn	coteau II
+veste 2 1	Syn	déconfiture
+s’engager I.1	Métaphore	s’engager II.1
+crado I.2	Syn	dégueu I.2
+poitrine 3	Oper1	avoir V II
+exagérer III	Syn	pousser V.2
+BMX 2	Oper1	faire II.1
+draisienne 1	Fact0	circuler I.1
+manger V I.1c	Syn	bouffer 1 I.1b
+se séparer II	Syn	divorcer I
+chaussures I	AntiBon	usé
+ratiche	Syn	quenotte
+dentifrice 1a	S2	dent 1 I.a
+brûler II	Syn	griller 1 III
+détourner II	S2	regard I.1a
+Vénus I	Gener	déesse
+excentricité 1 II.2	Syn	pièce de collection
+alcoolo N, masc	Syn	alcoolo N, fém
+commercialement	A0	commercial
+tête dure 1	A1	entêté Adj
+siamois	Syn	jumeaux N I.a
+canard 1 I.a	Métaphore	canard 1 V
+presses II.1	Métaphore	presse II.2a
+intentionnellement	Syn	volontairement
+passer à tabac	Syn	battre 1 I.1a
+disposer I	Intersection	disposer II
+plaisir I.1	Métonymie	plaisir II
+Germanique N, masc II	Syn	Germanique N, fém 2
+vélo I	Real1	pédaler I.1
+mettre bas 1	Syn	accoucher b
+voir I.1	Able2	voyant Adj I
+traduction a	S1	traducteur
+nationalement I	Métonymie	nationalement II
+manières de table	Syn	habitude 2
+tenir III.1	Extension	tenir III.2
+batraciens a	Métonymie	batracien b
+étourdir	A2	étourdi Adj II
+nettoyeuse II	Syn	nettoyeur N III
+ancien Adj I.1a	Syn	vieux Adj I.2
+agressé Adj	S1	agressée
+stratégique b	Syn	important 1
+jazz	S1	jazzman
+grolles	Syn	pompes 2
+pourrir	S0	pourriture I.1
+jambes I.1	Contr	corps I.1a
+chronique I	Syn	durable
+pantalon	Real1	mettre I.2a
+Corée du Nord	A0	nord-coréen Adj 1
+se casser I	Able1	cassant
+cycliste N, masc II	Real1	mettre I.1a
+versant	S1	montagne I.1
+ombilical I	S0	nombril I.1
+couché I.1a	Pred	se coucher I.1a
+tornade III.1	Magn	terrible I
+chien I.a	Magn	mâtin
+narines 1	Real1	inspirer I
+abonnement 1	Résultat	abonnement 2
+serviette I.1	Labreal12	sécher III.1
+nettoyeuse I.2	S1	nettoyeuse I.1b
+rivière II.a	Func0	déverser II
+boucher Adj	S0	boucherie II
+éclater I.2	Syn	crever I.2
+ressembler I.1	AntiMagn	en aucune manière
+malfrat	Syn	bandit I
+geste 1	Syn	doigt d’honneur
+châtier 2	Syn	punir 2
+gallois N II	S1	Galloise
+exploiter I	Able2	exploitable
+abonner	S0	abonnement 1
+vent I.1	Magn	typhon
+mairie 1	S3	administrée
+1500 mètres	Syn	5000 mètres
+contribution II	Syn	cotisation
+chiquer	Syn	mâcher
+distance I	Syn	écart I
+verrou II	Syn	obstacle II
+Boche N, fém	Syn	Boche N, masc I
+intransigeant	Syn	têtu Adj I.a
+visite I	S1	visite II
+observer III	Syn	respecter II.2a
+réfrigérant I	Métaphore	réfrigérant II
+fleuve I	Sing	berge
+présenter II.2	Syn	arranger I.a
+franc Adj 1 II	Syn	net Adj IV
+combat I.1	S1	combattante I
+plaque I.1	Métaphore	plaque IV
+coup de soleil	Oper1	choper II
+coudre 2	S0	couture 2
+briser I.1	Métaphore	briser II.1
+signification	V0	signifier I.2
+costume I.1a	Real1	endosser I
+paternel N	Syn	daron
+réhabiliter	S0	réhabilitation
+poursuivre II	Syn	suivre II.2
+orphelin N I.a	Syn	orpheline a
+intimité II.1	Extension	intimité II.2
+vin I.1	AntiVer	bouchonné
+prêcher un converti	Syn	prêcher II
+bâfrer	Syn	s’empiffrer
+empreintes I.1b	Syn	pas N II
+visage I.1	Syn	gueule I.2b
+famille IV.1	Syn	classe 2 2
+coloris	Syn	couleur I.1a
+volée 1 II	Syn	nuée I
+jambes I.1	Syn	gambettes
+domaine I	Syn	pré carré
+enveloppe I	Syn	gaine
+renardeau	Syn	renard I
+banditisme	Syn	crime II
+vérifieuse	Gener	machine 1
+10 000 mètres	Syn	10 kilomètres
+savon 1 b	Real1	savonnage
+bien N IV.a	Spécialisation	bien N IV.b
+pluie II.2	Syn	grêle II
+malhonnêtement	A0	malhonnête 1
+chemin de fer II	Oper2	posséder II.1
+corps IV.1b	Cap	général N 1
+innocemment	S0	innocence I
+souple III	Anti	têtu Adj I.a
+dentifrice 1a	Métonymie	dentifrice 2
+fiction II	Syn	œuvre II.a
+nettoyer I.1b	A1	nettoyeur Adj
+hiver	S1	année 2a
+apparemment 2	Syn	visiblement
+personnage III	Syn	figurine
+nationalement I	S0	nation
+filou I	Syn	canaille 1
+introuvable	Anti	trouvable
+oreilles I.3	Real1	distinguer 3
+ramper I.a	Syn	se déplacer I.2a
+ami N I.3	Syn	contact II.2
+crade IV	Syn	cracra IV
+pur beurre I	Syn	gras Adj 2
+bouffer 1 V.1a	Métonymie	bouffer 1 V.1b
+W.-C. b	Real1	occupé I.1
+cerisier	S1	cerise I
+serviette I.2	Epit	table I.1b
+tabac 1 I.2	Func0	fabricante
+aveugle Adj I	S1	aveugle N, masc
+bander	S2	muscle I.1a
+quantité 1	Extension	quantité 2
+coût de revient	Gener	coût
+maquiller I	S1	maquilleuse
+Cour II	Syn	tribunal
+gênant	Syn	inconfortable
+crime I.a	Magn	énorme II
+marche 1 I.1a	Métonymie	marche 1 I.3a
+waters b	Syn	cagoinces b
+en course I	Syn	en lice
+motocyclisme	Syn	moto II
+petite nature	Syn	faible N I
+claquer II	Syn	dissiper II
+parasol	Syn	parapluie I
+revenir V.1	Conv-ij	obtenir I
+renard I	Métaphore	renard III
+se heurter I	Syn	se cogner
+cabinet d’aisances a	Syn	commodités II.2a
+soupçonner	Able2	suspect Adj
+hôte N, masc 1	Conv-ij	hôte N, masc 2a
+trotter 2	Syn	trottiner 2
+nichée	Syn	couvée 2
+aboutir I	Métaphore	aboutir II.1
+comparable	Syn	assimilable
+noisetier	S1	noisette I
+flotte I.1	S1	bateau N 1 I
+déprimé	Syn	cafardeux I
+pompier N, fém	Fact3	sauver I
+s’abandonner	Syn	se laisser aller
+contact II.1	Métonymie	contact II.2
+déjeuner N I	Syn	repas I.1a
+vin I.1	Real1	déguster I
+haute couture	Syn	prêt-à-porter
+hold-up I	S1	bandit I
+mère 1 I.1a	Contr	père I.1a
+gonfler I.1	Extension	gonfler I.2
+prévenir I.1	Extension	prévenir I.2
+s’acharner I	Syn	maltraiter
+excentricité 2 I.1b	Syn	valeur II.1
+en herbe I	Anti	mûr I
+inscription III	V0	inscrire II
+poivre	Contr	sel
+déplier II	Syn	tendre V I.2
+siège I.1	Syn	chaise I
+expédier II	A0	expéditif I
+casque 1	Syn	bombe III
+appartenir I	S0	appartenance I
+chat 1 I.a	Syn	chatte I
+étourderie	S1	étourdi N
+mois b	Syn	février
+citoyenne	Syn	citoyen N
+gorge II	Magn	plantureux II
+boire V I.2b	Métaphore	boire V II
+séductrice	Syn	enjôleuse
+expert 2	Syn	expert 1
+table II.1a	Magn	gourmand Adj II
+curieux Adj II	Syn	bizarre
+orphelin N I.a	Syn	abandonné N, masc I
+dernier carré II	Syn	carré final
+coursier	Syn	coursière
+manger V V.2a	Métonymie	manger V V.2b
+cheval I.1a	Sing	crinière I
+bureau II.2a	Syn	travail 1 I.2
+métro I	Real1	prendre III.1b
+ouvrier Adj	S0	ouvrière
+préfecture II	Syn	sous-préfecture II
+menotté	Syn	ligoté I
+tourmenter II	Syn	perturber 2
+nage I.2	Syn	crawl
+cuisiner II	Syn	interroger
+boulangère 1	Fact2	pétrir
+casser la graine	Syn	se sustenter
+sale Adj I.1	Métaphore	sale Adj V.2
+bungalow	Gener	habitation II
+tailler 1 I.1	S1	tailleuse
+film II	Real3	jouer V.2
+pots cassés	Real1	passer à la casserole II
+chimie I.1	S1	chimiste N, fém
+journaliste N, masc	Mult	équipe 1
+rassemblement 1	Extension	rassemblement 2
+sensible IV.1	Extension	sensible IV.2
+championne	Syn	champion
+nager I.c	Smed	crawl
+rempli I	Anti	vide Adj I
+toilettes III.1a	Syn	wawas a
+mémoriser	Syn	apprendre I.3a
+vinaigre	Func0	vinaigrier
+lacet	A1	lacé
+graveur	Syn	graveuse
+laver I.3	Syn	baigner I.1
+compter I.2	S0	compte I
+rouge II.1	Syn	écarlate II.1
+thorax a	Loc	endothoracique
+savant Adj I.2	V0	savoir V 2
+caveau	Syn	tombeau
+mutisme b	Syn	silence N II.1
+moyennant	Syn	pour Prép IV.2
+habits I.1b	Real1	porter IV
+enquêteur 1	Syn	enquêteuse
+opérer 2	S1	chirurgienne
+fidèle Adj II	Adv0	fidèlement
+sens dessus dessous I.2	Syn	désordonné
+becter	Syn	tortorer
+ministre N, masc I	Mult	gouvernement
+passer I.1a	Causation	passer IV.1
+islamique	Syn	musulman Adj 1
+printemps	Gener	saison
+détacher 2	Anti	tacher 1
+portefeuille-titres	Syn	compte de titres
+assis I.1b	Pred	remettre I.1
+moche Adj	Syn	laid Adj
+rénover	Syn	retaper III
+quelque peu	Syn	pas mal I.1
+alarme I	Extension	alarme III
+enflammé I	Syn	incandescent
+vécés a	Syn	cabinet d’aisances a
+appareil téléphonique	Syn	bigophone
+champ 1 I.2	Métonymie	champ 1 I.3
+tambour II	Syn	tambour-major 1
+tombant	Pred	tomber V III.1
+chatte I	S1	maître N I.3
+crépuscule II	Anti	aube 1 II
+collègue N, fém	Syn	collègue N, masc
+d’amour II	Syn	adoré
+spirituel	Anti	matériel Adj 1
+verbal II	S0	verbe
+géniteur	Syn	père I.1a
+clamser	Syn	passer l’arme à gauche
+coup de bélier II	Syn	coup de boutoir I
+Mexique	S1	Mexique
+défait I	Codérivation	défait II
+accentuation I.1	V0	accentuer I.1
+fantôme	Syn	esprit III
+proche Adj I	Métaphore	proche Adj III.1b
+s’emparer I.1	Extension	s’emparer I.2a
+États-unienne	A1	États-unien N
+finir III.2	Métaphore	finir IV.2
+garantie 1	Syn	sûreté II.a
+véhicule I.b	S2	chargement II
+bassement	A0	bas Adj III.2
+instrument 1	Syn	outil I
+accaparer I	Métaphore	accaparer II.1
+colline I	Real@	monter I.1a
+ceinture I.1	Métaphore	ceinture II
+ton N I	Métaphore	ton N II
+Suédoise	A1	suédois Adj II
+chenapan	Syn	crapule 2
+complet-veston	Syn	trois-pièces I
+sale Adj V.1	Syn	dégueulasse VI.1
+dont 1	Extension	dont 2
+réactivité I.1d	Epit	chimique II.1
+taille 2 I.2a	Syn	taille 2 I.2b
+enfler I.1	Extension	enfler I.2
+bien Adv 1	Magn	merveilleusement
+bateau N 1 I	Syn	chalutier
+bourlingueur	Syn	bourlingueuse
+explorer	S1	explorateur
+chacun	Syn	chaque
+mauvais Adj II	Anti	bon Adj II.2
+crade V.2	Syn	craspec V.1
+tutelle	A0	tutélaire
+radio 1 II	Syn	poste de radio
+corps I.1b	Fact1	obéir II.2
+orage II	Syn	ouragan II.1
+apaiser 3	S0	apaisement 2
+faire vite	Syn	se dépêcher I
+tempête I.2	Fact2	s’abattre I
+vorace	S0	voracité
+arriver I.1	Métaphore	arriver V.1
+disparaître III	Syn	s’éteindre II
+ressembler I.2a	AntiMagn	en rien
+calme N II	Anti	vent I.1
+culture I.1a	S3	sol 1 I.1
+lac I	Métaphore	lac III
+cornichon N I	Syn	concombre b
+médecine	S1	médecin N, fém
+potin	Syn	clabaudage
+carte bleue	Syn	carte de crédit
+grille-pain	Gener	appareil électroménager
+casser la graine	Syn	se nourrir 1
+tube II.b	Gener	contenu N I
+vent I.1	AntiMagn	calme Adj I
+opulence	Syn	richesse I
+atome I.2	Gener	particule 2
+canapé I	Sing	dossier
+émetteur Adj II	S1	antenne II.1
+son N 1	A1	sonore 1b
+réacteur I.1	Codérivation	réacteur I.2
+bijou I	Func0	joaillier
+revenir à la charge	Syn	repéter I
+matraquage I	V0	matraquer
+dame	Contr	monsieur 1
+pays I.2c	Syn	payse I
+appartement 1	Loc	à l’intérieur 1
+baragouinage II	V0	baragouiner II
+mirabilis	Gener	plante 1
+lieux d’aisances a	Syn	cagoinces b
+sale Adj II.1	Syn	cradingue II
+vapoter	Syn	fumer III.a
+déplier II	S1	membre N I.a
+héroïne 1	Syn	héros 1
+félins N	Syn	fauves N
+malheureux Adj II	Syn	malencontreux
+grosse tête 2	Syn	tête I.5b
+stimuler	Syn	exciter I.2
+délinquant N	Syn	délinquante
+passeport	S1	titulaire N, masc II
+crado III	Syn	cracra III
+plateau VI	S2	fusil 1 I
+manteau I.a	AntiBon	usé
+marcher à l’eau claire	Anti	boire V I.2b
+picrate	Gener	boisson I
+température I	Extension	température II
+enflammer II	A2	enflammé II
+y 1	Extension	y 2
+gagner II.1	Extension	gagner II.2
+jeter V.1	Métaphore	jeter V.2
+passé Adj I.2a	Anti	prochain Adj II.1
+avec I.3a	Syn	de V.1
+victime N III	Syn	bouc émissaire
+extinction des feux III	Sloc	soir
+placard 1 I	Loc	à l’intérieur 1
+pupitre	Gener	meuble N I.1a
+caprice	Adv1	par II.1
+cheveux I.2a	Real@	coiffure II.2
+visible	Syn	en vue I
+indiscutable	Anti	discutable
+endormir b	Anti	réveiller b
+appartement 1	S1	occupant N I
+cravate III	V0	cravater II
+moto I	Son	ronfler III
+ressemblance 1	AntiMagn	lointain Adj III
+compter IV.1	Extension	compter IV.2
+barbiche 1	Magn	barbe I.1
+affaiblissement	V0	s’affaiblir
+barre 1	Extension	barre 2
+zapper II.1	Extension	zapper II.2
+laver VI	Syn	blanchir III
+reposer 2 II	Syn	dormir III
+précision	Syn	justesse I.1
+élémentaire II.2	Syn	fondamental
+occuper IV	S1	occupation III
+couvercle 1	Extension	couvercle 2
+propre Adj 1 I.2	Syn	hygiénique 2
+transférer I	S2	prisonnière
+condamner	S3	punition II
+table II.1b	Syn	adresse 1 II
+s’éteindre III	Syn	perdre la vie
+grossir II	Syn	augmenter II
+crime I.a	A0	criminel Adj I.1
+repas II.a	Real1	assiette 1 I.a
+boudoir II	Contr	champagne II.a
+chanteur	Syn	voix I.2b
+aller voir ailleurs I	Extension	aller voir ailleurs II
+garder V.1	Extension	garder V.2
+xénophobie	Syn	racisme
+cacher I	Métaphore	cacher II
+achat I	V0	acheter
+cravate I.1	Ver	ajuster I
+excentricité 1 I.2	Syn	bizarrerie 2
+corps I.3b	Métaphore	corps II.1a
+violet b	Syn	mauve b
+déchirer II.2	A2	déchiré II
+caveau	Syn	tombe
+carafe II	Syn	tête I.1a
+crapaud III	Syn	piano crapaud
+enseignant N	Syn	enseignante
+cochon N III	Syn	pervers
+y avoir	Syn	exister I.1
+mouillé	Syn	trempé
+poursuivre I.1	Métaphore	poursuivre III
+apprenant	Syn	apprenante
+esprit III	Syn	fantôme
+casse-dalle	Syn	casse-croûte 2
+plantigrades N	A1	plantigrade Adj
+casque 1	Extension	casque 2
+montrer I.1	Métonymie	montrer II
+quéquette	Syn	manche N, masc II
+salle de réunion	Gener	pièce III.a
+nager I.b	S2	nage I.2
+inspirer I	A0	inspiratoire
+entrer I.1	Métaphore	entrer III
+tomber V III.2	Syn	enlever I.2
+commencer III.1	Syn	inaugurer
+étable	Syn	bouverie
+ignorance	Anti	connaissance I
+rouge I.1a	Syn	garance II
+suspense II	S1	enquête I
+arriver V.2a	Syn	advenir a
+cuisiner II	S0	interrogatoire
+lieux d’aisances a	Syn	wawas b
+ombre I.1	Syn	obscurité
+clamser	Syn	casser sa pipe
+sensibilité I	Métaphore	sensibilité II.1
+élève N, masc	AntiBon	cancre N, masc
+européen Adj I.2	S1	Européenne
+fiduciaire Adj II	S0	fiducie
+au torchon	S1	jambon
+fauteuil I	Real1	prendre place
+forme III.1	AntiBon	mauvais Adj I.1a
+julienne	Gener	plante 1
+ennemi N II	Anti	défenseur II.1
+orage I	Minus	s’apaiser
+orphelin Adj I.1a	S1	orphelin N I.a
+se coucher III.1b	Conv-ij	coucher V IV.3
+volaille 1	Syn	basse cour
+fil I.1	Syn	brin I
+faire un malheur I	Syn	casser la baraque II
+tétons 1a	Mult	poitrine 1a
+cabinet I.1	Métaphore	cabinet II.a
+accentuation I.2	V0	accentuer I.2
+s’engager II.1	S1	engagé N 1
+stationner 2	S0	stationnement
+lécher II	Syn	manger V I.4b
+orage II	Liqu	éloigner I
+faire braire	Syn	emmerder
+pot pourri I.1a	Syn	pot 1 I.1a
+penthouse	Syn	appartement 1
+se crêper le chignon	Syn	en venir aux mains
+imagination 2	S1	imaginatif N
+postérieur N	Syn	fesses I.a
+humain N	Syn	homme 1a
+Germanique N, masc II	Syn	Allemand N I
+problème II.2	Syn	question II
+boire V I.2a	Syn	enivrer
+tolérable	Syn	admissible Adj I
+Bulletin officiel des finances publiques	Syn	BOFiP
+drapeau	Syn	bannière
+original N II	Syn	extraterrestre N, masc II
+appel II	Syn	sollicitation
+stop I	Métonymie	stop II.1
+accompagnement III	S1	accompagnatrice II
+tempête I.1	Func0	s’élever IV
+cheveux I.2a	Func0	tomber V I.3a
+suspense I.2	S1	auteur II.a
+dégueu I.1	Syn	crade I.1
+tinette a	Syn	goguenots a
+correct 1	Syn	grammatical b
+percevoir II	Syn	sentir II
+allumette II.1	Gener	biscuit 1 2
+tirer la couverture à soi	Syn	profiter 3
+phobie 1	Syn	-phobie 1
+averse II.1	Métaphore	averse II.2
+canapé I	Real1	vautré
+trois-pièces III	Gener	logement
+tartisses a	Syn	lieux d’aisances b
+abeille I.a	Fact0	rayon II.2
+toubib N, masc	S2	patient N I
+indiquer I.1	Syn	renseigner 1
+relever 1 II.2	Syn	noter II
+ragot	Syn	bavard
+longueur IV.1	Syn	durée
+combattre I.1	S1	combattant N I
+plage V.2	Loc	durant 1
+téter	S2	mère 1 I.1a
+casser sa pipe	Syn	décéder
+lit I.1b	Oper1	tirer III.1a
+céder I.2	S0	cession
+arrêter I	Syn	immobiliser
+labourer	S1	laboureur
+lac III	Loc	dans I.4
+récent 2	Adv0	récemment
+absorbant	Syn	hydrophile
+coup I.1a	Métaphore	coup VII.1
+arrêter V.1a	Syn	cesser 2a
+grossier II	Syn	impoli
+point N III.1a	Métonymie	point N IV.2
+se creuser	Syn	se dessiner 1
+magnum I	Syn	bouteille 1a
+fèces	Syn	matière fécale
+stérile II	Métaphore	stérile III
+coudre 2	Sinstr	machine à coudre
+fente	Syn	trou I
+typhon	Syn	tornade I
+rouge II.1	Syn	pourpre II.1
+condamner	S4	délit
+tiers état	Syn	bourgeoisie
+beau Adj IV	Syn	bon Adj II.2
+rugby 1	Sloc	terrain II
+toilette II.2	AntiMagn	brin II
+corps composé	Syn	composé N 2
+boulimie I	S1	boulimique N a
+enquiquiner	Syn	embêter
+assommer I	Métaphore	assommer IV
+bataille I.1	Mult	guerre I
+succession II	Syn	train 1 V.1
+flou Adj I	Métaphore	flou Adj II
+coup de grâce II.b	Syn	malheur II
+frapper I	Syn	cogner IV.1
+se refaire I	Syn	récupérer II
+Web	Syn	Net N
+renoncement	V0	renoncer 2
+satané	Syn	sale Adj V.3b
+caboche I	Syn	boule II
+à peu près	Syn	environ
+attentif II	Syn	sensible IV.1
+sans I.2	Anti	accompagné
+concert I	S1	musicien N
+cheval I.1b	Real1	chevaucher
+illusoire	Syn	irréel
+éduquer a	A3	éducatif
+délaissé	Syn	abandonné Adj 2
+étouffer II.1b	Caus	étouffer II.1a
+aboiement I	S1	chienne I
+table I.1b	Fact0	débarrasser I
+brossage II.1	V0	brosser 2 II.2
+dix mille 1a	Extension	dix mille 1b
+s’appauvrir	A1	pauvre Adj I
+oublier I.1	S0	oubli I.1
+excité	Syn	frénétique 1
+fins N II	Syn	but I
+rareté II.1	Métonymie	rareté II.2
+triable	Syn	ordonnable
+robe I.1	Magn	traîne
+ter	Syn	quater
+côte 3	Syn	pente
+vêto N, masc	Syn	véto N, fém
+magnum II.2	Syn	balle II
+jardin	S1	jardinière
+obstacle I.a	Spécialisation	obstacle I.b
+douche I	Func1	donner II.2
+radio 2	Syn	radiographie
+savamment I	Codérivation	savamment II
+fond III.1a	Real@	sonder I
+viorne	Fact0	fleurir I
+interpréter II	Syn	traduire I
+dents 1 II.2a	Syn	pointe I.1
+matière I.1a	Syn	matériau
+raccrocher 1	S0	raccrochage
+diviser	Syn	casser II.3
+expédier I	S3	destinataire N, fém
+voyoute 1	Syn	voyou N 1
+envoyer I.2	Syn	poster V 1
+monarchiste N, fém	Syn	royaliste N, fém
+intime Adj II.1	Métonymie	intime Adj II.2
+ourse	Gener	animal N I.1a
+incertain	Anti	certain 1 2
+tête I.1a	Loc	à I.2
+fond I	Métaphore	fond VII
+se bouffer V	Syn	bouffer 1 VI.3
+couché II	Anti	debout II
+gros Adj III.1	Métaphore	gros Adj VI
+traiter I.2	S1	dentiste b
+désinstaller	Anti	installer II.2
+neuf-pièces	Syn	T9
+dans un mouchoir de poche II	Syn	juste Adv II.2
+murmurer II	S1	rivière I
+s’allonger 1 I.3	Syn	grossir II
+mouvement 1	Extension	mouvement 2
+indigène N, masc	Syn	aborigène N, masc a
+lapin 1 I.a	Sloc	terrier I
+doigt IV.1	Extension	doigt IV.2
+aboutir IV	Syn	obtenir III.2
+bas N II	Syn	sous-vêtement
+enfant Adj	S1	enfant N, fém I.2
+moto I	Real1	rouler 1 VI.2a
+homosexuel N	A1	homosexuel Adj 2
+testament I	Métaphore	testament II
+funérailles	Gener	cérémonie
+poignée I.1	Intersection	poignée II
+observer II	Syn	constater
+élévation II.1	V0	s’élever II
+alliée	Syn	allié N b
+navet II	Syn	film II
+frangine	Contr	frangin
+dominer VII	Syn	couvrir IV
+récent 2	Syn	dernier Adj II.1
+émigration I.1	V0	émigrer
+étreindre II	Syn	saisir III
+désappointement	Syn	déception
+mésange nonnette	Syn	mésange
+se laver I	Métaphore	se laver II
+corps céleste	Syn	objet I.2
+médecin N, masc	Gener	métier
+bateau N 1 I	Syn	radeau
+voler 1 V	S0	volée 1 III.2
+mariage I.1	S1	mariée
+pourri Adj	Syn	gâté 1
+s’embellir	Anti	enlaidir I.2
+inhabituel	Syn	curieux Adj II
+hier 1	Magn	avant-hier
+placard 1 III	Oper1	faire II.1
+livre 1 2	Syn	librairie 2
+ami N I.1	Syn	amie I.1
+crime II	Syn	délinquance
+ralentir I.1	Extension	ralentir I.2
+averse II.1	Minus	s’apaiser
+achèvement 1	V0	achever II
+goulot	S1	bouteille 1a
+revêtement I.1	Extension	revêtement I.3
+long Adj III.2a	Plus	allonger 1 II.2b
+chatouiller I.1	Syn	démanger
+drakkar	Syn	vaisseau II
+fond IV.2	Syn	bas N I
+course 1 II.2	Syn	voyage a
+gosse N, masc 2	Syn	marmot 2
+chaise I	Real1	se laisser choir
+à cheval I.a	Métaphore	à cheval II
+pur jus I	Métaphore	pur jus II
+se sustenter	Syn	manger V I.1a
+arnaquer	Syn	plumer
+ramper I.b	S0	rampement b
+broiement	V0	broyer
+savon 1 a	Real1	distributeur II.1
+informer 1	Extension	informer 2
+forêt I	AntiMagn	clairsemé
+invité	Syn	invitée
+poudre II	S1	tireur
+d’élite	Syn	meilleur Adj II
+couleur II.2a	Real1	appliquer I
+contradictoire I	Métonymie	contradictoire II
+analogie a	Anti	opposition II
+étudier I.1	Métaphore	étudier III
+poursuivre II	Syn	continuer 2b
+chèvre II	Gener	fromage
+enseignant-chercheur	Syn	chercheur II
+flot II	Syn	écoulement I
+table II.1b	S1	cuisinier
+menottes 1 I	A2	menotté
+commercial	Adv0	commercialement
+aimant I.1	Métonymie	aimant I.2
+éclaircissement II	V0	éclaircir II
+beauté II.1	Métonymie	beauté II.2
+ronflements I	Métaphore	ronflement II
+enfant N, fém I.1	Métaphore	enfant N, fém II
+se faire péter la panse	Syn	manger V I.1a
+chien I.a	AntiBon	hargneux
+patient N I	S2	docteure 2
+corps I.3a	Contr	tête I.1a
+rivière I	Métaphore	rivière III.2
+maladie I.1b	Func1	engendrer
+patte d’éléphant II	Gener	pantalon
+bosse I.3	S1	bossu N
+Grande-Bretagne	S1	Britannique N, fém
+bouffer 1 I.1a	Métaphore	bouffer 1 IV.3
+roi I	Syn	souverain N
+vent II	Oper1	lâcher II.2
+orage II	Fact1	s’abattre I
+bicross 2	Oper1	pratiquer I
+baser	Syn	asseoir III
+énergie I.2	Métaphore	énergie II
+point de vue II.1	Syn	angle III
+tranché I	Pred	trancher
+W.-C. b	Syn	toilettes III.1b
+beaucoup I.1	Syn	bien Adv 3
+rond Adj I	S0	rond N
+léthargie 2	Syn	torpeur
+bouchon 1 III	Magn	gros Adj VI
+coup VII.1	Syn	verre II.2
+en aucune manière	Syn	nullement
+plein Adj I.1	Métaphore	plein Adj V
+foncièrement	Syn	complètement II
+cerveau II.2	Syn	chef N, masc I.1
+élémentaire I.2	S1	corps pur simple
+siège épiscopal I	Gener	pièce d’ameublement
+sismique	S0	séisme
+silence N I.2	A1	silencieux
+W.-C. a	Fact0	panne
+mémère II	Contr	pépère II
+paupière II	Real@	ouvrir I.1
+nul Adj 1 II	S0	nullité
+apôtre I	A0	apostolique 1
+logiciel Adj	S0	logiciel N
+séduisant I	Syn	sexy
+sauter II.3	Syn	tirer un coup
+gaz I.1a	Contr	solide N
+batellerie I	A0	batelier Adj
+statue	S1	sculpteur
+sommeil III	Oper1	tuer I
+progression I.2	V0	progresser I.2
+métro II.1	Real1	descendre IV
+branche I	Métaphore	branche II.2
+galop II	Gener	évènement sportif
+se geler les fesses	Syn	cailler II
+baisser III	Syn	diminuer III.2
+machiniste N, masc 1	Syn	machiniste N, fém 1
+bouffer 1 V.2	Syn	cacher II
+tergiversation	V0	tergiverser
+froussarde	Syn	froussard N
+vagissement	S1	crocodile I
+ivre I.1	S1	ivrogne N, masc
+sauveur N	V0	sauver II
+vécés b	Syn	gogues b
+représentant	Syn	représentante
+étouffer II.1a	Syn	gêner
+maintenant I.1	Métaphore	maintenant II
+étourdi Adj I	S0	étourderie
+laver la tête	Syn	voler dans les plumes
+tartine II.1	Extension	tartine II.2
+bœuf 1 I.1a	Extension	bœuf 1 I.2
+assombrir I	Syn	obscurcir I
+décédé	Syn	mort Adj I
+terrier I	Sloc	terre II.2
+habitude 1	S1	habitué N 1
+bulle I.2	Syn	cloque 2
+pencher II	Syn	incliner 1
+guérison 1	V0	guérir 1
+lavande I	Gener	fleur I.2
+impartial	Syn	objectif Adj
+élire	Able2	éligible
+brossé I	Codérivation	brossé III
+désordre I	Syn	pagaille I
+pousser IV.1	Syn	inviter II.b
+grenat II.b	Syn	rouge I.1a
+prochain Adj III	Syn	futur Adj II
+fou Adj I	Métaphore	fou Adj II.1
+lessive III	Syn	linge I.a
+manteau I.a	Métaphore	manteau V.2
+accéder II.2	Syn	atteindre V.1
+cabinet d’aisances a	Syn	toilettes III.1a
+visite II	Syn	invitée
+second	Syn	deuxième Adj
+location 1a	V0	louer 1 I.2
+calme N I.1	Métaphore	calme N II
+âne I	Son	hi-han
+amuser I	Extension	amuser II
+toast I	Syn	discours 2
+avion I	Loc	à bord II
+louange	Syn	compliment a
+acheteuse	Fact2	acheter
+miel 1 I	Syn	gelée royale
+poulette	Gener	oiseau a
+s’expliquer II	Conv-ij	expliquer II.1
+manteau I.a	Real1	revêtir I
+s’étendre II	Syn	s’étaler
+différence 1	Anti	analogie b
+s’accumuler	Syn	s’entasser I
+doux III.1	Métaphore	doux IV
+champagne II.a	Real1	flûte N II.a
+faussaire N, masc	Syn	faussaire N, fém
+navigation IV	S2	Internet
+promesse	V0	promettre
+averse I	Magn	bon Adj II.2
+crescendo I.1	Syn	intensément 1
+tante I	A0	avunculaire
+arriver V.2a	AntiBon	retomber sur la figure
+remiser II	Syn	arrêter V.2a
+cervical	Sloc	cou I.1a
+coiffer I	S3	chapeau I
+lire V 2	Magn	éplucher II
+bidon N a	Gener	contenant
+ton N II	Syn	couleur I.1a
+orphelin N I.b	S2	père I.1b
+ferme N	S1	fermière
+drame II	S1	dramaturge N, masc
+unité IV	Syn	unité de mesure
+santé N I.a	Syn	état 1 I.1
+analogie b	Magn	singulier Adj I
+pancarte	Syn	écriteau
+épluché	S1	légume I.1a
+chiottes I.b	Syn	tartisses b
+paume II	S1	moufles
+tombeau	S1	cadavre I.a
+frigidaire	Gener	appareil électroménager
+influent	Syn	puissant Adj I
+caisse II.1	Métonymie	caisse II.2
+baguettes I.2a	S1	Chinois N I
+feu II.1	Syn	flamme I.1
+eau II	Syn	essence III.1
+agression	V0	agresser
+traiter I.2	S1	vétérinaire N, masc
+imposable	Syn	taxé
+britannique Adj I	Codérivation	britannique Adj II
+s’amaigrir	Syn	maigrir
+élire	S1	électeur
+lune III	Syn	derche
+course contre la montre I	Métaphore	course contre la montre II
+compétent	Syn	capable
+assise I	S2	siège I.1
+dé à coudre II.a	Syn	verre II.1a
+sculpteure	Syn	sculpteur
+offrir I	Syn	donner I.2
+déséquilibre I	Métaphore	déséquilibre II
+train 1 V.2	Plus	s’accélérer
+s’engager III.2a	Syn	rejoindre II
+neveu	Contr	nièce
+au courant	Syn	dans le coup 1
+armoire 1	Real1	remplir I.1
+saisir III	Syn	étreindre II
+journaliste N, fém	Mult	meute 2
+éloge 1	V0	louer 2
+cuisson II	V0	cuire II
+leçon I.1a	S1	enseignante
+vexer 2	Syn	blesser II.2
+repousser 2	Syn	pousser VII.1
+coincer	Anti	décoincer
+gâcher I	Syn	gaspiller I
+accumulation	V0	accumuler I
+formulaire	Syn	imprimé N
+soixante-huitarde	Syn	soixante-huitard N
+tabouret 1	Real1	s’asseoir I.a
+revaloir	Syn	renvoyer l’ascenseur
+retirer I.1	Syn	tomber V III.2
+destructeur Adj	Syn	dévastateur 2
+voyou N 1	Fact0	complice N, masc
+à toute vitesse	Syn	vite 1
+badinage	Syn	bavard
+se dérouler II	Syn	progresser II.2
+ordinateur	Syn	bécane II
+orphelin Adj I.2	S0	orphelin N I.a
+observateur N	Syn	observatrice
+tentateur Adj	S1	tentatrice
+corps I.1a	Magn	musclé
+cradingue II	Syn	crasseux II
+allonger 1 II.1	Syn	rallonger IV
+loin I	Syn	quelque part I.1
+tailleuse	Syn	tailleur I
+fret I	Métonymie	fret II
+empreintes I.1b	S1	pas N I
+pièce II.1c	Syn	morceau I.1c
+se permettre	Syn	pousser V.1
+bonnet I	AntiMagn	petit Adj I.1
+pitoyable	Syn	misérable Adj
+explicitement	A0	explicite
+cul I.1	Métonymie	cul II
+se nourrir 1	Syn	tortorer
+toilette III.3	Real1	se vêtir
+vacancier	Syn	estivant
+couple N, masc II	Func0	tenir VI.1b
+boche Adj I	S0	Allemagne
+volley de plage 1	Métonymie	volley de plage 2
+dissiper I	Syn	chasser III
+arriver II.1	Syn	s’arrêter IV.2
+réactif N 1	Contr	produit VI
+lac II.1b	S1	lymphe
+consommer I	Syn	boire V I.1
+ski à roulettes I	Syn	skis I.a
+tampon II	Syn	cachet I
+licencié Adj	S1	salarié N
+tabac 1 I.1	S1	planteur
+angliche N, masc II	Gener	langue II.b
+sommet III	S1	triangle I.1a
+muscle I.2	Syn	steak
+biclou	Syn	vélocipède
+averse II.1	Oper2	essuyer II
+cradingue I.1	Métaphore	cradingue IV.1
+ennemi N II	Anti	ami N II
+naine II	Anti	géante
+de bain	S1	maillot I.2
+congratuler	Syn	féliciter
+insecte II	Syn	vermine II
+se laver I	Sinstr	baignoire
+jardin	A0	jardinier Adj
+idée I	Syn	notion
+nez I.a	Syn	blair
+rhumatisante	Syn	rhumatisant N
+folie II.2	Mult	quatre cents coups
+habit I.1a	Syn	costume I.1a
+caresser IV	Syn	nourrir II
+à partir	Syn	dès
+singulier Adj II	Syn	curieux Adj II
+presse I.2	Syn	imprimante
+petit pain aux raisins	Gener	viennoiserie
+honneurs de la presse	Syn	attention I.1
+abricot III	Syn	sexe II.1
+bavarde	Syn	bavard N
+crado VI.2	Syn	cradingue VII
+Australie 2	S1	Australienne
+séparément	Syn	indépendamment
+ennemi N IV	A1	mauvais Adj I.2
+cri I.1a	Oper1	lancer V V.1
+voie rapide	Syn	autoroute I
+sérieux Adj I	S0	sérieux N
+bois II	Métonymie	bois III
+proverbe	A0	proverbial
+filaire N	Contr	mobile N 2 II
+tasse I.b	Métaphore	tasse II
+pan 1	Extension	pan 2
+pousser I.1a	Extension	pousser I.2
+mouche I	Gener	insectes I.b
+mémé I	Syn	bonne-maman
+chien de chasse	S2	chasse
+maladie I.1a	Syn	vache folle
+étang	Bon	poissonneux
+rendre II.2	Syn	faire II.1
+chaise à bascule	Syn	chaise berçante
+articulation 2 I	Ver	net Adj III.2
+patère II	Syn	portemanteau
+appartement 1	S1	habitant 2
+creux N	Syn	dépression I.b
+plier II	Anti	déplier II
+robe de chambre	Real1	mettre I.1a
+remplir IV.a	Syn	satisfaire II
+pervenche I	Gener	plante 1
+arraché	Syn	bourré III
+tempête II.2	Anti	calme N II
+expliquer II.1	Conv-ij	s’expliquer II
+apprendre I.2b	S2	discipline I
+pluie II.1a	AntiBon	dévastateur 2
+nombre I.1	Syn	quantité 1
+nettoyer I.1a	Extension	nettoyer I.3
+bicyclette I	Real1	descendre IV
+gorge I.2	Métaphore	gorge III.1
+famille II	Real2	diriger III.1
+s’entêter	Syn	s’obstiner I
+prochain Adj II.2a	Syn	immédiat Adj
+couleurs I.3	Oper1	prendre V
+sans-emploi a	Spécialisation	sans-emploi b
+décharger I.2	S0	déchargement
+assassin N, fém	Syn	assassin N, masc
+frissonner I	Métaphore	frissonner II.2
+appartement 1	Real1	s’installer I
+seins I.2b	Real2	saisir I
+tremper I	Extension	tremper II.1
+train 1 IV	Syn	flux I
+handicapé Adj	S1	handicapée
+télévision II	Syn	téléviseur
+disposition IV.2	Syn	état d’esprit
+impitoyable	Syn	sévère I.1
+énerver a	Syn	faire braire
+foufoune	Syn	zézette
+siège I.1	Real1	prendre I.1
+voiture 2a	Fact0	avancer I.1
+encouragement 1	Syn	appui III.1
+loup I	Mult	horde 2
+chasseuse	Fact2	chasser I
+bilan I.4	Epit	orthophonique
+poitrine 2	S2	volaille 2
+sprinter N	Gener	athlète N, masc
+course 1 III.a	Syn	10 000 mètres
+auteure II.a	Codérivation	auteure II.b
+abbaye I	Cap	abbé 2
+cabinets I.2a	Syn	wawas b
+savoir V 1	Extension	savoir V 2
+interpréter III.a	S1	interprète N, fém II
+beau temps I	Anti	tempête I.2
+encourager II	Syn	soutenir II
+se barber	Syn	se faire chier
+drogue I	Syn	substance I.2
+mère 1 III.2	Contr	père III.2
+s’inquiéter	S0	inquiétude
+sport N I	Métaphore	sport N II
+espace N, masc I.2a	AntiMagn	mouchoir de poche II
+satisfaire I.1	Syn	convenir I
+pleurer	S1	pleureur N
+corps IV.1b	Syn	unité II
+mariage I.2	S1	femme II
+amant	Syn	amante
+aquatique	Contr	terrestre II.2a
+imprimeuse	Syn	imprimeur
+veste 1	Real1	avoir V I.2
+timidement	A0	timide Adj I.1a
+volley-ball 2	S1	joueuse 2
+personnel Adj 1	Syn	perso
+bachelière	Syn	bachelier
+cogner I.3	Syn	se battre 1
+habituel	Adv0	habituellement
+recharge II	Syn	cartouche II
+inférieur II.1	Extension	inférieur II.2
+semblable Adj II	Adv0	semblablement a
+mouvement 2	V0	bouger I.2b
+à zéro	Syn	dans les chaussettes
+véhicule flottant	Syn	bateau N 1 I
+porte-documents	Syn	attaché-case
+bouffer 1 VI.1	Syn	avaler IV
+prendre ses appartements II	Syn	avoir lieu
+avion I	Sing	queue I.3b
+singulier Adj II	Syn	excentrique Adj II.1
+siffler III	Syn	boire V I.1
+réaction II.3	V0	réagir II.3
+personnel N b	Liqu	congédier
+bougonner	Syn	grommeler
+fidèle Adj I.a	S0	fidélité
+anxieux Adj 1	Extension	anxieux Adj 2
+pubis	Syn	mont de Vénus
+habitation I	S1	habitant 1
+personnel N b	Real2	employer II
+train 1 I	Real1	resquiller
+tripoter II	Syn	toucher V I.1
+timbre 1 I.1	Métaphore	timbre 1 II
+chèque vacances	Syn	chèque transport
+marié Adj	Anti	célibataire Adj
+continent I.2	Loc	sur I.1
+léger IV	Syn	petit Adj III.2
+curiosité I.1	S1	curieuse
+bodybuilder	Syn	bodybuildeuse
+banc 2 I	S1	nuage I
+mou III.1	Anti	volontaire Adj 2
+baroudeur	Syn	aventurier N
+modifiable	Syn	éducable II
+exprès Adj I	Syn	explicite
+photo N I	A0	photographique
+imprimé N	Real1	compléter
+cyclotouriste N, fém	Syn	cyclotouriste N, masc
+donner III.1	Syn	passer IV.1
+ennemi N I	Oper2	avoir V II
+guêpe	Mult	colonie III
+Un [X] peut en cacher un autre. I	Syn	signalisation
+se produire I	Syn	se réaliser
+hypocrisie	Adv1	avec I.3a
+relevé	Anti	rabattu
+faire son miel	Syn	profiter 1
+ennemie I	Syn	ennemi N I
+col I.1	Syn	encolure II.2
+avocat 1 I	Sloc	cabinet II.a
+vingtaine 2	Real1	avoir V II
+Noël 1	A0	de Noël
+bosquet	Syn	bouquet I.1
+langage écrit	Anti	langage oral
+en fleurs b	Syn	fleuri I.b
+bruyère I	Métonymie	bruyère II
+bicyclette II	Oper1	pratiquer I
+têtu Adj I.a	Anti	accommodant
+crime I.a	Real@	venger I
+prince charmant I	Syn	personnage I
+dent 1 I.b	Contr	griffes I.1a
+zob	Syn	zigounette
+dominer I	Métaphore	dominer VI
+mois b	Syn	mars 1
+narines 1	Fact0	ouvert I
+se lever I.a	Contr	se coucher I.1a
+dire V I.b	Syn	repéter I
+bureau I	Gener	pièce d’ameublement
+aliter 2	Syn	clouer au lit
+jupe I	AntiMagn	jupette
+jour II.2	AntiBon	sans I.3b
+blesser II.1	Magn	profondément II
+visite médicale	Oper1	subir 1
+crado III	Syn	sale Adj III
+attitude II.1	Oper1	conserver IV
+manie	A0	maniaque Adj
+analogue Adj a	Anti	opposé Adj
+Français N I	Syn	Française
+escroquer	Syn	rouler 2
+ultimatum	Real2	obéir I.2
+revêtement I.3	Syn	enveloppe I
+nuage I	Mult	s’entasser I
+monter I.1a	Métaphore	monter I.3
+patron I	Syn	chef N, masc I.1
+tempête I.2	S1	grêle I
+dételer	Anti	atteler
+toutou	Syn	cabot
+éviter I.2	Extension	éviter II
+chantant	Syn	musical 1
+affrioler 2a	Qual1	excitant Adj
+miel 1 III	Gener	couleur I.1a
+banc 1 I	Real1	assis I.1a
+enfoncer II	Syn	mettre I.2a
+seulement 1	Syn	à peine
+cristal I.1	Gener	matière I.1a
+entrer I.1	Métaphore	entrer IV.3a
+nez I.b	AntiMagn	fin Adj I.3
+avouer	Syn	se mettre à table
+crotte I	Syn	fèces
+mamie II	Syn	mémé II
+heurter I	Syn	frapper I
+mettre les petits plats dans les grands 1	Extension	mettre les petits plats dans les grands 2
+femme seule	Contr	homme seul
+poil II.3	Syn	barbe I.1
+Pays de Galles	S0	Galloise
+troupe a	S1	militaire N, masc
+extinction des feux III	Syn	coucher N I
+hypocentre	S1	séisme
+piéton Adj	Syn	piétonnier
+diminuer IV	Anti	s’allonger 1 II.2
+recouvrir I.2	A2	recouvert 2
+crâne Adj 1	Anti	lâche Adj I
+contester	Able2	contestable
+meunerie	Syn	moulin II
+si N	Syn	ré
+voler 1 I.1	Fin	se poser I.1
+parents N 1a	S2	fils I
+flâneur Adj	Anti	rapide Adj I.2
+loyer	S1	locataire N, masc
+ramer 1	Sinstr	rame 1
+Sud-Coréenne	Syn	Sud-Coréen N
+pluie II.2	Syn	avalanche III
+répertoire 2.a	Labreal12	piocher II
+crado I.2	Syn	crade I.2
+catholique Adj 1	Extension	catholique Adj 2
+mot I.1	Syn	gros mot
+lune I.1a	Métonymie	lune II.1
+faire II.1	Syn	se faire II.1
+voiture 1	Instr	en Prép IV.1
+course 1 I	Syn	marche 1 I.1a
+musicien N	Mult	ensemble N I.1
+assise I	Syn	accoudoir
+manivelle	Syn	excentrique N, masc I
+gymnastique N I.1b	Sloc	gymnase
+sucre a	Sing	grain II.a
+conduire IV.1	Syn	obliger 2
+museau I.3	Syn	nez I.a
+serre-tête	Real1	porter IV
+final I	Anti	initial
+allongement 1 II	V0	allonger 1 II.2b
+crêpe I	Syn	galette I
+tir 1a	Extension	tir 3
+manger V I.1a	S2	boustifaille
+vin I.1	Magn	fort Adj II.2
+karaté	Syn	kung-fu
+cœur III.2	Syn	puce II
+sous les feux de la rampe	Syn	célèbre
+passionnant	Syn	intéressant
+bateau N 1 III.2	Func0	aménager III
+continuer 2b	Syn	poursuivre II
+hold-up I	S2	banque
+costard	S2	veste 1
+étouffement I	V0	s’étouffer
+battre 1 I.1a	Sinstr	fouet 1
+tenir la route II	Anti	clocher V
+visiter I.1	Syn	aller voir I
+vêtement I.1	Magn	épais 2
+admission I.3	S2	admissible N, fém
+bagage I.2	S1	voyageur N
+crade II	Syn	cradingue II
+assis I.1b	Pred	se lever I.b
+repas II.a	Syn	déjeuner N II
+biclou	Syn	biclo
+correspondante N I	Métaphore	correspondante N II
+anticiper I	S0	anticipation I
+adresse mail	Syn	mél II.1
+dégueulasse III	Syn	crasseux III.1
+pierre précieuse a	Syn	rubis I.a
+exploiter II	Syn	abuser II
+pot pourri I.1b	Syn	accessoire N 1
+s’embarrasser	Syn	s’encombrer
+Europe I	Gener	continent I.1
+commencer I.1	Métaphore	commencer II.1
+lutte I.2	Syn	karaté
+tabac 1 I.2	S1	chiqueuse
+citoyen N	Syn	concitoyen
+fond IV.1	Magn	fin Adj IV
+inviolabilité 1	Extension	inviolabilité 2
+tartisses a	Syn	sanitaires N II.a
+ennemi N III.a	Real2	battre 1 IV.2
+Ce sont des choses qui arrivent.	Syn	rien à faire
+torrentiel I	Métaphore	torrentiel II
+démissionner II	S0	démission II
+malheureux Adj I.1	Métaphore	malheureux Adj II
+jogging I.2	Syn	course à pied
+couardise	Syn	lâcheté 1
+randonnée b	S1	randonneur
+fermer III	Anti	ouvrir III
+manger V I.1a	Magn	en vitesse
+Corée	Sing	Corée du Sud
+audience	Syn	entretien II
+univers III	Syn	milieu II.1
+caisse I	Métaphore	caisse II.1
+prompt 1	Adv0	promptement
+amical I.2	Syn	chaleureux 1
+rapide Adj III.2	Magn	très
+exagération I.2	V0	exagérer III
+vache I.a	Son	meuglement
+Canadienne I	Syn	Canadien N
+crade VI.1	Syn	crado II
+entrevue	Syn	tête-à-tête I
+présent Adj I	S0	présence
+expliquer I.1	Contr	comprendre I
+rang I	Métaphore	rang II
+précision	Syn	rigueur II
+jussie	Gener	fleur I.2
+jumeau Adj I	S1	jumelles I.a
+arrivage II	Syn	provision I
+connard	Syn	fumier II
+capillarité b	A0	capillaire Adj II.1b
+brasser du vent	Syn	dans la semoule 1
+geler I.2b	Result2	geler I.2a
+sale Adj I.1	Magn	crasseux I
+hôtelier N	Syn	hôtelière
+droit Adj 2	Anti	gauche Adj 1
+habillement I.2	Syn	habits I.1b
+ecclésiastique Adj	S0	église II.2
+partir 1 I.1a	Métaphore	partir 1 V.2
+chevaux II.1	Syn	cv
+éditeur de texte	Syn	traitement de texte
+habits I.1b	AntiMagn	moulant
+pasteur 1	Syn	père spirituel
+terrain I.1	Syn	sol 1 I.1
+ville I.1a	A0	urbain
+moyen Adj II.1	Extension	moyen Adj II.2
+battre 1 V.2	S1	pouls I
+troupeau	Syn	cheptel
+atome I.2	Syn	élément III.3a
+verglacé	Syn	verglas
+pédale 1 1	Real1	appuyer I.1
+ressembler I.1	AntiMagn	du tout
+averse II.2	Syn	avalanche III
+afficher I	S1	afficheuse
+ouvertement	Syn	franchement I
+expression II	Syn	figure II.1b
+leader I	Syn	chef d’orchestre II
+remuer 2	Syn	bouger I.2b
+s’angoisser	Syn	angoisser 2
+avocat 1 I	Pred	quitter la robe
+soucoupe volante	S1	extraterrestre N, fém I
+s’aggraver	Caus	aggraver
+anglais Adj 2	S1	Anglais N I
+lumière I	Magn	violent Adj II
+prochain Adj II.2a	Anti	précédent Adj I.2a
+apporter II	Syn	causer 1 a
+reposer 2 IV	Syn	partir 1 VI.b
+thym 1	Gener	plante 1
+atteindre I.2	Syn	frapper II.2a
+ensemble N I.2	Syn	couple N, masc III.1b
+minuscule Adj II	Anti	majuscule Adj
+mairie 1	Equip	conseil municipal 1
+exciter II.2a	Syn	affrioler 2a
+pont II	S1	bateau N 1 I
+jeûneuse	Syn	jeûneur
+chaussures I	Real1	lacer
+enveloppé	Syn	entouré I
+boursier	S0	Bourse II
+et	Syn	comme III
+maladie I.1a	Syn	trouble N III
+mater	Syn	daronne
+précoce I	Métaphore	précoce II
+intrinsèque	Syn	inhérent
+océan I	A0	océanique
+côté II.1	Extension	côté II.2
+couche 1 1	Syn	placard 2 IV
+miel 1 I	Func0	mellification
+dérober I	Syn	carotter
+exploser I.1a	Smed	explosif N
+coup d’œil I	Oper1	lancer V V.3
+musico	Syn	musicien N
+séparer 1	Extension	séparer 2
+flaque	S1	eau I.b
+moto I	Sing	réservoir 2
+aux dents	Syn	à la bouche
+aller aux toilettes	Syn	aller à la selle
+grand-père II	Syn	ancien N II.1
+douane	S1	douanier N
+costard	S2	pantalon
+chuchotement	V0	chuchoter
+boulimique Adj I.a	Anti	anorexique Adj 1a
+fils I	S2	mère 1 I.1a
+achevé 2	Syn	abouti
+participation 1	Métonymie	participation 2b
+qualité II	Anti	défaut II
+disposé II	Syn	porté
+ping-pong I.1	Sing	tournoi
+avoir V V.2	Syn	aller V I.2
+papeterie 1	S1	papetier N I.a
+passage II	Syn	visite III.1a
+sobre 1	Syn	frugal 2
+capacité I	Métaphore	capacité II
+lune III	Syn	fesses I.a
+mémorable I	Syn	immortel Adj II
+administrer 2 I	S1	administrateur 2
+taule 2	Syn	cabane II.2
+italien Adj I.1	Codérivation	italien Adj II
+couleur I.1a	Magn	brillant I
+ferme N	S1	fermier N
+corbeau II.2a	Syn	rapace II
+foi 1	Syn	confiance
+inconscient Adj II	Adv0	inconsciemment
+T8	Syn	huit-pièces
+sport N II	Oper1	pratiquer I
+grenouille	Gener	amphibiens
+bouger I.1	S0	mouvement 2
+gourmand Adj III	Syn	désireux
+corps I.1a	AntiVer	malade Adj I.1a
+sport N I	Syn	sport d’hiver
+drague	V0	draguer II
+mariage I.1	S1	femme II
+pardon N	V0	pardonner
+chaussures I	Real1	chausser
+bœuf 1 I.1a	Métonymie	bœuf 1 I.1b
+abbaye I	Métonymie	abbaye II
+désolé I.1	V0	se désoler
+document 2	Epit	électronique Adj II
+délester I.1	Syn	décharger I.2
+phrase	S1	mot I.1
+nez I.b	Magn	énorme I
+rasage a	V0	raser a
+déjeuner N I	Syn	déj
+différence 1	Anti	similarité
+plage II	S1	bronzeuse
+étranglé	S2	étrangleuse
+croustillant I	Syn	croquant Adj
+tomber V IV.1	Syn	rencontrer 1
+ami N I.1	Oper2	trouver II
+chaussures I	Syn	sabot II
+sûreté II.a	Syn	garantie 1
+criminelle 2	Syn	crim’
+monde I.2	AntiVer	à l’envers I
+détaché II	Syn	indifférent II
+rouge-gorge	Gener	passereaux
+déformation 1	V0	déformer
+appartement 1	Syn	triplex
+fond VI.1	Contr	apparence I.1
+à I.1	Métaphore	à I.4
+jeu IV.b	V0	jouer V.2
+heuchère	Syn	désespoir des peintres
+éroder	Syn	attaquer III
+partir 1 V.1	Syn	commencer II.2
+parler I.2	S2	langue II.a
+décéder	Syn	passer l’arme à gauche
+vote I	V0	voter I
+jambes I.1	Bon	beau Adj I.1
+créer I	Métaphore	créer II.2
+lavage I.2a	S2	linge I.a
+paix I	Anti	guerre I
+traduire I	S0	traduction a
+dissiper II	Syn	dilapider
+mou I.1	Métaphore	mou II
+flot II	Magn	geyser II.1
+défenseur II.1	Syn	combattant N II
+orphelin Adj II.2	Syn	veuf Adj II
+géant Adj	Anti	nain Adj
+musique I.1a	AntiMagn	doux III.2
+décoller 1	A2	décollé
+voiture 2a	Syn	casserole III.2
+cacher III	Syn	taire
+rêver II	Syn	désirer 1
+visite III.1a	Spécialisation	visite III.2a
+gaucher N	Syn	gauchère
+nuage I	Plus	s’épaissir
+écarter I.2	Syn	chasser II
+tram I	Syn	tramway I
+frontières II.2	Syn	confins II
+extinction des feux I	Syn	couvre-feu I.1
+chaussons I.1	Real1	mettre I.2a
+voler 2 I	Syn	dévaliser
+adresse e-mail	Syn	mél II.1
+cornes 3	S1	daim I
+cabinet d’aisances a	Syn	tinette a
+demander IV	Syn	admettre II.2b
+Chinois N I	Métonymie	chinois N II
+boule I.1	Métaphore	boule II
+nostalgie I	Magn	grand Adj III.2
+boiter II.2	Syn	clocher V
+page N, fém 1	S1	feuille II
+fort Adv I	Métaphore	fort Adv II.3
+champ 1 II.1	Syn	tapis III
+voir I.1	Able2	visible
+coupe 2 1	V0	couper I.1a
+instant I	Métonymie	instant II
+pété	Syn	plein Adj V
+hexagonal I	Métaphore	hexagonal II
+résister II	Syn	serrer les dents II
+planteur	Syn	cultivateur
+avoir un ticket	Syn	taper dans l’œil
+analogie a	S2	analogon
+soutien-gorge	Gener	pièce d’habillement
+condition I.a	V0	conditionner
+goudronné	Smed	goudron
+inconscient Adj II	Anti	conscient I
+main I.a	S1	droitier N
+badminton 1	Sinstr	raquette
+coup de fil	Syn	coup de bigophone
+décidé II	Syn	déterminé II
+assoiffé N	Syn	assoiffée
+belge Adj 2	S1	Belge N, fém
+authentique I.1	Anti	faux Adj II
+canaille 1	Syn	escroc I
+nuisette	Real1	vêtu
+dent 2	Oper1	garder III
+alerter I	Syn	alarmer
+cube de glace	Sing	glace I
+servir II.2	Conv-ij	faire usage 2
+boulimie I	A0	boulimique Adj I.a
+présenter III	Syn	comporter
+couple N, masc II	Fact0	relation I.2
+traverser III.2	Syn	pénétrer III
+relief I	Métaphore	relief III
+bonnet I	Métaphore	bonnet II.1
+col I.2	Syn	cravate I.2
+brun I.a	Conversion	brun I.b
+gamme I	Extension	gamme II
+cabinets I.2a	Syn	toilettes III.1b
+lac I	AntiVer	artificiel
+cheveux I.2a	Real1	brosse I.1
+légiste N, masc	Syn	médecin légiste N, masc
+pigeon I	Gener	oiseau a
+apport II.1	Extension	apport II.2
+fond III.2	Syn	fondement
+crado II	Syn	dégueu II.1
+grippé Adj I	Syn	malade Adj I.1a
+vase N, masc b	S2	fleur coupée
+étang	Gener	pièce d’eau
+fond I	Métaphore	fond VI.3
+arbitrer	S2	match
+voyageur Adj	S1	voyageuse
+parenté II	Syn	ressemblance 2
+pauvre Adj I	S1	pauvre N, fém
+réaction I.1c	Sloc	réacteur I.1
+brutal I	S0	brutalité
+agrammaticalité	Anti	grammaticalité
+allumer I	Métaphore	allumer II.1
+traiter I.2	S1	vétérinaire N, fém
+nausée II	Syn	répulsion I
+politique N, fém II	Adv0	politiquement I
+grand N	Syn	grande
+oreilles III.1b	Syn	écoute
+condamner	Syn	châtier 1
+lunette II	Mult	abattant
+oreilles I.1a	Métaphore	oreilles II.3
+fantasy	Syn	science-fiction
+céleste I	S0	ciel I.1
+transat	Syn	chaise longue
+doux I	Anti	acide Adj 1
+bientôt 1	Syn	prochainement
+tassé	Syn	avachi
+germanique Adj II.1	Syn	allemand Adj I
+atteindre V.1	Syn	arriver III.2
+accuser I.3	Syn	jeter la pierre 2
+professeure	Syn	professeur
+couard Adj	S1	couarde
+chemin de fer I	Métonymie	chemin de fer II
+éliminer I	S0	élimination I
+animalier Adj	Syn	animal Adj I
+maladie I.1a	Func1	atteindre III.1
+grippe	A1	grippé Adj I
+endurci I	Syn	dur Adj III.1
+coterie	Syn	clique II
+long Adj I.2a	Anti	petit Adj I.3a
+asséner	Syn	donner II.2
+cerveau I.2	Syn	cigare III.2
+coupeur de cheveux en quatre	Syn	enculeur de mouches
+ski alpin I	Syn	skis I.a
+étagère II	Loc	sur I.1
+renforcement I	Syn	consolidation I
+placard 1 I	Métaphore	placard 1 IV
+vers b	S1	ver a
+chèque	Contr	espèces
+vague N, masc	Syn	flou N II
+plage V.1	S2	enregistrement II.2
+toboggan I	Métaphore	toboggan II
+mamie I	Syn	grand-maman
+obstacle I.a	Métaphore	obstacle II
+maladie I.1a	Real@	combattre II
+belle b	Syn	petite amie
+spécialiser	S0	spécialisation
+ailleurs 1	Contr	ici I.a
+antenne II.1	S1	télévision II
+faire le lit	Anti	barrer la route
+ceinture I.3	S1	passager N
+coup de bélier I	Syn	précipitation III
+psychique	Syn	mental Adj 1
+cradingue I.2	Syn	dégueu I.2
+agacement	Able2	agaçant
+tourner VI	S2	film II
+alcool II.2	Syn	boisson alcoolisée
+mitigeur	Syn	robinet I
+tant bien que mal	Anti	bien Adv 1
+chatte I	Involv	mordre
+boit-sans-soif N, fém	Syn	alcoolique N, fém
+mathématique Adj	S0	mathématiques
+poivrot	Syn	poivrote
+douche I	Magn	long Adj III.2a
+hurlement II	V0	hurler I.1a
+fille I	Métaphore	fille II.1
+imagination 2	S1	imaginative
+se transformer 1	Spécialisation	se transformer 2
+avancement I.2	S0	avancer IV.2
+nœud	Labreal12	dénouer
+vêtements I.2	AntiMagn	ajusté
+corbeille II	Syn	poubelle IV
+pondre II	Syn	écrire II
+mathématiques	Syn	algèbre
+asséner	Syn	foutre I
+électoral	V0	élire
+pipi-room	Syn	chiottes I.b
+épouvantail II	Syn	bête noire II
+bonne-maman	Contr	bon-papa
+manger V I.1a	S2	manger N
+fond IV.1	Loc	à I.2
+caisse II.1	Syn	coffre I.2
+tonnerre II.1	Syn	bruit I
+nage I.1b	Métonymie	nage I.2
+choucroute 1	Métonymie	choucroute 2
+retard I	Métaphore	retard II
+chargé I	Métaphore	chargé III
+relever 1 II.1	Syn	prendre I.1
+grogner II	Syn	grommeler
+y aller I	Métaphore	y aller II.1
+huit 1a	Gener	nombre I.2
+marcher VI.1a	Syn	fonctionner I.1a
+moelleux N II	Gener	gâteau I.a
+authentique I.2	Anti	inauthentique
+cercueil II	Fact1	enivrer
+se taper II	Syn	manger V II.2
+détention I	Syn	possession I.1
+voiture 2a	Real1	descendre IV
+arnaquer	Syn	escroquer
+être V II	Syn	se trouver I
+canapé I	Real1	inoccupé 2
+réactif N 2	Fact0	réactant
+absence 1	Extension	absence 2
+manteau V.1	Syn	vêtement III.1
+vélo II	Oper1	faire II.1
+juriste N, fém	Syn	juriste N, masc
+pique N, fém II	Syn	flèche II
+meurtre	Syn	crime I.b
+gibier a	Real1	chasser I
+tirage II.2a	Résultat	tirage II.2b
+photocopieuse	Syn	photocopieur
+jupe II.3	S1	locomotive
+wawas b	Syn	cabinets I.2a
+rallier II	Syn	rejoindre III
+déprimer I	Sres	dépression I.a
+encadrer I.1a	Extension	encadrer II.1a
+à belles dents I	Syn	de bon appétit
+nulle part I.1	Métaphore	nulle part II
+table II.1a	Anti	buffet II.2
+capillaire Adj I	Métaphore	capillaire Adj II.1a
+s’emparer II.2	Syn	étreindre II
+rapide Adj II	Anti	lent II.2
+révélation	V0	révéler
+gomme I	Intersection	gomme II
+fonction I	A0	fonctionnel
+attirer I.1	Syn	déplacer I.1
+charcutier Adj	S0	charcuterie I
+séduisant II	Syn	attrayant
+femme politique	AntiBon	politicarde
+trône I.2	Syn	royauté
+usine I	Métaphore	usine II
+monarchique	Contr	démocratique a
+bouchon 1 III	Loc	dans I.4
+plaque I.1	Métaphore	plaque II
+couple N, masc III.1a	Syn	paire 1
+bock a	Métonymie	bock b
+aller V VIII.2	Syn	correspondre I.2
+dégueulasse VI.1	Syn	crade V.1
+haut sur pattes I.1	Extension	haut sur pattes I.2
+le feu aux fesses	Oper1	avoir V II
+résiduel	S1	matière I.1a
+auriculaire Adj 1 1	S0	oreilles I.3
+casser la graine	Syn	bouffer 1 I.1a
+trompettiste N, masc	Syn	trompette N, masc b
+chanteur	Bon	grand Adj III.3b
+petit Adj I.1	Syn	compact II.2
+pluie I	Sres	eau I.b
+correction II	V0	corriger I.1
+fausse route III	Anti	déglutition
+dormir I.1a	Able1	somnolent
+encolure I	Métaphore	encolure II.1
+peigne II.3	Gener	outil I
+avunculaire	S0	tante I
+vent I.1	Func0	s’élever IV
+coup de foudre 1	V0	s’éprendre
+chipoter II.1	S1	chipoteur N II.1
+aller V VII.1	Extension	aller V VII.2
+esprit I.1	Extension	esprit I.2
+heuchère	Gener	fleur I.2
+probable Adj	Adv0	probablement
+disponible	Anti	indisponible
+différent 2	Syn	plusieurs 1
+verge	Syn	nouille II
+sentiment 2	Syn	idée II.2
+barbouze II	Syn	espion
+torchon I	Labreal12	frotter 3
+tornade III.1	Minus	s’apaiser
+don I.1	Oper1	faire II.1
+vélo I	Real1	descendre IV
+manche N, masc II	Syn	zob
+mode N, fém I.1a	Métonymie	mode N, fém I.2
+obésité	S1	obèse N a
+forme IV.3	Syn	type
+cheveu I.2b	Sing	cheveu I.1
+couché I.1a	V0	couché I.1a
+produit VI	Contr	réactif N 1
+médecin N, fém	Sloc	cabinet II.a
+tartisses b	Syn	wawas b
+disparaître II	Syn	s’éteindre III
+matériel Adj 1	Anti	spirituel
+visite III.2a	S1	visiteur II
+dans le rouge	Syn	endetté
+loin II.1	Magn	très
+gorge II	Magn	généreux II.2
+gazon a	Syn	herbe I.2
+cause I	Métaphore	cause II.1
+espace N, masc I.2a	Extension	espace N, masc I.3
+déféquer	Syn	chier
+filou II	Epit	petit Adj IV
+médecine	S1	docteur 2
+italien Adj I.2	S1	Italienne
+gueuler	S1	gueularde
+bas Adj I.1	Extension	bas Adj I.3
+atteindre I.1	Syn	percuter
+mnémonique	S0	mémoire N, fém
+vaurien	Syn	garnement
+corail 1 I	Sloc	mer I.2
+zézette	Contr	zizi
+cigarette III	S1	pantalon
+orage II	Anti	calme N II
+adversaire N, masc III	Syn	adversaire N, fém II
+pédaler dans le yaourt	Syn	pédaler dans la choucroute
+suicidaire N, masc	A0	suicidaire Adj b
+lune III	Syn	arrière-train 2
+douanier Adj	S0	douane
+déplanter	Anti	planter
+citadine	Sloc	ville I.1a
+pinède	Syn	pineraie
+cours 1 1a	Métonymie	cours 1 1b
+voyou N 2	Syn	bandit II.2
+guêpe	Involv	dard
+monarchie a	Gener	régime 1 I.1
+tête de cochon	Syn	méchante
+observation I.2	Contr	expérimentation
+déposition	Syn	déclaration II.1
+islam	A1	musulman Adj 2
+toubib N, fém	Syn	médecin N, fém
+demander I.3	S1	demandeur I
+lessive I	S3	lave-linge
+arbre	Sing	feuille I
+astre du jour	Syn	soleil I.a
+message	Syn	sms II
+actif N I.1	Extension	actif N I.2
+servant	Syn	valet I
+dent 1 I.a	Labreal12	mordre
+sonore 1b	Anti	muet Adj II
+docteure 2	Syn	toubib N, fém
+passer I.1b	Syn	franchir I
+bureau III	Labreal13	afficher I
+s’écrouler III	Syn	voler en éclats II
+jugement 2	Syn	verdict
+explicitation	Syn	explication I.1
+quéquette	Syn	nouille II
+directeur Adj I	Codérivation	directeur Adj II
+fou Adj IV.2	Syn	immense II
+nostalgie I	S1	nostalgique N, masc
+50 mètres	Syn	5000 mètres
+bouffetance	Syn	boustifaille
+effets	Syn	affaires II
+lit I.1b	Bon	moelleux Adj
+boîte aux lettres I.b	S2	facteur 1
+lessiver I.1	Spécialisation	lessiver I.2
+aller N II	Anti	retour II
+camomille II.2	Gener	infusion II
+docteur 1	Extension	docteur 2
+recevoir III.1	Syn	prendre IV.1
+coup V.2a	Oper1	faire II.1
+arriver V.1	Extension	arriver V.2a
+érythème	Syn	rougeur II
+tache I.2	Syn	rougeur II
+bien Adv 2b	Syn	rudement III
+débutant Adj II	S1	débutante
+800 mètres	Syn	400 mètres
+long Adj II.2	Anti	court Adj II.2
+rôle II	Syn	casquette 1 II
+faculté 1	Syn	aptitude
+sensible I.2	Métaphore	sensible I.3b
+guttural	S0	gorge I.2
+kaki 1 I.a	S0	kaki 1 I.b
+exporter I	S1	exportateur N
+fumier II	Syn	connard
+aquatique	S0	eau I.a
+louvoyer I.1	Métaphore	louvoyer I.2
+sommeil I.1a	AntiMagn	léger III.1
+tapis I.1	Bon	épais 1
+concentration I.1	V0	se concentrer II
+pantalon	Syn	jean
+net Adj III.1	Anti	flou Adj I
+Américaine 2	Syn	Américain N II.1
+poireau	Mult	botte 2
+cuité	Syn	rond Adj III
+frasque	Mult	quatre cents coups
+sensible I.2	Syn	perceptible
+en-cas	Syn	collation
+chasser I	S0	chasse
+curieusement I	Codérivation	curieusement II
+navire	Syn	galère
+nettoyage II.2	V0	nettoyer II.2
+bateau N 1 I	AntiBon	mauvais Adj I.1a
+tardif 2	Adv1	tard 2
+fleuve IV	Anti	court Adj II.1
+réalisation I	Able2	réalisable I
+mise en scène I.1	S1	metteur en scène N, masc
+sans-abri a	Spécialisation	sans-abri b
+rabais	Syn	ristourne
+éduquer a	Syn	élever III.a
+professionnel N	Syn	professionnelle
+davantage	Anti	moins Adv
+abricot II	Syn	jaune a
+idéal Adj 1	Extension	idéal Adj 2
+coup II.2a	Oper1	donner II.2
+rouge I.1b	AntiMagn	clair Adj I.2
+russophone N, masc	Syn	russophone N, fém
+grappe b	Sloc	vigne
+caravane I.2	Métonymie	caravane II
+voiture 1	Real2	prendre place
+temple I	Extension	temple II
+chaleur I.1a	Magn	intense
+falzar	Syn	fendard
+religieux Adj I.1	Adv0	religieusement I
+course 1 III.a	Gener	évènement sportif
+chou N 1 I.2	S1	cultivatrice
+musique I.3	S1	musicienne
+boire V I.1	Syn	avaler I.1
+rire V 1	Syn	se fendre la pipe
+thésarde	Syn	doctorante
+garantir I.1	Extension	garantir I.3
+toilette I.1a	AntiMagn	sommaire Adj II
+marche 1 III.2	Syn	activité II
+nuit I	Contr	jour I
+distant I	Anti	proche Adj I
+arraché	Syn	plein Adj V
+citadin Adj	S0	ville I.1a
+technique N 1	Extension	technique N 2
+se coucher I.1a	Métonymie	se coucher II
+vêtement I.1	Real1	retirer I.1
+crever II	Syn	mourir I
+casser sa pipe	Syn	disparaître II
+aliter 1	A2	alité
+saleté I.1	Métaphore	saleté III.2
+adversaire N, fém I	Syn	adversaire N, masc I
+langue II.b	AntiBon	jargon
+appréciation	V0	apprécier I.2
+tuerie I	Métaphore	tuerie II
+fonctionner I.1b	Syn	marcher VI.1b
+bateau N 1 I	Fact0	s’échouer
+cyclotouriste N, masc	Syn	touriste N, masc
+nez IV	Loc	dans I.1
+fesses I.a	Syn	paire de fesses
+flanquer	Syn	envoyer III
+couché III	Anti	sur pied I.1
+admettre II.2b	Syn	appeler II
+secouer I.1	Syn	agiter I
+barbouze II	Syn	espionne
+charcuterie I	S2	charcutière 2
+rebond I	Syn	rebondissement I
+frapper I	Syn	heurter I
+appuyer I.1	Extension	appuyer I.2
+parapluie II	Syn	protection III
+coup de fil	Syn	appel I.2
+d’abord 1	Métaphore	d’abord 2
+capacité I	Syn	aptitude
+relativement 1	Syn	selon 2
+faux-cul N, fém	Syn	hypocrite N, fém
+angoisser 1	Résultat	angoisser 2
+fleur I.2	Mult	bouquet I.2
+numéro II.3a	Real2	assister II
+navire	Real1	embarquer I.2
+reptile a	Gener	animal N I.1a
+après Prép I.2	Syn	ensuite
+route I	Func0	entretenir II
+attirance	Syn	attraction
+siège I.1	Real1	quitter II.2
+en chier	Syn	en baver
+chrétien Adj 1	S0	christianisme
+leader I	Métaphore	leader II.1
+délicieux	S0	délice
+fruit rouge	Gener	fruit I.1
+rouler 1 V.1	Extension	rouler 1 V.2
+terrier I	Sing	couloir 2
+navire	Syn	engin de navigation
+hirondelle	Gener	oiseau a
+serpent de mer III	S1	journaliste N, fém
+assis I.1b	V0	assis I.1b
+incitation 1	Syn	encouragement 1
+rockeur Adj	S0	rockeuse
+articulation 2 I	Ver	précis Adj 1
+manger V IV.2	Syn	bouffer 1 IV.2
+profitable	Adv0	profitablement
+débuter I.1	A1	débutant Adj I
+beauté I.1	Extension	beauté II.1
+orphelin Adj II.3	Syn	sans I.1
+résistant I	Syn	solide Adj II
+séparément	Syn	un à un
+majeur N 2	Syn	adulte N, masc
+quenotte	Syn	dent 1 I.a
+sprint III	Gener	discipline I
+d’actualité	Syn	dans le vent
+cesse	V0	cesser 2b
+porte 2	S1	meuble N I.1a
+ampoule I.1b	Syn	quantité 1
+oreille III.1a	Oper2	trouver II
+ronchonnement	Syn	grommellement
+divorce I	Anti	mariage I.1
+orthodontiste N, masc	Syn	dentiste a
+bourré III	Syn	beurré 2
+repas II.a	AntiMagn	frugal 1
+champ 1 I.1	Extension	champ 1 I.4
+déplacer I.1	Syn	transporter I
+correspondance II.a	S1	correspondant N I
+géant Adj	Anti	minuscule Adj I.1
+quelque part II	Syn	là II.1
+défaillir	Syn	s’évanouir I
+aboutissement II	Syn	bout I.1
+coup de cœur	Syn	coup de foudre 2
+tension	Syn	force III
+à fond I	Syn	à plein régime
+est N 2	Contr	ouest N II.1
+pauvreté I.1	Syn	misères 1 II.1
+salaud N	Syn	connard
+wawas a	Syn	tartisses a
+cuisine I.1	Sloc	cuisine II.a
+enceinte Adj	Syn	grosse Adj II
+améthyste b	Gener	pierre précieuse b
+moche N, fém	Syn	moche N, masc II
+admettre III.1	S0	admission III
+Suisse N, fém II	Syn	Suisse N, masc
+tabouret 1	Gener	siège I.1
+cadavre I.b	Degrad	se décomposer
+pur Adj I.1	Extension	pur Adj I.2
+élève N, masc	S4	lycée
+lieux d’aisances b	Syn	sanitaires N II.a
+refroidir 1	Causation	refroidir 2
+affaires II	Métaphore	affaire III
+conductrice b	Syn	machiniste N, fém 2
+chien I.a	Involv	mordre
+traîner III	Métaphore	traîner V
+hurlement IV	V0	hurler III
+bâcler	Anti	fignoler
+détaillé 1	Extension	détaillé 2
+couverts N I.1	Mult	couvert N I.3
+symptôme I	A0	symptomatique I.2
+compagnon 1	Syn	compagne 1
+pressant	Syn	insistant
+caca N I	Syn	crotte I
+diminuer V	Anti	s’allonger 1 II.1
+vent I.1	Magn	fort Adj II.1
+imbécile N, fém	Syn	imbécile N, masc
+matière fécale	Syn	bol fécal
+main I.a	Métonymie	main II
+brosse I.2	Labreal12	répandre I.1
+ovale Adj	Contr	rond Adj I
+traducteur	Syn	interprète N, masc I
+ramasser I.1	Extension	ramasser I.2
+queue III.1	Syn	cigare IV
+bâillement	V0	bâiller
+maladie III.2a	Oper1	avoir V II
+gare N 1	Extension	gare N 2
+donner le sein	Syn	allaiter
+famille I.b	Oper1	faire partie
+mère 1 I.1b	Fact2	abandonner II.2
+incorporation I	Codérivation	incorporation II
+dimension 1	Extension	dimension 2
+visiteur III	Syn	visiteuse III
+aller V I.1a	S0	aller N I
+cercueil I	S2	corps I.2
+poulet III	Syn	lapin 1 II
+mouche I	Son	bzz
+cigare I	Real1	aux dents
+biberon	S2	bébé 1
+vacances II	S1	vacancière
+train 1 I	Equip	chef de bord N, masc
+si N	Syn	la
+bouffer 1 I.1a	Able2	comestible
+hold-up I	S1	voleur N I
+dégâts	Syn	dommages
+ménage II.2	Syn	couple N, masc II
+boîte aux lettres I.a	Spécialisation	boîte aux lettres I.b
+aînesse	S2	puînée
+entrer I.1	S0	entrée I.1
+basket N, masc 1	Gener	sport N I
+deux-pièces 2	Syn	T2
+rigoler 1	Syn	se fendre la poire
+Belgique	S1	Belgique
+vaincu Adj	Syn	perdant Adj
+inspirer II.2	Syn	provoquer I
+franc Adj 1 I.2a	Syn	sincère I
+passé Adj I.1	Syn	ancien Adj I.2
+obéir II.1	Syn	agir I
+tromper I	A1	trompeur
+ici I.a	Syn	maintenant I.1
+colorer I.2a	Anti	décolorer I.2a
+jaune a	Gener	coloré I.1
+ami N I.1	Extension	ami N I.3
+nez I.b	Magn	grand Adj I.3a
+Italien N I	Syn	macaroni II.a
+crédit I	S1	débiteur
+boucher N I.2	S2	viande
+prendre I.1	Extension	prendre I.2
+géranium	Syn	pélargonium
+vacciner	Able2	vaccinable
+bus	Loc	dans I.1
+divorce I	Smed	action II
+demander I.3	Métaphore	demander III.1
+orange I	Gener	fruit I.2
+casser les couilles	S1	casse-couilles N, masc
+tricher II	Syn	mentir
+crâne N I.3	Syn	cigare III.1
+communiquer I.2	Able2	communicable
+touiller	Syn	mélanger I
+moyen Adj II.2	Magn	très
+accent I.1	A0	accentuel
+paysannat	S1	paysanne
+nageuse a	Syn	nageur a
+Corée du Sud	A0	sud-coréen Adj 1
+diable I.a	Syn	démon
+voiture 2a	Real1	voyager I
+Il y a une limite à tout.	Syn	Assez ! III
+conséquence	Conv-ij	cause I
+boutonnage 1a	V0	se boutonner
+grenouille	Gener	batraciens a
+raccourcir I	Anti	agrandir I
+marche de l’histoire	Syn	progrès II.2
+tornade I	Func1	balayer II.1
+honnêtement I.a	Syn	bien Adv 1
+table I.2	S1	cliente
+à côté de ses pompes	Syn	dans les choux
+ressembler I.1	AntiMagn	peu II
+tarte N I	S2	crème II.1
+accuser le coup II	Syn	serrer les dents II
+guéable	Syn	franchissable
+vallée II	Syn	lac III
+avoir les deux pieds dans le même sabot	Anti	se débrouiller
+se noyer	S0	noyade 1
+vin chaud	Gener	boisson I
+botte 2	Syn	bouquet I.2
+interroger	Syn	tirer les vers du nez
+croûte	Contr	mie
+savon 2 2	Syn	reproche
+jour des Morts	Gener	jour II.1
+appartement 1	Syn	une-pièce
+cyclisme	S1	cycliste N, fém I
+reine I.a	Métaphore	reine II
+pluie II.2	Func0	commencer I.1
+pays I.2c	Mult	pays I.2b
+anorexie	Anti	boulimie I
+tort 1	Syn	faute I.1a
+menottes 1 I	S1	policière
+détruire I.1	Conversion	détruire I.2
+voler 1 IV.a	Fin	retomber I.2
+médecin N, fém	Syn	médecin N, masc
+environ	Anti	exactement 1
+comprimé	S2	trouble N III
+voix I.2a	Syn	voix I.2b
+en vitesse	Syn	rapidement I
+avec I.3a	Syn	à l’aide
+aspirateur N I.1	Gener	appareil I.1
+chaussons I.2	Real1	retirer I.1
+boucle articulatoire	Gener	boucle IV
+scieur	Syn	scieuse
+flamber I.1	Métaphore	flamber III.1
+se bouffer II	Syn	mordiller I
+dynamique Adj I	Syn	actif Adj II
+nullité	S1	nul N 1
+signe de ponctuation	Syn	point d’exclamation
+quoi 2	Syn	qui I.2
+désagréable I	Anti	agréable 1
+sud	Contr	nord N
+exact I.1	Anti	inexact
+condamnée	A1	condamné Adj
+pipi de chat II	Syn	rigolade II
+cosmétique Adj I.1b	S0	cosmétique N 2
+front I	Métaphore	fronts IV
+éclipse	V0	éclipser I
+anorexie	A1	anorexique Adj 1b
+tornade II	Syn	tourbillon I
+louper II	Syn	manquer V.2
+métro II.2	Loc	à I.2
+abeille I.a	Mult	colonie III
+petit N 1	Syn	petite 1
+gaz I.2	Syn	gaz naturel
+coureur N III.2	Epit	femme I
+ailleurs 1	Contr	là I.1a
+compact II.2	Syn	petit Adj I.1
+se mettre sous la dent I	Syn	manger V I.1a
+touche I	Métaphore	touche III
+sale Adj I.2	Magn	crade I.2
+route I	Real1	sillonner II
+linge II	A2	recouvert 1
+quand même 2	Syn	Dis donc 2
+train 1 I	S3	gare N 1
+déplacé I	Métaphore	déplacé III
+crime I.b	S1	auteure I
+Soleil I.b	Syn	soleil I.a
+banque	S2	cliente
+se remettre I	Métaphore	se remettre II
+film II	Cap	réalisateur
+chercher la petite bête	Syn	pinailler
+maîtresse II	Syn	propriétaire N, fém
+uni II	Anti	désuni
+cheval I.1b	S1	écuyer
+analogie b	Magn	grand Adj III.2
+limite N II.1	Extension	limite N II.2
+muguet	Sing	brin I
+noble art	Syn	boxe
+âpre I	Syn	mauvais Adj I.1b
+cicatriciel	S0	cicatrice
+route I	Func2	venir II
+chasse	S1	chasseresse
+déchetterie	S2	déchets
+criminelle 1	Syn	criminel N
+modalité	Syn	façon I
+tardif 1	Adv0	tard 1
+motrice	Syn	locomotive
+fauteuil II	Real1	accéder II.2
+mélancolie I	Gener	trouble psychique
+bracelet	S2	poignet I
+rallongement	Anti	raccourcissement
+coutume	Syn	tradition
+exploser I.2	Syn	voler en éclats I
+seins I.2b	Sing	sein gauche
+généralisé	Syn	étendu II
+remettre II	Syn	donner I.1
+moutarde N II	Sing	pot 1 I.1b
+petite nature	Syn	peureux N
+tête I.1a	Métaphore	tête VI
+nostalgie I	Oper1	susciter
+pièce V.2a	Syn	morceau III.2
+élément III.1	Syn	substance I.1a
+recommencer I	Codérivation	recommencer II.2
+judo	Sing	combat I.3a
+enquête I	V0	enquêter 1
+serrure	S2	clé I.1
+se laisser	Syn	laisser III.1
+au sujet	Syn	autour II.3
+enlaidir I.1	Extension	enlaidir I.2
+trois-pièces I	Syn	smoking
+long Adj I.2a	Minus	raccourcir I
+averse I	Minus	diminuer III.2
+sourd N	Syn	sourde
+écran I	Syn	barrière I
+crever II	Syn	succomber I
+guitare	Syn	gratte
+avalanche IV	Syn	tourbillon II
+assiette 1 I.b	Magn	copieux
+sortir VIII	Syn	être V III
+feuille de route I	Gener	document 1
+français Adj I	Syn	hexagonal II
+louer 2	Able1	louable 2
+démolir II	Syn	battre 1 IV.2
+téléguider	Syn	télécommander
+algue	Sloc	étendue d’eau
+glaçon I.2	Sing	glace I
+rose fuchsia b	Gener	couleur I.1a
+caramel I.1	Métonymie	caramel I.2
+chiffre I.2	Func3	concerner
+enfance I	Syn	jeunesse
+vétérinaire N, fém	Fact3	soigner II
+habillé 1	S2	vêtement I.1
+crime I.a	S2	victime N I.1
+bœuf 1 I.1b	Syn	vache I.a
+avocat 1 I	Gener	métier
+voler 2 I	Syn	piquer V.1
+moustique III.1	S1	catégorie
+fracas I	Métaphore	fracas II
+réaliser I	Able2	réalisable I
+heureux Adj I	Métonymie	heureux Adj II.1
+licencier	Syn	virer III
+dégoût I	Epit	physique Adj II
+parfumeuse	Syn	nez III.2
+siège I.3	Loc	sur I.1
+vestiaire 1	S2	client
+fauteuil II	Real1	conserver IV
+passionné Adj 2	Syn	amateur Adj I
+fille I	A0	filial
+musicien N	Mult	groupe 1
+condamner	Sinstr	verdict
+crotte II	Syn	Flûte ! Interj
+singulier Adj II	Syn	étrange
+plage I.1b	Cap	plagiste N, masc
+analogie a	Syn	métaphore
+se mouiller	Syn	s’impliquer 2
+instrument à vent	Syn	vents
+fonction III	Epit	mathématique Adj
+possession II	Syn	bien N IV.a
+rideau I.2	Fact0	tomber V I.3b
+recommandation	V0	recommander I
+rentable	Syn	juteux II
+s’écrouler II.2	Syn	ramper III
+se détendre I	Anti	se contracter
+bébé 1	Syn	nourrisson
+finir I.1	Syn	s’arrêter II.b
+bas N II	Syn	dessous N III
+rose fuchsia b	Syn	rose 1 b
+racine de bruyère	Mult	bruyère I
+problème I	Métaphore	problème II.1
+basket N, masc 1	Oper1	faire II.1
+corporel I.2	Syn	corps I.1a
+imperméable Adj	Syn	étanche
+chouraver	Syn	chourer
+secondement	Syn	deuxièmement
+cradingue III	Syn	cracra III
+rivière I	Real@	traverser III.1
+empoisonner 1	S1	empoisonneur
+contrecoup II	Syn	impact II
+envahir I	S1	envahisseuse
+flexible N	Syn	tuyau I.1
+universitaire N, fém 1	Extension	universitaire N, fém 2
+d’abord 2	Syn	principalement
+vilainement I	A0	vilain Adj I
+tirage II.1	S1	imprimeur
+amours I.1b	Sing	amour I.1a
+décorer II	S3	décoration II.2
+cuisinier	Syn	cuisinière I
+appliqué I	Métaphore	appliqué II
+ressembler I.1	Magn	pas mal I.2
+se terminer I.1	Syn	se finir
+mer I.1	A0	marin Adj I
+effectuer	Syn	faire III.1b
+dentiste b	Fact2	soigner II
+être V I	S1	être N II
+pendant Prép 2	Syn	durant 2
+avalanche III	Syn	averse II.1
+bourrasque	Syn	tempête I.2
+partir 1 VI.a	Syn	débuter III
+chef d’orchestre I	S2	orchestre I
+cristal I.2b	S1	glace I
+tête II.1a	Extension	tête II.1b
+baraque à frites	S3	client
+autour II.2	Syn	pour Prép III.2
+clou I	Syn	pointe I.2
+travailleur N	Fact0	travailler I.2
+klaxon I	Real2	klaxonner b
+suicidaire Adj a	Syn	dangereux 1
+jouer III	Syn	parier I.2
+abeille I.a	Gener	insectes I.b
+carafe II	Syn	crâne N I.3
+lin II	S2	huile 1
+rouge I.2	S1	cheveu I.1
+rédacteur	Syn	rédactrice
+debout III.2	Syn	bien Adj I.2b
+opération II	Syn	calcul 1 I
+derrière N II	Syn	croupion II
+penser V II.2	Syn	considérer II.2
+père II.1b	Fact0	officier V 1
+judo	Sing	championnat
+robinet I	S2	gaz I.1a
+antenne II.2	Real2	confisquer II
+illégitime II	S1	pièce rapportée I.1
+provoquer II	S1	provocateur N
+courir I.1b	Métaphore	courir III.1b
+chauve Adj I.1	S0	calvitie
+tendre V I.1	S0	tendage
+pomme II	Syn	caboche I
+propreté I	Métonymie	propreté II.1
+organisme III	Syn	organe II
+cochon N I.1	Métonymie	cochon N I.2
+manger V I.1a	S2	bouchée
+penser V II.4	Syn	souhaiter
+karaté	S1	karatéka N, fém
+toison I	Métaphore	toison II.1
+statique Adj	Anti	dynamique Adj II
+courir I.1a	Magn	à fond de train
+louvoyer I.2	Syn	naviguer II.1
+chouraver	Syn	faucher II
+titiner	S1	mésange
+chambre régionale des comptes	Syn	CRC
+informer 1	Syn	renseigner 1
+canapé-lit	Gener	meuble N I.1a
+fécond I	S0	fécondité
+sale Adj IV	Syn	dégueulasse IV.1
+naturellement I	A0	naturel
+siffler I	Métaphore	siffler II
+être V V.2	Syn	avoir V V.2
+malpropre III	Syn	sale Adj III
+enfin I.1	Syn	finalement I
+jurement	V0	jurer
+père I.1a	A0	paternel Adj a
+battre 1 I.1a	Extension	battre 1 I.3a
+semblable Adj II	Anti	dissemblable
+bombe I.1	Métaphore	bombe II
+traditionnel	S0	tradition
+submerger III.a	Syn	atteindre III.2
+conjointement	Syn	collectivement
+chicot	Syn	dent 1 I.a
+intime Adj II.2	Métaphore	intime Adj II.4
+volée 2	Contr	voleuse I
+fleuri II.2	Anti	fleuri II.1
+manger V I.4a	Syn	mordiller I
+chaton	Gener	animal N I.1a
+accepter 1	Anti	refuser I.1
+retrousser	Syn	remonter I.3
+cigare IV	Syn	bistouquette
+saint Adj I.1	Métaphore	saint Adj III
+câble 1	Extension	câble 2
+guichet 1	S2	cliente
+armoire 1	Magn	armoire normande I
+faute I.1a	Adv2	fautivement
+pluie II.1a	Bon	bienfaisant
+cigare I	Syn	barreau de chaise
+enterrement	Syn	obsèques
+introducteur	Syn	initiateur Adj
+nez I.b	Syn	museau I.1a
+espace N, masc I.2b	Syn	coin III.2
+moulage 2	V0	moudre
+avancer VI	Syn	verser II
+crime I.b	S1	criminelle 1
+éclair 1 II.1	AntiMagn	rapide Adj III.1
+musique I.1a	S1	interprète N, fém II
+élaborer 1	Extension	élaborer 2
+tache de son	Syn	tache de rousseur
+football 1	Sinstr	cage II
+dialogue 1a	Syn	causette
+décliner I	Métaphore	décliner II
+nombre I.1	Extension	nombre I.2
+croupe II	Syn	paire de fesses
+bateau N 1 II	Gener	loisir II
+avocate I	Gener	métier
+bol 1 I.b	Syn	bolée
+dur Adj I	Métaphore	dur Adj II
+baiser V II	A1	porté sur la chose
+enquête I	S1	enquêtrice 1
+Wimbledon I	Métonymie	Wimbledon II
+travailler I.2	S4	alter ego
+formation II	Syn	cours 1 1b
+en compagnie	Anti	sans I.2
+quelqu’un	Syn	qqn
+bourlingueur	Syn	aventurier N
+sommeil I.1a	Oper1	s’éveiller
+bâtiment et travaux publics	Syn	BTP
+rive III	Loc	sur I.1
+haut Adj I.3	Anti	bas Adj I.3
+passablement	Syn	tant bien que mal
+entraîner I.1	Métaphore	entraîner IV
+péage II	S1	automobiliste N, fém
+démarche II.1	Syn	politique N, fém I.2
+excitant Adj	Syn	sexy
+esclave N, masc I	Syn	esclave N, fém
+gouverner	S2	pays I.1c
+cadavre I.a	Syn	macchabée
+Eurasie	A0	eurasien 1
+brebis galeuse	Syn	individu 1
+emporter I.2	Métaphore	emporter II.1
+chleuh Adj I.1	Codérivation	chleuh Adj II
+à II.1	Syn	sur le coup 2
+piquer I.2a	S0	piqûre II
+_N peut toujours courir.	Syn	se faire voir ailleurs
+biclo	Syn	petite reine 1
+profusion	Syn	trésors IV.2
+bouchon 1 IV	Real2	lancer V I.1
+servir III.1	S1	serveur 1
+coupable Adj 1	S1	coupable N, masc
+location 1a	Métonymie	location 2
+course d’obstacles I	Métaphore	course d’obstacles II
+empêcher I.2	Anti	permettre
+sexe féminin I	A1	femelle Adj 2
+méchant Adj I.a	Métonymie	méchant Adj I.b
+famille I.a	Extension	famille I.b
+aller V VI.1	Métaphore	aller V VI.2
+gifle I	Métaphore	gifle II
+banc de jardin	Gener	banc 1 I
+bordel II.2	Métaphore	bordel II.3
+flanquer	Syn	lancer V III
+courir III.1a	Syn	vadrouiller
+fils I	S2	père I.1a
+maire	S3	administrée
+chimie I.1	Contr	physique N, fém
+faire l’amour	Syn	coucher V II
+redressement III	V0	redresser III
+taxer II	Syn	ravir 1
+alcool II.2	Métaphore	alcool IV
+se laver I	Sloc	salle d’eau
+tomber V I.2b	S1	neige I.1
+blouser	Syn	pigeonner 1
+jambe de force I	Métaphore	jambe de force II
+anti- 1	Anti	pro-
+blesser I.1	A2	blessé Adj
+de ministre	Syn	chargé III
+accentuer I.2	S3	accent I.2
+don II	Syn	talent
+bouteille 4	S2	gaz I.1b
+autre part 1	Syn	quelque part I.1
+dessiner I.1	S1	dessinateur
+souder	S0	soudage
+siège I.1	Métaphore	siège IV
+pension II	Syn	pension de famille
+cause I	V0	causer 1 a
+orage I	Anti	beau temps I
+cagoinces b	Syn	gogues b
+hétérosexuel N	Syn	hétérosexuelle
+biberon	Labreal12	nourrir I.2
+champ 1 I.1	S1	paysan N
+germanique Adj I.1a	Codérivation	germanique Adj II.1
+flânerie	Syn	promenade I.a
+près I.2	Syn	aux côtés
+démarrer I.1	Métaphore	démarrer II.1
+entasser I	Métaphore	entasser II
+mésange boréale	Syn	mésange huppée
+domestique Adj II.1b	S1	mouche I
+volaille 1	S1	avicultrice
+placard 1 IV	Syn	voie de garage
+rapport sexuel	Syn	relation intime
+bouchère 1	Extension	bouchère 2
+ouragan II.1	Extension	ouragan II.3
+dormir I.1a	Magn	comme une marmotte
+chat 1 I.b	Gener	animal N I.1a
+extinction des feux II	Sres	extinction des feux I
+bruyère I	Gener	fleur I.2
+dissimilarité	Syn	dissemblance 1
+tempête II.3	Func0	cesser 1
+meuble N I.1b	Magn	massif Adj II
+caboche II	Syn	cerveau I.2
+lit I.1a	Gener	meuble N I.1a
+jeu III.1a	S1	joueur N 1
+autocar	Real2	se déplacer I.2b
+étouffer III	Syn	angoisser 1
+élève N, fém	S2	professeur
+glace II.2	Syn	fond II.1
+ensuite	Contr	d’abord 1
+impression II	V0	imprimer II
+prof N, fém	Syn	prof N, masc
+recevoir II	Syn	aspirer 1 I.3c
+ski II	S1	skieur
+éclair 1 I.1	Func0	briller I.1
+dent 1 I.b	Syn	molaire
+substance I.2	Syn	drogue I
+respirer I	Sinstr	narine 2
+mouche IV	S1	catégorie
+important 1	Extension	important 2
+religion	Adv0	religieusement I
+bien Adv 5a	Extension	bien Adv 5b
+champ 1 IV.1a	Epit	visuel
+wawas b	Syn	tartisses b
+tourner le dos II	Syn	partir 1 I.1b
+faire du gringue	Syn	draguer II
+mou III.2	S0	mollesse III.2
+musulman Adj 1	Extension	musulman Adj 2
+lait I.a	Sloc	seins I.2b
+défendre II.2	S1	avocate II
+manteau I.a	Real1	retirer I.1
+moto II	S1	motocycliste N, fém
+table I.1b	Métonymie	table II.1b
+obstacle I.b	Gener	équipement II.2
+formel 1 II	S0	forme V
+moutard	Syn	enfant N, masc I.2
+alors III	Syn	ben 1 IV
+plonger III	Syn	sombrer II
+déborder I.2	Conv-ij	déborder I.1
+long métrage	Syn	court métrage
+filiale	Syn	entreprise II.1
+armoire 1	Magn	gros Adj III.2
+réaction I.1a	Extension	réaction I.1c
+cheveux I.2a	A1	en Prép III.1
+escalader 3	S2	col III
+chanter I.1b	S1	chanteuse
+successivement	Syn	coup sur coup
+s’entraîner I	Métaphore	s’entraîner II
+affolement	Syn	panique N 2
+se nourrir 1	Syn	s’alimenter 1
+phobie 1	S1	phobique N, masc
+siège I.1	Loc	au fond I
+indispensable	Syn	essentiel Adj II
+médecin N, masc	S2	patient N I
+cabane I	Syn	cahute
+poussin I.b	Gener	oiseau a
+équivalent N	A1	équivalent Adj
+ramasser I.1	Métaphore	ramasser II
+jour III	Contr	fond IV.4
+jouer IV.2a	S2	musique I.1a
+attraper I.1	Extension	attraper I.2
+autoportrait II	Gener	œuvre II.a
+chiffre I.1a	Real1	écrire I
+repas I.1a	Oper1	sauter IV
+plus blanc que blanc N I	Métaphore	plus blanc que blanc N II
+pesage	V0	peser I
+extravagance 2	Syn	excentricité 1 I.2
+coréen Adj 1	Codérivation	coréen Adj 2c
+fermer I.1	Extension	fermer I.2a
+drame II	S1	auteur II.a
+petit à petit	Syn	pièce à pièce
+poison	A0	toxique Adj I
+récoltable	S1	légume I.1a
+père I.1b	Mult	parents N 1b
+mélancolie I	Syn	dépression III
+lever l’ancre I	Anti	jeter l’ancre
+toilette I.1a	Sinstr	parure II
+habit I.2a	Syn	robe I.2
+CNCC	Syn	organisation II
+terminus	Syn	arrêt III
+protecteur Adj I	Métaphore	protecteur Adj II
+rousseurs II	Syn	rougeur II
+crade V.1	Métonymie	crade V.2
+sanitaires N II.a	Syn	gogues a
+lessive I	Syn	lavage I.2a
+vent I.1	Func0	souffler I.2
+siège I.1	Sing	dossier
+bouchon 1 I.1a	Fact1	boucher V I.3b
+en Prép I	Métaphore	en Prép III.1
+aire I	Syn	superficie
+scier I	S1	scieuse
+monopoliser II.2	Syn	accaparer II.2
+travail 1 I.1a	Spécialisation	travail 1 I.4
+meurtre	Gener	crime I.a
+frissonner I	S0	frisson I
+ostensible	AntiBon	ostentatoire
+avocat 1 I	S2	cliente
+extraterrestre Adj b	Syn	extraterrestre Adj a
+petit N 1	Extension	petit N 2a
+rebondissement I	Métaphore	rebondissement II
+autoritairement	A0	autoritaire
+mamie II	Syn	grand-mère II
+banc 1 I	Real1	affalé
+creuser I.1	Syn	excaver
+bicyclette I	Real1	se déplacer I.2b
+respirer I	Sinstr	narines 1
+malencontreusement	Syn	mal Adv II
+librairie 1	S1	libraire N, masc
+invalide Adj II	Anti	valide II.a
+douche II.1	Sing	bac 2 I
+ennemi public numéro un	Syn	ennemi public
+total N	Smod	addition I.2
+glisser II.2	Syn	tomber V III.1
+retenir III	Syn	mémoriser
+derrière N II	Syn	fessier N 2
+morceau I.1a	Métaphore	morceau I.3
+pollution I.1	Extension	pollution I.2
+mère 1 I.1a	Syn	procréatrice
+diluer	Syn	allonger 1 III
+CGI	Syn	Code général des impôts
+parc I.1	Equip	aire de jeux I
+peuple II.1	S1	citoyen N
+autre part 1	Extension	autre part 2
+champ 1 II.1	Métaphore	champ 1 II.2
+poitrine 2	S2	porc I.2
+vin I.1	AntiBon	piquette I
+renardeau	Syn	renarde
+baver	Syn	saliver
+chien I.a	Extension	chien I.b
+aimer I.1	Epit	d’amour I
+tempête II.1	Minus	apaiser 3
+terrestre II.2a	Syn	terrien Adj I
+vite 1	Magn	ventre à terre
+étouffé III.a	Syn	contenu Adj
+enfant N, masc I.2	Sloc	enfance I
+précipitation III	Epit	atmosphérique
+attentat I	V0	attenter
+aînesse	S2	puîné N
+poignée II	Syn	prise II.2
+continent II	Syn	rivière II.b
+prononciation I	Métonymie	prononciation II
+matin	A0	matutinal
+gémir I.1	Extension	gémir I.2
+cocotte III	Syn	poule 1 II
+ravir 1	Syn	faire main basse
+éducation a	S2	éducateur N 1
+paysannerie	Syn	paysannat
+critiquer	Syn	tailler une veste
+coco N, masc 2	Syn	communiste N, masc
+piano I	Real1	jouer IV.1
+phénomène atmosphérique	Syn	tempête I.1
+bateau N 1 I	Equip	pilote N, masc 2
+courir VIII.1	Syn	s’étaler
+rebondir II.1	S0	rebond II
+faire chambre à part	Syn	faire lit à part
+peau I.1b	S1	animal N I.1a
+courir IV.2	Syn	rechercher II
+concentration I.1	Codérivation	concentration II
+prince	Syn	princesse
+céder I.1	Extension	céder I.2
+dossier	S1	chaise I
+courriel I	S1	expéditrice
+chaussure II	S1	ouvrière
+politicien N	AntiBon	politicard N
+trompette N, fém II	Gener	musicien N
+innocent Adj II	Anti	coupable Adj 1
+hygiène I	Syn	propreté I
+animalité II	A0	animal Adj II
+promenade I.b	S2	cour I
+cosmétique Adj I.1a	Métonymie	cosmétique Adj I.1b
+météorologue N, fém	Syn	météorologue N, masc
+dangereusement	Syn	sur un volcan
+anachorète N, masc	Syn	ermite N, masc I
+prune	Sloc	prunier
+maladie I.1a	Syn	virus I
+immortelle	Syn	immortel N
+voler 1 I.2	S1	aéronef
+râteau I	Métaphore	râteau II
+père I.1a	Magn	famille nombreuse
+chimie I.1	Gener	discipline I
+sourd Adj II	S1	bruit I
+débuter I.1	S0	début I.1
+tennis N, masc I.2	Oper1	se faire II.1
+voiture 2a	Syn	berline II
+demi-tour	Syn	volte-face I
+nettoyer II.2	S1	chirurgien
+réserver II	Syn	préparer II
+après Prép II	Anti	avant Prép II.1
+fracturé	Syn	froissé II
+goût III.2	AntiBon	mauvais Adj I.1a
+super Adj	Syn	bien Adj I,1
+trafic 2	Syn	circulation I
+casser les pieds	Syn	énerver a
+aboutir III	Syn	arriver I.1
+lessivier Adj	S0	lessive II.1
+se tenir IV	Syn	tenir la route II
+prince de Galles I	Gener	prince
+trayeuse	S2	lait I.a
+noir II	Syn	de couleur
+roi du pétrole	Syn	individu 1
+intéressant	Syn	goûteux II
+Il y a une limite à tout.	Syn	Ça suffit.
+mal N III.1	Métaphore	mal N IV.1
+divorce I	Caus	divorcer I
+matière noire	Gener	matière I.1b
+faux-cul N, masc	Syn	hypocrite N, masc
+forme III.1	A1	en Prép II.a
+assis I.1a	Pred	se mettre I
+au bec	Syn	à la bouche
+aube 1 I	Loc	à II.1
+ailleurs 1	Syn	quelque part I.1
+lac II.1b	S1	liquide N I.a
+tisane II	Syn	thé II
+teub	Syn	cigare IV
+goguenots a	Syn	cabinet d’aisances a
+imbécillité II	Syn	bêtise II.2
+angélique 1	Métaphore	angélique 2
+avion I	Fact0	se poser I.2
+clafoutis	Gener	gâteau I.a
+criminel N	Real@	défendre II.1
+analogie a	Syn	similarité
+concevoir	S0	conception I
+miracle 2	Adv1	par II.1
+muscles I.1b	Magn	hypertrophié
+thermomètre I.1	Métaphore	thermomètre II
+prédateur N	Fact1	dévorer I.1
+signer	S0	signature I
+canard 1 I.a	Métaphore	canard 1 III
+Dis donc 2	Syn	quand même 2
+football 3	S1	joueur N 2
+exaspération	Syn	ras-le-bol a
+prédateur Adj	S1	prédateur N
+médecin N, masc	S2	patiente
+unité de mesure	Syn	unité IV
+douche II.1	Fact0	couler I.3b
+flanc I	Métaphore	flanc II
+contradictoirement	A0	contradictoire I
+aller V IV	Syn	réaliser I
+bouffer 1 IV.2	Syn	avaler V
+vélo d’appartement 2	Oper1	faire II.1
+s’emmêler les pinceaux	Syn	se contredire
+cracra VI.1	Extension	cracra VI.2
+ami N I.2	Labor21	avoir V II
+y aller III	Syn	s’agir 1
+cheveux I.2a	Real1	brosser 1 I
+périr	Syn	casser sa pipe
+ongulaire	S0	ongles 1
+monument	Syn	mémorial
+tramway I	Métonymie	tramway II
+formidable a	Adv0	formidablement a
+obstruer	Syn	boucher V I.3b
+méthode de calcul	Gener	méthode
+lever V I	S0	levage I
+fondateur N	Syn	fondatrice
+téléphone I	Syn	mobile N 2 I
+spectacle I	S2	spectateur I
+enseigner I	Syn	apprendre I.2b
+saisir I	Métaphore	saisir II
+cousin 1 II	AntiMagn	lointain Adj III
+crime I.b	Real@	réprimer II
+restaurant	S2	plat N II
+sauciflard	Syn	saucisse sèche
+se vêtir	Syn	s’habiller 1
+tranquille II	Métonymie	tranquille IV
+s’emparer II.1	Syn	s’approprier II
+démarrer I.1	Anti	s’arrêter I.1
+en compagnie	Syn	avec I.2
+comptoir I.1a	Syn	étal
+bouchon 1 I.2	Real1	enlever I.1
+ami N I.1	Magn	proche Adj III.1a
+vague N, fém I	Fact2	submerger II
+table I.2	Real1	préparer I.1
+extérieur Adj I	Anti	intérieur Adj I
+savant N	Syn	savante
+seins I.2a	Gener	partie du corps
+indiscret Adj	Adv0	indiscrètement
+commodités II.2a	Syn	toilettes III.1a
+terre III.1	Extension	terre III.2
+cadenasser	Syn	verrouiller
+rossignol	Gener	oiseau a
+emploi II.a	V0	employer II
+entreprise I	V0	entreprendre
+curé	Syn	abbé 1
+baguette magique	S1	mage
+bienheureux Adj I	Syn	extatique 2
+braquemart	Syn	pine
+coude I	A0	cubital
+incolore II.2	Syn	quelconque II
+mille Num 1b	Extension	mille Num 1c
+entreprise II.1	Syn	coopérative
+cynoglosse	Gener	plante 1
+à-coup	Syn	saccade
+employer I	A2	employé Adj
+salement III.1	Anti	proprement III.1
+cracra I.2	Syn	cradingue I.2
+basket N, masc 1	S1	joueur N 2
+marque I	Syn	empreinte I.1a
+plaie I	Métaphore	plaie II.1
+poupe	Anti	proue
+sweat	Syn	sweat-shirt
+honteux I	Able2	honteux II.1
+arrêter III.1a	Métaphore	arrêter IV.1
+obstacle II	Syn	difficulté II
+photographe N, masc	Fact@	photographier
+liquidation II	Syn	paiement I
+gastrique	Syn	stomacal
+accéder I	S0	accès I.1
+gymnastique N I.2	Epit	petit Adj IV
+water-closet a	Syn	tartisses a
+homogénéité I.1	A1	homogène I.1
+chuter II	S0	chute IV
+gencives 2	Syn	mâchoire I.2
+voile N, masc III	Syn	mystère
+myosotis II	Gener	coloré I.1
+dentifrice 2	S1	tube II.a
+vaincre	S2	vaincu N
+rapide Adj III.1	Adv0	rapidement II.1
+grouiller 2	Syn	fourmiller
+cadre 1 IV.1	Syn	lieu 2
+bouffer de la vache enragée	Syn	manger de la vache enragée
+triangle I.1b	A1	en Prép II.a
+tricycle N	Real1	descendre IV
+colline I	AntiMagn	petit Adj I.1
+verrou I	Real1	mettre III
+observation II	V0	observer III
+Vierge Mère	Syn	Mère de Dieu
+fibre I.1a	Spécialisation	fibre I.1c
+vigneron	Syn	vigneronne
+judo	Syn	aïkido
+canapé I	Loc	dans I.2
+délacer	Anti	lacer
+cimetière des éléphants I	S1	éléphant I
+enseignement I.1	V0	enseigner I
+combattre I.1	Codérivation	combattre II
+combat I.1	Extension	combat I.3a
+long Adj II.2	Plus	agrandir III
+variété II	Syn	essence II
+fonctionnaire N, fém	Syn	fonctionnaire N, masc
+nostalgie I	Magn	poignant
+baisser I.1	Métaphore	baisser II
+conducteur I.a	S2	véhicule II
+maladie I.1a	Syn	rhume
+fou N I	Métaphore	fou N IV
+pineraie	Syn	pinière
+galop I	Syn	course 1 I
+maisonnette	Gener	habitation II
+cheval I.1a	S1	palefrenière
+sanitaires N II.b	Syn	water-closet b
+condition II.1	Extension	condition II.2
+séant N	Syn	panier III
+saisir III	Syn	prendre VIII
+véhicule roulant	Syn	deux-roues
+pouvoir N I	Métaphore	pouvoir N IV
+clé I.3	S1	robinet I
+contredire	A0	contradictoire I
+paradisiaque	S0	paradis I
+réserve II	Syn	parc naturel
+ne pas l’entendre de cette oreille	Syn	refuser I.1
+au chaud I	Pred	rester II
+gronder I.2	Syn	grogner I
+receveur	Syn	bac 2 I
+évadé	Syn	évadée
+s’alimenter 1	Syn	casser la graine
+garniture	Syn	accompagnement IV
+costume I.2	Real1	porter IV
+bon pied bon œil	Syn	forme III.1
+geler I.2a	Smed	froid N
+revoir	Syn	voir I.2
+bateau N 1 I	Fact0	accoster
+raccourcir I	Métaphore	raccourcir II
+deuxième articulation	Gener	niveau d’articulation
+tourbillonner	Syn	tourner III
+trio II	Syn	triangle IV.2
+hebdo	Syn	hebdomadaire N
+assemblée II.1	Extension	assemblée II.2
+nez I.a	Loc	à I.2
+extracteur 1	Gener	appareil I.1
+rose 1 a	Syn	rose fuchsia a
+aboutir I	Syn	s’achever II
+travail 1 I.2	Syn	emploi II.a
+coup de barre I	Syn	passage à vide II
+coup III.1	Extension	coup III.2
+W.-C. a	Fact0	hors service
+interpeler III	S1	policier N
+piqué Adj	Syn	mauvais Adj I.1b
+carré Adj V	Syn	tranché II
+dent 1 I.a	A0	dentaire
+phishing	Syn	hameçonnage
+orgueil 1	Syn	ego I.1
+table II.1a	Bon	délicieux
+piquant N	Syn	épine 1
+critiquer	Syn	cracher dans la soupe
+petite-fille	Gener	parente
+casser la croûte	Syn	casser la graine
+alto N	S1	altiste N, masc
+madame tout le monde	Syn	n’importe qui
+à l’heure II	Syn	en temps et en heure
+client	Syn	cliente
+biroute	Syn	zigounette
+frais Adj I	S0	fraîcheur I
+poitrine 3	Magn	plantureux II
+hostilités II.1	Extension	hostilités II.2
+falzar	Syn	fut
+aller V III.2b	Syn	oser
+autoroute II	Oper1	faire II.1
+fiston	Syn	fils I
+explication I.2	V0	expliquer I.2
+foi 2	S1	croyante
+marche 1 V.1a	S1	escalier
+la queue entre les jambes	A1	penaud
+épaules I.1a	Métaphore	épaule III
+aiguille II.1	Syn	pic II
+établissement II	Métonymie	établissement III
+péter I	S1	péteuse
+obéir I.1	S0	obéissance
+belladone II	Mult	belladone I
+montrer II	Métaphore	montrer III
+équatorial	S0	équateur
+tenir la route II	Syn	marcher VII
+rue I	Syn	quai I.2
+maçon N	Syn	maçonne
+ressembler I.1	AntiMagn	de loin
+cisailler II	Syn	scier II
+se doucher	Sinstr	douche II.1
+européen Adj I.1	Extension	européen Adj I.2
+flottement	V0	flotter V.2
+articuler 2 a	Smod	articulation 2 I
+casser les couilles	Syn	irriter II
+averse I	Syn	chute III
+inconscient Adj I	Anti	conscient II
+têtu Adj I.a	Anti	souple III
+réaction I.1a	Métaphore	réaction II.1
+asseoir III	S0	assiette 2 IV
+téléphoner	Sinstr	téléphone I
+furibard	Syn	furieux I
+n’importe quoi I.1	Spécialisation	n’importe quoi I.2
+buffet II.1	Real1	dresser III.1
+habiller 2	Syn	équiper
+récoltable	S1	fruit I.2
+mal N I.1	Extension	mal N II.1
+verge	Syn	braquemart
+près I.1	Syn	à proximité
+assis III.1a	Magn	solidement II
+poser II	S1	installateur
+irréparable	Anti	réparable
+rugbystique	S0	rugby 1
+illustrer I.1	A2	illustré
+invalide Adj I	Métaphore	invalide Adj II
+grâce Prép	Syn	à l’aide
+publier I	Syn	éditer I
+collection I.b	S1	musée
+phénomène atmosphérique	Syn	tempête I.2
+vêtements I.2	Prepar	repasser II
+chaussettes I	Métaphore	chaussette II.1
+électronique N	S1	électronicien
+vélo I	Real1	avoir l’air d’un crapaud sur une boîte d’allumettes
+peaufiner	Syn	finir II.2
+se déplacer I.2c	Syn	se décaler II
+résolution I	V0	résoudre I
+à propos 2	Magn	fort Adv II.2
+de longue date	Syn	de toujours
+simple Adj I.1	Anti	complexe Adj
+cafardeux I	Syn	déprimé
+plein N II	Sloc	station-service
+règlement I	Codérivation	règlement II
+accord 2	Syn	convention
+parfaitement I	Métaphore	parfaitement II.2
+curieuse	Syn	questionneur N
+ceinture I.1	Extension	ceinture I.2
+recourir II	Syn	user II
+détérioré	Syn	endommagé
+concert II.1	Fact0	s’élever IV
+escalade 3	V0	escalader 3
+remarquer	Syn	noter III
+croupe II	Syn	pétard II
+par l’entremise	Syn	à l’aide
+café II	Gener	boisson I
+couché I.1a	Pred	se coucher I.2
+jupe I	AntiMagn	ajusté
+fou N II	Syn	malade N, masc II
+éducateur Adj 2	S1	équipe 1
+pansement II	Real1	porter IV
+basket N, masc 2	Syn	partie III.1
+froid N	Anti	chaud N
+chicane I	Métaphore	chicane II
+nénés	Syn	roploplos
+pluie I	Figur	rideau III
+y 1	Syn	là I.1a
+geler II.b	A2	glacé I.2b
+douloureuse	Syn	facture 1 I
+hélice	S1	bateau N 1 I
+cheveux I.2a	Real1	se coiffer II
+tétons 2	Gener	partie du corps
+jumeaux N I.a	A0	gémellaire
+abricot III	Syn	moule N, fém II
+expert 1	Real3	voir I.3
+vautré	Syn	affalé
+niveau I	Métaphore	niveau II
+communiste Adj 2	S1	communiste N, fém
+maître N I.2	Syn	maîtresse I.2
+marche 1 I.3c	Magn	grand Adj III.1
+entreprendre	Syn	se lancer
+former I.1	S2	forme I.1
+nuisible Adj	Syn	dangereux 1
+train 1 I	Fact0	conductrice b
+commodités II.2b	Syn	water-closet b
+paresseux Adj	Adv0	paresseusement
+croisement I	Métaphore	croisement II
+pédaler dans le vide	Syn	dans la semoule 1
+balayer I.1a	S1	balayeur
+tuberculeuse	Gener	malade N, masc I
+grand-mère I	Syn	mère-grand
+à la bonne franquette	Syn	simple Adj III
+français Adj III	S0	français N II
+élever III.a	Syn	éduquer a
+toilettes III.1b	Syn	W.-C. b
+faire long feu I	Syn	s’allumer I
+voiture 1	Prepar	atteler
+tir 1a	S2	cible I.1
+piano I	Func0	facteur 2
+colline I	Anti	vallée I
+enfant N, masc I.2	Syn	petit N 1
+orphelin Adj I.1b	S1	orpheline b
+réflexion	Syn	réverbération I
+langue I.a	Sloc	bouche I.1a
+nuage II.1	Minus	s’évanouir II
+Grèce	A0	grec Adj I
+décoration II.1	V0	décorer II
+défilé I	V0	défiler I.1
+alcool I.1	Gener	substance I.1b
+arrivante	Syn	arrivant
+musique classique I.2	Gener	musique I.2a
+pompe 1 I.2	S1	moteur N
+Nord-Coréenne	Syn	Nord-Coréen N
+médiatique	S0	médias
+dos crawlé	Syn	brasse
+coco N, fém	Syn	coco N, masc 2
+habiller pour l’hiver	Syn	tailler une veste
+goguenots b	Syn	toilettes III.1b
+ennemi N I	Labor21	avoir V II
+cabot	Syn	cador
+nez I.a	Sing	narines 1
+grand-père II	Syn	pépère II
+navigateur II	Syn	logiciel N
+hier 1	Contr	aujourd’hui 1
+sommeil I.1a	Anti	éveil I.2
+brusquement	A0	brusque
+excentricité 1 I.1	Métonymie	excentricité 1 I.2
+frapper VI	Syn	impressionner
+chasser II	Syn	éloigner I
+volley-ball 2	Oper1	faire II.1
+5000 mètres	Syn	10 000 mètres
+déparer	Syn	enlaidir I.1
+un à un	Syn	à la pièce
+rond N	Contr	carré N IV.1
+Quoi de neuf ?	Syn	Comment ça va ?
+régime 1 I.1	Métaphore	régime 1 III
+flexible Adj II	Anti	inflexible II
+laver I.2	S1	blanchisseur
+se déguiser	Syn	se costumer
+franchement III.2	A0	franc Adj 1 III
+bouché II	S1	oreilles I.3
+abonder I	Anti	manquer I.1
+quote-part b	Syn	part I
+amande	Sloc	amandier
+fleuve de lait et de miel	Syn	eldorado
+pompe 1 I.3	S2	produit III
+bien Adv 2b	Anti	un peu II
+rugby 1	S1	joueur N 2
+directeur Adj III	Syn	maître Adj
+se creuser la tête	Syn	se creuser le cigare
+vélo I	Instr	à IV.1a
+waters b	Syn	pipi-room
+soldate du feu	Syn	soldat du feu
+hostile I	Métaphore	hostile II
+sur-mesure	Contr	prêt-à-porter
+ne pas voir la couleur	Anti	trouver I.1
+prise I.1	Extension	prise I.2
+déclaré II	Syn	vrai Adj III
+ami N I.1	Syn	pote N, masc
+par II.1	Syn	en Prép IV.1
+quote-part a	Syn	part I
+léchage	Syn	lèchement
+relever le gant	Anti	jeter l’éponge II
+écartement I	Métonymie	écartement II
+débuter I.1	Métonymie	débuter I.2
+veuf Adj I	S0	veuvage
+monstrueux II	Syn	énorme II
+plein Adj V	Syn	arraché
+mastiquer	Syn	mâcher
+couleur I.1a	Bon	joli Adj
+rivière II.a	Func0	verser I
+incertain	Anti	sûr I
+transformer I.2	Able2	transformable
+à fleur de peau II.a	Syn	intense
+asséner	Syn	balancer I
+rater IV	S1	ratée
+jambes I.1	Real1	courir I.1a
+escarpé	Anti	doux IV
+visiteuse II	Syn	visiteur II
+tailler 1 I.1	Extension	tailler 1 I.2
+photo N I	Métonymie	photo N II
+conjoncture b	Epit	économique
+accrochage	V0	accrocher I
+supporter N, masc 1	Syn	supporter N, fém
+vrai Adj I.1	Syn	exact I.1
+escroc I	Syn	malfrat
+tempête dans un verre d’eau	Syn	désaccord
+cigarette I	Func0	rouler 1 III.2
+nouveau Adj I	Syn	neuf Adj I
+tomber V I.1	Syn	piquer du nez II.1
+rapidement I	Métaphore	rapidement II.1
+car Conj 1	Syn	alors II
+médecin N, masc	Syn	docteur 2
+stocker II	Syn	garder I.a
+chaise à bascule	Syn	fauteuil à bascule
+droit N I.1	Extension	droit N I.3
+toilier N	Syn	toilière N
+Tournoi des six nations	Gener	évènement sportif
+nord-coréen Adj 2	S1	Nord-Coréen N
+journaliste N, masc	A0	journalistique
+petit coin	Syn	goguenots b
+roman	S1	romancier
+mère 1 IV.2	Syn	source II
+sale Adj V.1	Anti	propre Adj 1 II.1
+têtu Adj I.a	Anti	flexible Adj II
+piéton Adj	S0	piétonne
+banc 1 III.1	Loc	sur I.1
+nuque	Syn	épaules I.1a
+avocate I	Fact0	exercer II.2
+voter I	S0	vote I
+sprinteuse	Syn	sprinter N
+cuillère a	Contr	fourchette I
+sentir III	Syn	cogner VI
+affrioler 2b	Qual3	séduisant I
+hollandais Adj I.1	S0	Hollande
+étron	Syn	crotte I
+vertical I	Métaphore	vertical II
+transportable	Syn	déplaçable I
+nuage II.1	Func0	disperser
+face N II.1	Syn	côté I.1
+éclair 1 I.1	Métaphore	éclair 1 I.2
+écologique I.2	Syn	vert VII.3
+kiwi 2 I	Gener	oiseau a
+crado I.1	Syn	dégueulasse I.1
+orphelin N I.b	Syn	abandonné N, masc I
+année 1a	Syn	année 2a
+ski II	Syn	ski à roulettes II
+comme on respire	Syn	naturellement II
+faire chier	A1	chiant 2a
+artificiel	Adv0	artificiellement
+malfaiteur	Syn	malfaitrice
+entrer I.1	Syn	se glisser
+en réalité	Syn	en fait
+mail I	Syn	courrier électronique I
+personnel N a	Bon	compétent
+antenne II.1	Func0	installer II.1
+corps électoral	Syn	électorat
+commun 2	Syn	universel II
+élément I.2	Syn	élément I.1
+attitude II.2	Oper1	manifester 1
+lapin 1 I.b	Gener	viande
+ennemi N I	Fact2	détester
+détenteur	Syn	détentrice
+vieux Adj II	Syn	de longue date
+villageoise	Syn	villageois N
+industrie a	A0	industriel Adj
+mère-grand	Syn	mamie I
+fuite	S1	fugitif N
+bon Adv	Anti	mauvais Adv
+placard 1 III	Oper1	être V II
+dette	Liqu	supprimer 2
+arriver III.2	Métaphore	arriver III.1
+canner	S2	fauteuil I
+hélicoptère	Fact0	atterrir
+renvoyer I	Métaphore	renvoyer IV
+succinct I	Syn	concis
+vent I.1	Magn	impétueux
+petit Adj III.3a	Anti	grand Adj III.3a
+ami N I.2	Anti	conjoint N
+sommeil I.1a	Oper1	tomber V IV.2a
+jardinière	Syn	main verte 2
+médaille I	Syn	prix II
+carafe II	Syn	cigare III.1
+Eh bien	Syn	ben 1 IV
+placer III	Syn	avoir V II
+oreilles I.1a	Magn	grand Adj I.1
+en portefeuille	Pred	mettre III
+rivière I	Métaphore	rivière II.a
+marcher I.1b	Syn	nager I.a
+serviette I.2	Real1	essuyer I.2
+bouchon 1 I.1a	Métaphore	bouchon 1 III
+s’orienter III	Syn	aller V III.1
+parfumé	Syn	odorant
+dévorer I.1	S1	dévoreur N I
+tabac 1 I.2	Real1	priser
+frangine	Syn	sœurette
+escalade 1	V0	escalader 1
+blond I.a	S0	blond I.b
+vin I.1	Extension	vin I.2
+aiguille I.1	Extension	aiguille I.2
+dent 2	Syn	rancune
+gros Adj III.1	Métaphore	gros Adj IV.1
+empêcher II	Syn	arrêter III.1b
+orphelin Adj I.1b	Syn	orphelin Adj I.1a
+cigarettier b	Syn	fabricant b
+branchage	Sing	branche I
+furieux I	Syn	furibond
+chipoter III.1	Syn	énerver a
+chien III	Prepar	désarmer
+dégueulasse IV.1	Syn	craspec III
+se bouger	Syn	se sortir les doigts du cul
+chiffre I.2	Plus	augmenter I
+cabinets I.2a	Syn	sanitaires N II.b
+enthousiasme b	S1	enthousiaste N, masc b
+britannique Adj II	S1	Britannique N, masc
+désargenté	Syn	à sec II
+bénéficiaire N, fém	Syn	bénéficiaire N, masc
+réjouir	Anti	déprimer II.1
+prose 2	Syn	style I
+tuberculeux Adj	S1	tuberculeux N
+frisson II.2	A1	frissonnant II.2

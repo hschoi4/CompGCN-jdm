@@ -2,7 +2,7 @@ from helper import *
 from tqdm import tqdm, trange
 from data_loader import *
 import wandb
-from carbontracker.tracker import CarbonTracker
+# from carbontracker.tracker import CarbonTracker
 import numpy as np
 from collections import Counter
 
@@ -364,7 +364,7 @@ class Runner(object):
             -------
         """
 
-        state             = torch.load(load_path)
+        state             = torch.load(load_path, map_location=self.device)
         state_dict        = state['state_dict']
         self.best_val     = state['best_val']
         self.best_val_mrr = self.best_val['mrr']
@@ -415,7 +415,7 @@ class Runner(object):
             }, step=epoch)
         return results
 
-    def predict(self, split='valid', mode='tail_batch'):
+    def predict(self, split='valid', mode='tail_batch', report_all:bool = True):
         """
             Function to run model evaluation for a given mode
 
@@ -423,16 +423,20 @@ class Runner(object):
             ----------
             split: (string) 	If split == 'valid' then evaluate on the validation set, else the test set
             mode: (string):		Can be 'head_batch' or 'tail_batch'
+            report_all: (bool): If true, we return individual metric scores as well
 
             Returns
             -------
             resutls:			The evaluation results containing the following:
                 results['mr']:         	Average of ranks_left and ranks_right
                 results['mrr']:         Mean Reciprocal Rank
-                results['hits@k']:      Probability of getting the correct preodiction in top-k ranks based on predicted score
+                results['hits@k']:      Probability of getting the correct prediction in top-k ranks based on predicted score
 
         """
         self.model.eval()
+
+        if report_all:
+            all_ranks = torch.Tensor()
 
         with torch.no_grad():
             results = {}
@@ -448,6 +452,10 @@ class Runner(object):
                 ranks           = 1 + torch.argsort(torch.argsort(pred, dim=1, descending=True), dim=1, descending=False)[b_range, obj]
 
                 ranks           = ranks.float()
+
+                if report_all:
+                    all_ranks = torch.cat([all_ranks, ranks.clone().detach().cpu()], dim=0)
+
                 results['count']    = torch.numel(ranks)        + results.get('count', 0.0)
                 results['mr']       = torch.sum(ranks).item()   + results.get('mr',    0.0)
                 results['mrr']      = torch.sum(1.0/ranks).item()   + results.get('mrr',   0.0)
@@ -457,7 +465,11 @@ class Runner(object):
                 if step % 100 == 0:
                     self.logger.info('[{}, {} Step {}]\t{}'.format(split.title(), mode.title(), step, self.p.name))
 
+        if report_all:
+            return results, all_ranks
+
         return results
+
 
     def run_epoch(self, epoch, val_mrr = 0):
         """
@@ -516,12 +528,12 @@ class Runner(object):
 
         kill_cnt = 0
 
-        tracker = CarbonTracker(epochs=self.p.max_epochs, log_dir=self.p.log_dir, log_file_prefix="carbontracker")
+        # tracker = CarbonTracker(epochs=self.p.max_epochs, log_dir=self.p.log_dir, log_file_prefix="carbontracker")
 
         for epoch in range(self.p.max_epochs):
-            tracker.epoch_start()
+            # tracker.epoch_start()
 
-            train_loss  = self.run_epoch(epoch, val_mrr)
+            # train_loss  = self.run_epoch(epoch, val_mrr)
             val_results = self.evaluate('valid', epoch)
 
             if val_results['mrr'] > self.best_val_mrr:
@@ -541,14 +553,14 @@ class Runner(object):
 
             self.logger.info('[Epoch {}]: Training Loss: {:.5}, Valid MRR: {:.5}\n\n'.format(epoch, train_loss, self.best_val_mrr))
 
-            tracker.epoch_end()
+            # tracker.epoch_end()
 
         self.logger.info('Loading best model, Evaluating on Test data')
         self.load_model(save_path)
         test_results = self.evaluate('test', epoch)
         pprint(test_results)
 
-        tracker.stop()
+        # tracker.stop()
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Parser For Arguments', formatter_class=argparse.ArgumentDefaultsHelpFormatter)

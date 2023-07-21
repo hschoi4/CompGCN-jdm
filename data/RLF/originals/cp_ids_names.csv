@@ -1,0 +1,13 @@
+id	name
+ls:fr:cptype:3	Causation
+ls:fr:cptype:6	Résultat
+ls:fr:cptype:7	Conversion
+ls:fr:cptype:4	Spécialisation
+ls:fr:cptype:12	Généralisation
+ls:fr:cptype:5	Extension
+ls:fr:cptype:9	Intersection
+ls:fr:cptype:10	Antiphrase
+ls:fr:cptype:2	Métonymie
+ls:fr:cptype:1	Métaphore
+ls:fr:cptype:11	Grammaticalisation
+ls:fr:cptype:8	Codérivation

@@ -64,17 +64,35 @@ def filter_set(df, train):
 
     return df
 
+def filter_cp(df, cp, export, name):
+    """
+        Remove copolysemy edges in train, valid, test sets
+    """
+    df.columns = ["h", "r", "t"]
+    df_ = df.loc[~df["r"].isin(cp['name'].tolist())]
+
+    if export:
+        df_.to_csv(f'data/RLF/lf/{name}.txt', index=False, sep="\t", header=False)
+
+    return df_
+
 
 if __name__ == '__main__':
 
 
-    df_triplets = pd.read_csv("data/RLF/all_triplets_with_labels.txt", sep="\t", index_col=False)
+    df_triplets = pd.read_csv("data/RLF/all_triplets.txt", sep="\t", index_col=False)   #all triplets in RLF
+    df_cp = pd.read_csv("data/RLF/originals/cp_ids_names.csv", sep="\t")                #list copolysemy relations
 
-    rlf, rlf_nodes = split(df_triplets, 20, True, RLF_PATH)
+    rlf, rlf_nodes = split(df_triplets, 20, False, RLF_PATH)
 
     filter_valid = filter_set(rlf.valid, rlf.train)
     filter_test = filter_set(rlf.test, rlf.train)
 
-    rlf.train.to_csv("data/RLF/train_20_labels.txt", index=False, header=False, sep="\t")
-    filter_valid.to_csv("data/RLF/valid_20_labels.txt", index=False, header=False, sep="\t")
-    filter_test.to_csv("data/RLF/test_20_labels.txt", index=False, header=False, sep="\t")
+    rlf.train.to_csv("data/RLF/lf-cp/train.txt", index=False, header=False, sep="\t")
+    filter_valid.to_csv("data/RLF/lf-cp/valid.txt", index=False, header=False, sep="\t")
+    filter_test.to_csv("data/RLF/lf-cp/test.txt", index=False, header=False, sep="\t")
+
+
+    train_lf = filter_cp(rlf.train, df_cp, False, 'train')
+    valid_lf = filter_cp(filter_valid, df_cp,False, 'valid')
+    test_lf = filter_cp(filter_test, df_cp, False, 'test')

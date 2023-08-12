@@ -77,10 +77,10 @@ def get_vanilla_pred(model: Runner,
         rel = [rel, rel]
 
     # Now we're ready
-    t_sub = torch.tensor(sub, dtype=torch.int32)
-    t_rel = torch.tensor(rel, dtype=torch.int32)
+    t_sub = torch.tensor(sub, dtype=torch.int32, device=model.device)
+    t_rel = torch.tensor(rel, dtype=torch.int32, device=model.device)
     model.model.eval()
-    with torch.no_grad:
+    with torch.no_grad():
         op = model.model.forward(t_sub, t_rel)[0].detach().cpu()
     return op
 
@@ -161,11 +161,11 @@ def get_predictions_dum(*args, **kwargs):
 
 # noinspection PyTypeChecker
 def run(
-        datasetname: str = 'RLF/lf',
-        checkpointname: str = './checkpoints/compgcn-conv-rlffam',
+        datasetname: str = 'RLF/lf-cp',
+        checkpointname: str = './checkpoints/rlf-lf-cp_dropout',
         n_samples: int = 100,
         save_every: int = 100,
-        gpu: str = '-1'
+        gpu: str = '0'
 ):
     args = {'name': 'testrun',
             'dataset': datasetname,
@@ -214,7 +214,7 @@ def run(
     random.seed(42)
 
     # Step 1: Try to load dataframes for this dataset
-    pathdir = Path('./mc_dropout') / Path(checkpointname).name
+    pathdir = Path('./mc_dropout_new') / Path(checkpointname).name
     try:
         df = pd.read_pickle(pathdir / 'graph.pickle')
     except FileNotFoundError:
@@ -285,7 +285,7 @@ def run(
             "mc_dropout": mcd_preds,
             "vanilla": torch.vstack(vanilla_preds)
         }, pathdir / f"{batch_i + save_every}.torch")
-        del mcd_pred, mcd_preds, vanilla_preds
+        del mcd_preds, vanilla_preds
 
 
 if __name__ == '__main__':

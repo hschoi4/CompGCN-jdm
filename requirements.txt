@@ -1,5 +1,10 @@
-torch==1.4.0
+torch
 ordered_set==3.1
-numpy==1.16.2
+numpy
 torch_scatter==2.0.4
 scikit_learn==0.21.1
+
+tqdm
+pandas
+my-torch
+matplotlib

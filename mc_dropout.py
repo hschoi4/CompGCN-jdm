@@ -11,7 +11,8 @@ But you add some noise (in the form of dropout) and do repeated inference.
 Dropout makes some parameters of the model zero so some neurons don't work. This is done randomly.
 So let the model be defined by a specific set of $M$ parameters $\theta^t \in \mathcal{R}^M$.
 
-Implementing dropout can be defined as randomly sampling a mask from a binary space of the same dimensions: $m \in \{ 0,1 \}^M$.
+Implementing dropout can be defined as randomly sampling a mask from a binary space of the same dimensions:
+    $m \in \{ 0,1 \}^M$.
 
 We can get a new set of parameters of the model by doing a hadamard product between the parameters and the mask by
 $\theta_d^t = \theta^t \odot m$
@@ -36,17 +37,19 @@ Get a matrix of nument x 100
 A .8 softmax score of 95% means a particular entity gets a softmax of 0.8 95% of the times or more
 
 """
+import random
 import time
-from run import Runner
-from mytorch.utils.goodies import FancyDict
-from matplotlib import pyplot as plt
+from pathlib import Path
+from typing import Union, Optional
+
 import numpy as np
 import pandas as pd
-from tqdm.auto import tqdm, trange
 import torch
-import random
-from pathlib import Path
-from typing import Union, Optional, Dict
+# noinspection PyPackageRequirements
+from mytorch.utils.goodies import FancyDict
+from tqdm.auto import trange
+
+from run import Runner
 
 
 def enable_dropout(model: torch.nn.Module):
@@ -56,7 +59,34 @@ def enable_dropout(model: torch.nn.Module):
             m.train()
 
 
+def get_vanilla_pred(model: Runner,
+                     sub: Union[str, int],
+                     rel: Union[str, int]
+                     ):
+    if type(sub) != type(rel):
+        raise TypeError(f"Both subject (type: {type(sub)}) and relation (type: {type(rel)})"
+                        " should be of the same type")
+
+    if type(sub) == str:
+        sub = model.ent2id[sub]
+        sub = [sub, sub]
+        rel = model.rel2id[rel]
+        rel = [rel, rel]
+    elif type(sub) == int:
+        sub = [sub, sub]
+        rel = [rel, rel]
+
+    # Now we're ready
+    t_sub = torch.tensor(sub, dtype=torch.int32)
+    t_rel = torch.tensor(rel, dtype=torch.int32)
+    model.model.eval()
+    with torch.no_grad:
+        op = model.model.forward(t_sub, t_rel)[0].detach().cpu()
+    return op
+
+
 # For simplicity's sake we write a cold for loop (no batching) to get results
+# noinspection PyTypeChecker
 def get_predictions(model: Runner,
                     sub: Union[str, int, list],
                     rel: Union[str, int, list],
@@ -103,13 +133,13 @@ def get_predictions(model: Runner,
         raise TypeError(f'Unknown type for sub: {type(sub)}.')
 
     # Now we're ready
-    t_sub = torch.tensor(sub, dtype=torch.int32)
-    t_rel = torch.tensor(rel, dtype=torch.int32)
+    t_sub = torch.tensor(sub, dtype=torch.int32, device=model.device)
+    t_rel = torch.tensor(rel, dtype=torch.int32, device=model.device)
 
     if singular:
-        pred = torch.zeros(2, n, model.p.num_ent, dtype=torch.float32)
+        pred = torch.zeros(2, n, model.p.num_ent, dtype=torch.float32, device=model.device)
     else:
-        pred = torch.zeros(len(sub), n, model.p.num_ent, dtype=torch.float32)
+        pred = torch.zeros(len(sub), n, model.p.num_ent, dtype=torch.float32, device=model.device)
     model.model.eval()
     enable_dropout(model.model)
 
@@ -120,21 +150,23 @@ def get_predictions(model: Runner,
     return pred if not singular else pred[0]
 
 
+# noinspection PyTypeChecker
 def get_predictions_dum(*args, **kwargs):
     # time.sleep(1)
 
-    for i in trange(3, desc="Actual Prediction", leave=False):
+    for _ in trange(3, desc="Actual Prediction", leave=False):
         time.sleep(0.2)
     return torch.randn(100, 26558, dtype=torch.float32)
 
-def run(
-    datasetname:str ='RLF/lf',
-    checkpointname: str = './checkpoints/compgcn-conve-rlffam',
-    n_samples: int = 100,
-    save_every: int = 100,
-    gpu: str = '-1'
-):
 
+# noinspection PyTypeChecker
+def run(
+        datasetname: str = 'RLF/lf',
+        checkpointname: str = './checkpoints/compgcn-conv-rlffam',
+        n_samples: int = 100,
+        save_every: int = 100,
+        gpu: str = '-1'
+):
     args = {'name': 'testrun',
             'dataset': datasetname,
             'model': 'compgcn',
@@ -156,17 +188,17 @@ def run(
             'init_dim': 100,
             'gcn_dim': 200,
             'embed_dim': None,
-            'gcn_layer': 1 ,
-            'dropout' : 0.05	,
-            'hid_drop' : 0.15	,
-            'hid_drop2' : 0.15	,
-            'feat_drop' : 0.15	,
-            'k_w' : 10 	,
-            'k_h' : 20 	,
-            'num_filt' : 200,
-            'ker_sz' : 7 	,
-            'log_dir' : './log/',
-            'config_dir' : './config/',
+            'gcn_layer': 1,
+            'dropout': 0.05,
+            'hid_drop': 0.15,
+            'hid_drop2': 0.15,
+            'feat_drop': 0.15,
+            'k_w': 10,
+            'k_h': 20,
+            'num_filt': 200,
+            'ker_sz': 7,
+            'log_dir': './log/',
+            'config_dir': './config/',
             'trim': False,
             'trim_ratio': 0.00005,
             'use_fasttext': False
@@ -182,7 +214,7 @@ def run(
     random.seed(42)
 
     # Step 1: Try to load dataframes for this dataset
-    pathdir = Path('./mcdropout') / checkpointname
+    pathdir = Path('./mc_dropout') / Path(checkpointname).name
     try:
         df = pd.read_pickle(pathdir / 'graph.pickle')
     except FileNotFoundError:
@@ -203,14 +235,15 @@ def run(
         def row_union(x: pd.Series) -> list:
             res = \
                 set().union(x['train_objs'] if x['train_objs'] != -1 else set()
-                ).union(x['valid_objs'] if x['valid_objs'] != -1 else set()
-                ).union(x['test_objs'] if x['test_objs'] != -1 else set())
+                            ).union(x['valid_objs'] if x['valid_objs'] != -1 else set()
+                                    ).union(x['test_objs'] if x['test_objs'] != -1 else set())
             return list(res)
 
         df = pd.merge(left=tr_groups, right=vl_groups, how='outer', on=['sub', 'rel'])
         df = pd.merge(left=df, right=ts_groups, how='outer', on=['sub', 'rel'])
         df = df.fillna(-1)
         df['all_obj'] = df.apply(row_union, axis=1)
+        df['index'] = df.index
 
         # Save this to disk
         df.to_pickle(pathdir / 'graph.pickle')
@@ -226,29 +259,34 @@ def run(
         last_stored = 0
         print('Found no stored files. Will start from the start')
 
-    df = df.loc[:1400]
-
-    # sublist, rellist = df['sub'].tolist(), df['rel'].tolist()
     for batch_i in trange(last_stored, df.shape[0], save_every, desc=f"Main: {last_stored} onwards:"):
-        preds: Optional[torch.Tensor] = None    # We use this var to keep appending predictions to.
+        # Save {batchsize} predictions (no dropout; default way)
+        # Save {batchsize}*{saveevery} MC Dropout predictions
+        mcd_preds: Optional[torch.Tensor] = None  # We use this var to keep appending predictions to.
+        vanilla_preds = []
 
-        for i in trange(batch_i, batch_i+save_every, desc="In one batch", leave=False):
+        for i in trange(batch_i, batch_i + save_every, desc="In one batch", leave=False):
             try:
                 sub, rel = df['sub'][i], df['rel'][i]
             except (KeyError, IndexError) as e:
                 # we must be over the df limit
                 break
 
-            pred = get_predictions(model, int(df['sub'][i]), int(df['rel'][i]), n=n_samples)   # (n, num_ent)
-            if preds is not None:
-                preds = torch.cat((preds, pred.unsqueeze(0)))               # (i, n, num_ent)
-                del pred
+            mcd_pred = get_predictions(model, int(sub), int(rel), n=n_samples)  # (n, num_ent)
+            vanilla_preds.append(get_vanilla_pred(model, int(sub), int(rel)))
+            if mcd_preds is not None:
+                mcd_preds = torch.cat((mcd_preds, mcd_pred.unsqueeze(0)))  # (i, n, num_ent)
+                del mcd_pred
             else:
-                preds = pred.unsqueeze(0)
+                mcd_preds = mcd_pred.unsqueeze(0)
 
         # Dump this to disk
-        torch.save(preds, pathdir / f"{batch_i+save_every}.torch")
+        torch.save({
+            "mc_dropout": mcd_preds,
+            "vanilla": torch.vstack(vanilla_preds)
+        }, pathdir / f"{batch_i + save_every}.torch")
+        del mcd_pred, mcd_preds, vanilla_preds
 
 
 if __name__ == '__main__':
-    run()
+    run(save_every=100)

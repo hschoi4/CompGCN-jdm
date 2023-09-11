@@ -2,9 +2,10 @@ from helper import *
 from tqdm import tqdm, trange
 from data_loader import *
 import wandb
-# from carbontracker.tracker import CarbonTracker
+from carbontracker.tracker import CarbonTracker
 import numpy as np
 from collections import Counter
+import argparse
 
 
 # sys.path.append('./')
@@ -50,7 +51,7 @@ class Runner(object):
             self.rel2id = {rel: idx for idx, rel in enumerate(rel_set)}
 
         else:
-            # CustomData: RezoJDM16k 
+            # CustomData: RezoJDM16k
 
             self.ent2id = {}
             with open('./data/{}/{}.txt'.format(self.p.dataset, 'entities')) as f:
@@ -68,7 +69,6 @@ class Runner(object):
                     _rel = ' '.join(tokens)
                     self.rel2id[_rel] = _id
 
-        # TODO: 50 years in the future come back and take into account existing reverse relations ,
         self.rel2id.update({rel + '_reverse': idx + len(self.rel2id) for rel, idx, in self.rel2id.items()})
 
         self.id2ent = {idx: ent for ent, idx in self.ent2id.items()}
@@ -124,7 +124,7 @@ class Runner(object):
                     continue
                 vl_transductive.append((s,r,o))
 
-            # Its possibel that vl_transductive has less triples than we need (based on trim ratio)
+            # Its possible that vl_transductive has less triples than we need (based on trim ratio)
             # if so, throw error asking for some change maube bigger ratio
             if len(vl_transductive) < int(len(vl)*trim_ratio):
                 raise ValueError('During trimming; not enough valid triples left. Retry with bigger trim ratio.')
@@ -133,7 +133,6 @@ class Runner(object):
             vln_transductive = np.array(vl_transductive)
             vln_trimmed = vln_transductive[np.random.choice(vln_transductive.shape[0], size=int(len(vl)*trim_ratio), replace=False), :]
 
-            # project hail mary: we dont know whats happening we only know that this just might fucking work
             sr2o = ddict(set)
             for sub, rel, obj in trn_trimmed:
                 sr2o[(sub, rel)].add(obj)
@@ -391,8 +390,9 @@ class Runner(object):
         """
 
         left_results  = self.predict(split=split, mode='tail_batch')
+        print(left_results)
         right_results = self.predict(split=split, mode='head_batch')
-        results       = get_combined_results(left_results, right_results)
+        results       = get_combined_results(left_results[0], right_results[0])
         self.logger.info('[Epoch {} {}]: MRR: Tail : {:.5}, Head : {:.5}, Avg : {:.5}'.format(epoch, split, results['left_mrr'], results['right_mrr'], results['mrr']))
 
         if self.p.use_wandb:
@@ -528,12 +528,12 @@ class Runner(object):
 
         kill_cnt = 0
 
-        # tracker = CarbonTracker(epochs=self.p.max_epochs, log_dir=self.p.log_dir, log_file_prefix="carbontracker")
+        tracker = CarbonTracker(epochs=self.p.max_epochs, log_dir=self.p.log_dir, log_file_prefix="carbontracker")
 
         for epoch in range(self.p.max_epochs):
-            # tracker.epoch_start()
+            tracker.epoch_start()
 
-            # train_loss  = self.run_epoch(epoch, val_mrr)
+            train_loss  = self.run_epoch(epoch, val_mrr)
             val_results = self.evaluate('valid', epoch)
 
             if val_results['mrr'] > self.best_val_mrr:
@@ -553,20 +553,20 @@ class Runner(object):
 
             self.logger.info('[Epoch {}]: Training Loss: {:.5}, Valid MRR: {:.5}\n\n'.format(epoch, train_loss, self.best_val_mrr))
 
-            # tracker.epoch_end()
+            tracker.epoch_end()
 
         self.logger.info('Loading best model, Evaluating on Test data')
         self.load_model(save_path)
         test_results = self.evaluate('test', epoch)
         pprint(test_results)
 
-        # tracker.stop()
+        tracker.stop()
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Parser For Arguments', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
     parser.add_argument('-name',        default='testrun',                  help='Set run name for saving/restoring models')
-    parser.add_argument('-data',        dest='dataset',         default='RezoJDM16k',            help='Dataset to use, default: FB15k-237')
+    parser.add_argument('-data',        dest='dataset',         default='RLF',            help='Dataset to use, default: RLF')
     parser.add_argument('-model',       dest='model',       default='compgcn',      help='Model Name')
     parser.add_argument('-score_func',  dest='score_func',  default='conve',        help='Score Function for Link prediction')
     parser.add_argument('-opn',             dest='opn',             default='corr',                 help='Composition Operation to be used in CompGCN')
